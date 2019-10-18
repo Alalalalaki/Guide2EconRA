@@ -1,0 +1,11 @@
+# editor files
+*.sublime-workspace
+*.sublime-project
+*.iml
+.idea
+
+# OS generated files
+.DS_Store
+Icon?
+Thumbs.db
+
