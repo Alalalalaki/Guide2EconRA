@@ -1,13 +1,11 @@
-# A-Student-s-Guide-to-Efficient-Econ-RA-Work
+# A Student's Guide to Efficient Econ RA Work
 
 ---
 
 ## Lectures
 
 - Hans-Martin von Gaudecker - [Effective programming practices for economists](https://www.wiwi.uni-bonn.de/gaudecker/prog_econ_slides.html#prog-econ-slides)
-
 - Jesús Fernández-Villaverde - [Computational Methods for Economists](https://www.sas.upenn.edu/~jesusfv/teaching.html)
-
 - Richard W. Evans - [Open Source Economics Laboratory (OSE Lab) Boot Camp 2019](https://github.com/OpenSourceEcon/BootCamp2019)
 
   
