@@ -8,7 +8,7 @@
 - Jesús Fernández-Villaverde - [Computational Methods for Economists](https://www.sas.upenn.edu/~jesusfv/teaching.html)
 - Richard W. Evans - [Open Source Economics Laboratory (OSE Lab) Boot Camp 2019](https://github.com/OpenSourceEcon/BootCamp2019)
 
-  
+
 
 ## Python
 
@@ -18,6 +18,7 @@
 - [Introduction to Python for Econometrics, Statistics and Numerical Analysis](https://www.kevinsheppard.com/teaching/python/notes/) - Kevin Sheppard
 - [Data Analysis in Python](http://www.data-analysis-in-python.org/index.html)
 - [Software Carpentry](https://software-carpentry.org/lessons/index.html) 
+- [Modern Pandas](https://tomaugspurger.github.io/modern-1-intro.html)
 
 
 
