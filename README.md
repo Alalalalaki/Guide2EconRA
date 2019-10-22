@@ -10,6 +10,14 @@
 
 
 
+## Mac OS
+
+- [macOS Setup Guide](https://sourabhbajaj.com/mac-setup) (a little bit out-of-date)
+- [The Unix Shell](http://swcarpentry.github.io/shell-novice/) - [Software Carpentry](https://software-carpentry.org/lessons/index.html) (see also python, git, r, etc.)
+- [Corey Schafer's youtube channel](https://www.youtube.com/user/schafer5/videos) (very beginner-friendly videos for almost all basic things about mac, python, git, etc.)
+
+
+
 ## Python
 
 - [QuantEcon](https://python.quantecon.org/)
@@ -17,7 +25,6 @@
 - [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) - Jake VanderPlas (also his [A Whirlwind Tour of Python](https://jakevdp.github.io/WhirlwindTourOfPython/))
 - [Introduction to Python for Econometrics, Statistics and Numerical Analysis](https://www.kevinsheppard.com/teaching/python/notes/) - Kevin Sheppard
 - [Data Analysis in Python](http://www.data-analysis-in-python.org/index.html)
-- [Software Carpentry](https://software-carpentry.org/lessons/index.html) 
 - [Modern Pandas](https://tomaugspurger.github.io/modern-1-intro.html)
 
 
