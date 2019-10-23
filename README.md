@@ -10,9 +10,21 @@
 
 
 
+## Data & Code
+
+- Gentzkow, M., & Shapiro, J. M. (2014). Code and data for the social sciences: A practitioner’s guide. Chicago, IL: University of Chicago.
+- Knittel, C. R., & Metaxoglou, K. (2016). Working with Data: Two Empiricists’ Experience. Journal of Econometric Methods, 7(1).
+- [Coding for Economists: A Language-Agnostic Guide to Programming for Economists](https://scholar.harvard.edu/files/ristovska/files/coding_for_econs_20190221.pdf) - Ljubica Ristovska
+- Schwabish, J. A. (2014). [An economist's guide to visualizing data](https://pubs.aeaweb.org/doi/pdfplus/10.1257/jep.28.1.209). Journal of Economic Perspectives, 28(1), 209-34.
+- [Templates for reproducible research projects](http://hmgaudecker.github.io/econ-project-templates/)
+- Wilson, G., Bryan, J., Cranston, K., Kitzes, J., Nederbragt, L., & Teal, T. K. (2017). [Good enough practices in scientific computing](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510). PLoS computational biology, 13(6), e1005510.
+- [The Plain Person’s Guide to Plain Text Social Science](http://plain-text.co/index.html#introduction) - Kieran Healy
+
+
+
 ## Mac OS
 
-- [macOS Setup Guide](https://sourabhbajaj.com/mac-setup) (a little bit out-of-date)
+- [macOS Setup Guide](https://sourabhbajaj.com/mac-setup) (a little outdated)
 - [The Unix Shell](http://swcarpentry.github.io/shell-novice/) - [Software Carpentry](https://software-carpentry.org/lessons/index.html) (see also python, git, r, etc.)
 - [Corey Schafer's youtube channel](https://www.youtube.com/user/schafer5/videos) (very beginner-friendly videos for almost all basic things about mac, python, git, etc.)
 
@@ -42,27 +54,19 @@
 
 
 
-## Data & Code
-
-- Gentzkow, M., & Shapiro, J. M. (2014). Code and data for the social sciences: A practitioner’s guide. Chicago, IL: University of Chicago.
-- Knittel, C. R., & Metaxoglou, K. (2016). Working with Data: Two Empiricists’ Experience. Journal of Econometric Methods, 7(1).
-- [Coding for Economists: A Language-Agnostic Guide to Programming for Economists](https://scholar.harvard.edu/files/ristovska/files/coding_for_econs_20190221.pdf) - Ljubica Ristovska
-- Schwabish, J. A. (2014). [An economist's guide to visualizing data](https://pubs.aeaweb.org/doi/pdfplus/10.1257/jep.28.1.209). Journal of Economic Perspectives, 28(1), 209-34.
-- [Templates for reproducible research projects](http://hmgaudecker.github.io/econ-project-templates/)
-- Wilson, G., Bryan, J., Cranston, K., Kitzes, J., Nederbragt, L., & Teal, T. K. (2017). [Good enough practices in scientific computing](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510). PLoS computational biology, 13(6), e1005510.
-- [The Plain Person’s Guide to Plain Text Social Science](http://plain-text.co/index.html#introduction) - Kieran Healy
-
-
-
 ## Git
 
 - [git for social science students (not software developers)](https://github.com/kuriwaki/github-demo) - Shiro Kuriwaki
-- [Happy Git and GitHub for the useR](https://happygitwithr.com/) - Jenny Bryan
-- Bryan, J. (2018). [Excuse me, do you have a moment to talk about version control?.](https://peerj.com/preprints/3159.pdf) The American Statistician, 72(1), 20-27.
 - [Version Control for Economists](https://rstudio-pubs-static.s3.amazonaws.com/376054_064091abfb4c4b69929ccdc812a2a5fd.html#workflow) - Wei Yang Tham
 - [Git for Economists](https://www.frankpinter.com/git/) - Frank Pinter
 - [Git and GitHub tutorial](https://github.com/nyupredocs/githubtutorial) - Richard Evans
+- [Git, GitHub, and Version Control](https://julia.quantecon.org/more_julia/version_control.html) - QuantEcon
+- [Happy Git and GitHub for the useR](https://happygitwithr.com/) - Jenny Bryan
+- Bryan, J. (2018). [Excuse me, do you have a moment to talk about version control?.](https://peerj.com/preprints/3159.pdf) The American Statistician, 72(1), 20-27.
 - [git + LaTeX workflow](https://stackoverflow.com/questions/6188780/git-latex-workflow) - stackoverflow
+- [Pro Git book](https://git-scm.com/book/en/v2) - Scott Chacon & Ben Straub
+- [Git Tutorials and Training](https://www.atlassian.com/git/tutorials) - Atlassian
+- [Git & Version Control FAQ](https://www.git-tower.com/learn/git/faq/) - git-tower
 - [Flight rules for git](https://github.com/k88hudson/git-flight-rules/) 
 - [Git for Scientists](https://milesmcbain.github.io/git_4_sci/index.html) - Miles McBain
 
