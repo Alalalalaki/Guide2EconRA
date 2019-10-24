@@ -66,6 +66,7 @@
 - [git + LaTeX workflow](https://stackoverflow.com/questions/6188780/git-latex-workflow) - stackoverflow
 - [Pro Git book](https://git-scm.com/book/en/v2) - Scott Chacon & Ben Straub
 - [Git Tutorials and Training](https://www.atlassian.com/git/tutorials) - Atlassian
+- [GitHub Guides](https://guides.github.com/) - github
 - [Git & Version Control FAQ](https://www.git-tower.com/learn/git/faq/) - git-tower
 - [Flight rules for git](https://github.com/k88hudson/git-flight-rules/) 
 - [Git for Scientists](https://milesmcbain.github.io/git_4_sci/index.html) - Miles McBain
