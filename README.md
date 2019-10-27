@@ -36,8 +36,11 @@
 - [QuantEcon DataScience](https://datascience.quantecon.org/)
 - [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) - Jake VanderPlas (also his [A Whirlwind Tour of Python](https://jakevdp.github.io/WhirlwindTourOfPython/))
 - [Introduction to Python for Econometrics, Statistics and Numerical Analysis](https://www.kevinsheppard.com/teaching/python/notes/) - Kevin Sheppard
+- [NYU-Data-Bootcamp](https://nyu.data-bootcamp.com/)
 - [Data Analysis in Python](http://www.data-analysis-in-python.org/index.html)
 - [Modern Pandas](https://tomaugspurger.github.io/modern-1-intro.html)
+- [Introduction to Python for Science](https://clouds.eos.ubc.ca/~phil/djpine_python/index.html)
+- [Computational Statistics in Python](http://people.duke.edu/~ccc14/cspy/index.html)
 
 
 
@@ -70,6 +73,7 @@
 - [Git & Version Control FAQ](https://www.git-tower.com/learn/git/faq/) - git-tower
 - [Flight rules for git](https://github.com/k88hudson/git-flight-rules/) 
 - [Git for Scientists](https://milesmcbain.github.io/git_4_sci/index.html) - Miles McBain
+- [Collaborative Models in GitHub](http://www.goring.org/resources/project-management.html) - (also [this](https://uoftcoders.github.io/studyGroup/lessons/git/collaboration/lesson/) and [this](https://mozillascience.github.io/working-open-workshop/github_for_collaboration/))
 
 
 
