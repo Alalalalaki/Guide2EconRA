@@ -7,7 +7,7 @@
 - Hans-Martin von Gaudecker - [Effective programming practices for economists](https://www.wiwi.uni-bonn.de/gaudecker/prog_econ_slides.html#prog-econ-slides)
 - Jesús Fernández-Villaverde - [Computational Methods for Economists](https://www.sas.upenn.edu/~jesusfv/teaching.html)
 - Richard W. Evans - [Open Source Economics Laboratory (OSE Lab) Boot Camp 2019](https://github.com/OpenSourceEcon/BootCamp2019)
-- Jason DeBacker - [Computational Methods for Economists (2019)](https://github.com/jdebacker/CompEcon_Fall19)
+- Jason DeBacker - [Computational Methods for Economists (2017)](https://github.com/jdebacker/CompEcon_Fall17)
 
 
 

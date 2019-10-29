@@ -2,11 +2,10 @@
 This simple code is used to print a pandas dataframe with customized length of rows and columns.
 
 Ref: https://pandas.pydata.org/pandas-docs/stable/user_guide/options.html
-Set as default: add c.InteractiveShellApp.exec_files = ["<your path>/prints.py"] in ipython_config.py
+Set as default imported in Jupyter: add `c.InteractiveShellApp.exec_files = ["<your path>/prints.py"]` in ipython_config.py
 """
 
-
-if __name__ != "__main__"
+if __name__ == "__main__":
     import pandas as pd
     from displays import display_dfs
 
