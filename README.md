@@ -75,6 +75,7 @@
 - [Flight rules for git](https://github.com/k88hudson/git-flight-rules/) 
 - [Git for Scientists](https://milesmcbain.github.io/git_4_sci/index.html) - Miles McBain
 - [Collaborative Models in GitHub](http://www.goring.org/resources/project-management.html) - (also [this](https://uoftcoders.github.io/studyGroup/lessons/git/collaboration/lesson/) and [this](https://mozillascience.github.io/working-open-workshop/github_for_collaboration/))
+- [Development workflow](https://docs.scipy.org/doc/numpy-1.15.1/dev/gitwash/development_workflow.html) - SciPy
 
 
 
