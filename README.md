@@ -20,7 +20,6 @@
 - [Templates for reproducible research projects](http://hmgaudecker.github.io/econ-project-templates/)
 - Wilson, G., Bryan, J., Cranston, K., Kitzes, J., Nederbragt, L., & Teal, T. K. (2017). [Good enough practices in scientific computing](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510). PLoS computational biology, 13(6), e1005510.
 - [The Plain Person’s Guide to Plain Text Social Science](http://plain-text.co/index.html#introduction) - Kieran Healy
-- RULE, Adam, et al. [Ten simple rules for writing and sharing computational analyses in Jupyter Notebooks](https://github.com/jupyter-guide/ten-rules-jupyter). PLoS computational biology, 2019, 15.7.
 
 
 

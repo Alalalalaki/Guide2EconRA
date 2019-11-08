@@ -17,4 +17,4 @@
 - [R](https://github.com/IRkernel/IRkernel) and [Stata](https://github.com/kylebarron/stata_kernel) kernel is available in Jupyter.
 - You can use nteract or vscode to open a .ipynb file.
 - Note that You can always develop your own useful tools! ([some examples](https://github.com/Alalalalaki/Guide2EconRA/tree/master/jupyter_tools/python_jupyter_gadget))
-
+- See this repo - [Ten simple rules for writing and sharing computational analyses in Jupyter Notebooks](https://github.com/jupyter-guide/ten-rules-jupyter) - for writing reproducible notebooks. "Code is read much more often than it is written."
