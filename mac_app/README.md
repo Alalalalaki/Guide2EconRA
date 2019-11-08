@@ -15,6 +15,8 @@
 
 - CheatSheet
 
+- Easy New File Free 
+
 - FinderGo
 
 - Chrome and Firefox

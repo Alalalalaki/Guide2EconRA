@@ -20,6 +20,7 @@
 - [Templates for reproducible research projects](http://hmgaudecker.github.io/econ-project-templates/)
 - Wilson, G., Bryan, J., Cranston, K., Kitzes, J., Nederbragt, L., & Teal, T. K. (2017). [Good enough practices in scientific computing](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510). PLoS computational biology, 13(6), e1005510.
 - [The Plain Person’s Guide to Plain Text Social Science](http://plain-text.co/index.html#introduction) - Kieran Healy
+- RULE, Adam, et al. [Ten simple rules for writing and sharing computational analyses in Jupyter Notebooks](https://github.com/jupyter-guide/ten-rules-jupyter). PLoS computational biology, 2019, 15.7.
 
 
 
@@ -42,13 +43,15 @@
 - [Modern Pandas](https://tomaugspurger.github.io/modern-1-intro.html)
 - [Introduction to Python for Science](https://clouds.eos.ubc.ca/~phil/djpine_python/index.html)
 - [Computational Statistics in Python](http://people.duke.edu/~ccc14/cspy/index.html)
+- [Real Python Tutorials](https://realpython.com/tutorials/all/)
 
 
 
 ## Julia
 
 - QuantEcon
-- Paul Schrimpf - [Computational Economics with Data Science Applications](https://github.com/ubcecon/ECON622_2019)
+- [Computational Economics with Data Science Applications](https://github.com/ubcecon/ECON622_2019) - Paul Schrimpf
+- [Think Julia: How to Think Like a Computer Scientist](https://benlauwens.github.io/ThinkJulia.jl/latest/book.html) - Ben Lauwens
 
 
 
@@ -65,17 +68,17 @@
 - [Git for Economists](https://www.frankpinter.com/git/) - Frank Pinter
 - [Git and GitHub tutorial](https://github.com/nyupredocs/githubtutorial) - Richard Evans
 - [Git, GitHub, and Version Control](https://julia.quantecon.org/more_julia/version_control.html) - QuantEcon
-- [Happy Git and GitHub for the useR](https://happygitwithr.com/) - Jenny Bryan
 - Bryan, J. (2018). [Excuse me, do you have a moment to talk about version control?.](https://peerj.com/preprints/3159.pdf) The American Statistician, 72(1), 20-27.
 - [git + LaTeX workflow](https://stackoverflow.com/questions/6188780/git-latex-workflow) - stackoverflow
 - [Pro Git book](https://git-scm.com/book/en/v2) - Scott Chacon & Ben Straub
 - [Git Tutorials and Training](https://www.atlassian.com/git/tutorials) - Atlassian
 - [Using Git](https://help.github.com/en/github/using-git) & [GitHub Guides](https://guides.github.com/) - github
 - [Git & Version Control FAQ](https://www.git-tower.com/learn/git/faq/) - git-tower
-- [Flight rules for git](https://github.com/k88hudson/git-flight-rules/) 
+- [Happy Git and GitHub for the useR](https://happygitwithr.com/) - Jenny Bryan
 - [Git for Scientists](https://milesmcbain.github.io/git_4_sci/index.html) - Miles McBain
-- [Collaborative Models in GitHub](http://www.goring.org/resources/project-management.html) - (also [this](https://uoftcoders.github.io/studyGroup/lessons/git/collaboration/lesson/) and [this](https://mozillascience.github.io/working-open-workshop/github_for_collaboration/))
-- [Development workflow](https://docs.scipy.org/doc/numpy-1.15.1/dev/gitwash/development_workflow.html) - SciPy
+- [Flight rules for git](https://github.com/k88hudson/git-flight-rules/) 
+- [Collaborative Models in GitHub](http://www.goring.org/resources/project-management.html) / [Collaborating on GitHub](https://uoftcoders.github.io/studyGroup/lessons/git/collaboration/lesson/) / [GitHub for Collaboration On Open Projects ](https://mozillascience.github.io/working-open-workshop/github_for_collaboration/)
+- [Development workflow](https://docs.scipy.org/doc/numpy-1.15.1/dev/gitwash/development_workflow.html) / [GitHub-Forking](https://gist.github.com/Chaser324/ce0505fbed06b947d962) 
 
 
 
