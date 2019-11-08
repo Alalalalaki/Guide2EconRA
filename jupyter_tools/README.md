@@ -3,7 +3,7 @@
 ---
 
 - Install [this app](https://github.com/telamonian/jupyter-app) to launch Jupyter Lab.
-- Use [IPython configuration](https://ipython.readthedocs.io/en/stable/config/intro.html) to set default settings that you would use every time. 
+- Use [IPython configuration](https://ipython.readthedocs.io/en/stable/config/intro.html) to set default settings that you would use every time. ([an example](settings/ipython_config.py))
 - Learn [shortcuts](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/). And note that you can customize the shortcuts for many operations shown in the command tab. 
   - For example, setting a shortcut for `clear output` would be useful when using git to version-control ipynb files.
 - Learn [magic commands](https://ipython.readthedocs.io/en/stable/interactive/magics.html).
