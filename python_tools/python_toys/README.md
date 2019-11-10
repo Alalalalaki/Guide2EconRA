@@ -1,0 +1,1 @@
+These code here is neither smart nor elegant. Anyone can write such code after learning python for about one month. The only thing I want to illustrate here is that you can always invent your own helpfuyl tools whatever your level is.

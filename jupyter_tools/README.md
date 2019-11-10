@@ -4,7 +4,7 @@
 
 - Install [this app](https://github.com/telamonian/jupyter-app) to launch Jupyter Lab.
 - Use [IPython configuration](https://ipython.readthedocs.io/en/stable/config/intro.html) to set default settings that you would use every time. ([an example](settings/ipython_config.py))
-- Learn [shortcuts](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/). And note that you can customize the shortcuts for many operations shown in the command tab. 
+- Learn [shortcuts](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/). And note that you can customize the shortcuts for many operations shown in the command tab.
   - For example, setting a shortcut for `clear output` would be useful when using git to version-control ipynb files.
 - Learn [magic commands](https://ipython.readthedocs.io/en/stable/interactive/magics.html).
   - For example, `%pdb` and `%debug` is helpful for debugging.
@@ -16,5 +16,5 @@
 - [Slide](https://jupyterlab.readthedocs.io/en/stable/user/export.html) mode is available in Jupyter Lab.
 - [R](https://github.com/IRkernel/IRkernel) and [Stata](https://github.com/kylebarron/stata_kernel) kernel is available in Jupyter.
 - You can use nteract or vscode to open a .ipynb file.
-- Note that You can always develop your own useful tools! ([some examples](https://github.com/Alalalalaki/Guide2EconRA/tree/master/jupyter_tools/python_jupyter_gadget))
+- Note that You can always develop your own useful tools! ([some toys](https://github.com/Alalalalaki/Guide2EconRA/tree/master/python_tools/python_toys))
 - See this repo - [Ten simple rules for writing and sharing computational analyses in Jupyter Notebooks](https://github.com/jupyter-guide/ten-rules-jupyter) - for writing reproducible notebooks. "Code is read much more often than it is written."

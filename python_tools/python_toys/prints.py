@@ -7,7 +7,7 @@ Set as default imported in Jupyter: add `c.InteractiveShellApp.exec_files = ["<y
 
 if __name__ == "__main__":
     import pandas as pd
-    from displays import display_dfs
+    # from displays import display_dfs
 
 
 def prints(x, r=None, c=None, w=False):
@@ -44,10 +44,10 @@ def prints(x, r=None, c=None, w=False):
             else:
                 print(x)
 
-    elif isinstance(x, display_dfs):
+    # elif isinstance(x, display_dfs):
 
-        with pd.option_context('display.min_rows', r, 'display.max_rows', r, 'display.max_columns', c, 'display.max_colwidth', w):
-            display(x)
+    #     with pd.option_context('display.min_rows', r, 'display.max_rows', r, 'display.max_columns', c, 'display.max_colwidth', w):
+    #         display(x)
 
     else:
         raise ValueError('Input must be a pandas object.')

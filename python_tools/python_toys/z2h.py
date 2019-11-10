@@ -1,6 +1,6 @@
 """
-This code is used to turn 「全角」to 「半角」
-Ref: japandas
+This code is stolen from under-maintained pkg `japandas`
+and used to turn 「全角」strings to 「半角」strings.
 """
 
 from unicodedata import normalize
@@ -32,9 +32,9 @@ mapper.update(_Z2H_DIGIT)
 mapper.update(_Z2H_SYMBOL)
 
 
-def str_z2h(str_: str, ):
+def str_z2h(string: str, ):
     try:
-        res = str_.translate(mapper)
+        res = string.translate(mapper)
         return res
     except AttributeError:
-        return str_
+        return string
