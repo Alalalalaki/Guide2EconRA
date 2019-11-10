@@ -10,24 +10,23 @@ if __name__ == "__main__":
     # from displays import display_dfs
 
 
-def prints(x, r=None, c=None, w=False):
-    """
-    Display a DataFrame in Ipython by specified Column numbers and Row numbers.
+def prints(x, r=None, c=None, w=-1):
+    """Display a DataFrame in Ipython by specified Column numbers and Row numbers.
 
     Parameters
     ----------
-    x : DataFrame
-    r : No. of rows. If None, display all rows
-    c : No. of columns. If None, display all columns
-    w : Max column width
-    ----------
+    x : pd.DataFrame or pd.Series
+
+    r : int, optional
+        No. of rows shown. By default None, display all rows
+    c : int, optional
+        No. of columns shown. By default None, display all columns,
+    w : int, optional
+        Max column width. By default -1.
     """
     # m = pd.options.display.max_rows
     # n = pd.options.display.max_columns
-    if w:
-        w = -1
-    else:
-        w = pd.options.display.max_colwidth
+    # w = pd.options.display.max_colwidth
 
     if isinstance(x, pd.DataFrame):
 
