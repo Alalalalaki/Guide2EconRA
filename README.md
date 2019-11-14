@@ -6,7 +6,7 @@
 
 - Hans-Martin von Gaudecker - [Effective programming practices for economists](https://www.wiwi.uni-bonn.de/gaudecker/prog_econ_slides.html#prog-econ-slides)
 - Jesús Fernández-Villaverde - [Computational Methods for Economists](https://www.sas.upenn.edu/~jesusfv/teaching.html)
-- Richard W. Evans - [Open Source Economics Laboratory (OSE Lab) Boot Camp 2019](https://github.com/OpenSourceEcon/BootCamp2019)
+- Richard W. Evans - [Open Source Economics Laboratory (OSE Lab) Boot Camp 2019](https://github.com/OpenSourceEcon/BootCamp2019) & [Git and GitHub tutorial](https://github.com/nyupredocs/githubtutorial) 
 - Jason DeBacker - [Computational Methods for Economists (2017)](https://github.com/jdebacker/CompEcon_Fall17)
 
 
@@ -42,6 +42,7 @@
 - [Modern Pandas](https://tomaugspurger.github.io/modern-1-intro.html)
 - [Introduction to Python for Science](https://clouds.eos.ubc.ca/~phil/djpine_python/index.html)
 - [Computational Statistics in Python](http://people.duke.edu/~ccc14/cspy/index.html)
+- [Python computational labs](https://acme.byu.edu/2019-2020-materials/) 
 - [Real Python Tutorials](https://realpython.com/tutorials/all/)
 
 
@@ -65,8 +66,8 @@
 - [git for social science students (not software developers)](https://github.com/kuriwaki/github-demo) - Shiro Kuriwaki
 - [Version Control for Economists](https://rstudio-pubs-static.s3.amazonaws.com/376054_064091abfb4c4b69929ccdc812a2a5fd.html#workflow) - Wei Yang Tham
 - [Git for Economists](https://www.frankpinter.com/git/) - Frank Pinter
-- [Git and GitHub tutorial](https://github.com/nyupredocs/githubtutorial) - Richard Evans
 - [Git, GitHub, and Version Control](https://julia.quantecon.org/more_julia/version_control.html) - QuantEcon
+- [Git and GitHub tutorial chapter](https://github.com/nyupredocs/githubtutorial/blob/master/Tutorials/git_tutorial.pdf) - Richard Evans
 - Bryan, J. (2018). [Excuse me, do you have a moment to talk about version control?.](https://peerj.com/preprints/3159.pdf) The American Statistician, 72(1), 20-27.
 - [git + LaTeX workflow](https://stackoverflow.com/questions/6188780/git-latex-workflow) - stackoverflow
 - [Pro Git book](https://git-scm.com/book/en/v2) - Scott Chacon & Ben Straub
@@ -76,8 +77,7 @@
 - [Happy Git and GitHub for the useR](https://happygitwithr.com/) - Jenny Bryan
 - [Git for Scientists](https://milesmcbain.github.io/git_4_sci/index.html) - Miles McBain
 - [Flight rules for git](https://github.com/k88hudson/git-flight-rules/) 
-- [Collaborative Models in GitHub](http://www.goring.org/resources/project-management.html) / [Collaborating on GitHub](https://uoftcoders.github.io/studyGroup/lessons/git/collaboration/lesson/) / [GitHub for Collaboration On Open Projects ](https://mozillascience.github.io/working-open-workshop/github_for_collaboration/)
-- [Development workflow](https://docs.scipy.org/doc/numpy-1.15.1/dev/gitwash/development_workflow.html) / [GitHub-Forking](https://gist.github.com/Chaser324/ce0505fbed06b947d962) 
+- [Collaborative Models in GitHub](http://www.goring.org/resources/project-management.html) / [Collaborating on GitHub](https://uoftcoders.github.io/studyGroup/lessons/git/collaboration/lesson/) / [GitHub for Collaboration On Open Projects ](https://mozillascience.github.io/working-open-workshop/github_for_collaboration/) / [Development workflow](https://docs.scipy.org/doc/numpy-1.15.1/dev/gitwash/development_workflow.html) / [GitHub-Forking](https://gist.github.com/Chaser324/ce0505fbed06b947d962) 
 
 
 
