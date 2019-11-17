@@ -27,7 +27,7 @@ c.InteractiveShellApp.exec_lines = [
 c.IPKernelApp.matplotlib = 'inline'
 c.InlineBackend.figure_format = 'retina'
 c.InteractiveShell.ast_node_interactivity = "all"
-c.InteractiveShellApp.exec_files = ["/Users/alalalalaki/GitHub/Guide2EconRA/python_tools/python_toys/displays.py",
-                                    "/Users/alalalalaki/GitHub/Guide2EconRA/python_tools/python_toys/prints.py",
-                                    "/Users/alalalalaki/GitHub/Guide2EconRA/python_tools/python_toys/owari.py",
-                                    "/Users/alalalalaki/GitHub/Guide2EconRA/python_tools/python_toys/cleandata.py", ]
+c.InteractiveShellApp.exec_files = ["/Users/alalalalaki/GitHub/Guide2EconRA/python_tools/displays.py",
+                                    "/Users/alalalalaki/GitHub/Guide2EconRA/python_tools/prints.py",
+                                    "/Users/alalalalaki/GitHub/Guide2EconRA/python_tools/owari.py",
+                                    "/Users/alalalalaki/GitHub/Guide2EconRA/python_tools/cleandata.py", ]
