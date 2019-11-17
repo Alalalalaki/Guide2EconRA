@@ -1,11 +1,8 @@
 """
-This simple code is used to display two or more pandas dataframes simulatenously.
-
+This code is used to display two or more pandas dataframes simulatenously.
 ref:
 https://stackoverflow.com/questions/38783027/jupyter-notebook-display-two-pandas-tables-side-by-side
 https://jakevdp.github.io/PythonDataScienceHandbook/03.06-concat-and-append.html
-
-Set as default: add c.InteractiveShellApp.exec_files = ["<your path>/displays.py"] in ipython_config.py
 """
 
 

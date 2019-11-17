@@ -1,8 +1,6 @@
 """
-This simple code is used to print a pandas dataframe with customized length of rows and columns.
-
+This code is used to print a pandas dataframe with customized length of rows and columns.
 Ref: https://pandas.pydata.org/pandas-docs/stable/user_guide/options.html
-Set as default imported in Jupyter: add `c.InteractiveShellApp.exec_files = ["<your path>/prints.py"]` in ipython_config.py
 """
 
 if __name__ == "__main__":

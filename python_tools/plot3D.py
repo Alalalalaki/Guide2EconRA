@@ -1,5 +1,5 @@
 """
-This code is used to plot a function with two variables
+This code is used to plot the 3D figure of a function with two variables
 """
 
 import numpy as np

@@ -1,5 +1,5 @@
 """
-This simple code is used to directly access eStat data through japandas.
+This code is used to directly access eStat data through japandas.
 You also need to set up a keys.py file to place your estat api key.
 """
 

@@ -1,5 +1,6 @@
 """
-Function factory for data cleaning
+Factory for data cleaning functions
+Under progress
 """
 
 

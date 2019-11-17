@@ -1,6 +1,6 @@
 """
-This code is stolen from under-maintained pkg `japandas`
-and used to turn 「全角」strings to 「半角」strings.
+This code is used to turn 「全角」strings to 「半角」strings.
+Source: stolen from package `japandas`
 """
 
 from unicodedata import normalize
@@ -17,8 +17,8 @@ _DIGIT_MAPPER = {c: normalize('NFKC', c) for c in _ZDIGIT}
 _SYMBOL_MAPPER = {c: normalize('NFKC', c) for c in _ZSYMBOL}
 
 
-def _ord_dict(dict):
-    return {ord(k): v for k, v in dict.items()}
+def _ord_dict(d):
+    return {ord(k): v for k, v in d.items()}
 
 
 # for unicode.translate

@@ -1,5 +1,5 @@
 """
-This simple code turn country names to continents.
+This code turn country names to continents.
 """
 
 

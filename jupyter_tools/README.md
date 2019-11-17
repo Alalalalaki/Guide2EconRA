@@ -1,4 +1,4 @@
-## Jupyter Lab Tips
+## Jupyter Lab Toos and Tips
 
 ---
 
@@ -16,5 +16,4 @@
 - [Slide](https://jupyterlab.readthedocs.io/en/stable/user/export.html) mode is available in Jupyter Lab.
 - [R](https://github.com/IRkernel/IRkernel) and [Stata](https://github.com/kylebarron/stata_kernel) kernel is available in Jupyter.
 - You can use nteract or vscode to open a .ipynb file.
-- Note that You can always develop your own useful tools! ([some toys](https://github.com/Alalalalaki/Guide2EconRA/tree/master/python_tools/python_toys))
 - See this repo - [Ten simple rules for writing and sharing computational analyses in Jupyter Notebooks](https://github.com/jupyter-guide/ten-rules-jupyter) - for writing reproducible notebooks. "Code is read much more often than it is written."
