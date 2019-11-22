@@ -6,8 +6,9 @@
 
 - Hans-Martin von Gaudecker - [Effective programming practices for economists](https://www.wiwi.uni-bonn.de/gaudecker/prog_econ_slides.html#prog-econ-slides)
 - Jesús Fernández-Villaverde - [Computational Methods for Economists](https://www.sas.upenn.edu/~jesusfv/teaching.html)
-- Richard W. Evans et al - Open Source Economics Laboratory (OSE Lab) Boot Camp [2019](https://github.com/OpenSourceEcon/BootCamp2019), [2018](https://github.com/OpenSourceEcon/BootCamp2018), [2017](https://github.com/OpenSourceEcon/BootCamp2017) & [Git and GitHub tutorial](https://github.com/nyupredocs/githubtutorial) 
+- Richard W. Evans et al - Open Source Economics Laboratory (OSE Lab) Boot Camp [2019](https://github.com/OpenSourceEcon/BootCamp2019), [2018](https://github.com/OpenSourceEcon/BootCamp2018), [2017](https://github.com/OpenSourceEcon/BootCamp2017) & [Git and GitHub tutorial](https://github.com/nyupredocs/githubtutorial)
 - Jason DeBacker - Computational Methods for Economists [2017](https://github.com/jdebacker/CompEcon_Fall17), [2019](https://github.com/jdebacker/CompEcon_Fall19)
+- Jeppe Druedahl - [Introduction to Programming and Numerical Analysis](https://numeconcopenhagen.netlify.com/)
 
 
 
@@ -42,7 +43,7 @@
 - [Modern Pandas](https://tomaugspurger.github.io/modern-1-intro.html)
 - [Introduction to Python for Science](https://clouds.eos.ubc.ca/~phil/djpine_python/index.html)
 - [Computational Statistics in Python](http://people.duke.edu/~ccc14/cspy/index.html)
-- [Python computational labs](https://acme.byu.edu/2019-2020-materials/) 
+- [Python computational labs](https://acme.byu.edu/2019-2020-materials/)
 - [Real Python Tutorials](https://realpython.com/tutorials/all/)
 
 
@@ -76,7 +77,7 @@
 - [Git & Version Control FAQ](https://www.git-tower.com/learn/git/faq/) - git-tower
 - [Happy Git and GitHub for the useR](https://happygitwithr.com/) - Jenny Bryan
 - [Git for Scientists](https://milesmcbain.github.io/git_4_sci/index.html) - Miles McBain
-- [Flight rules for git](https://github.com/k88hudson/git-flight-rules/) 
+- [Flight rules for git](https://github.com/k88hudson/git-flight-rules/)
 - [Collaborative Models in GitHub](http://www.goring.org/resources/project-management.html) / [Collaborating on GitHub](https://uoftcoders.github.io/studyGroup/lessons/git/collaboration/lesson/) / [GitHub for Collaboration On Open Projects ](https://mozillascience.github.io/working-open-workshop/github_for_collaboration/) / [Development workflow](https://docs.scipy.org/doc/numpy-1.15.1/dev/gitwash/development_workflow.html) / [GitHub Standard Fork & Pull Request Workflow ](https://gist.github.com/Chaser324/ce0505fbed06b947d962) / [Git mergetool tutorial](https://gist.github.com/karenyyng/f19ff75c60f18b4b8149#setting-up-different-editors--tool-for-using-git-mergetool)
 
 
@@ -120,4 +121,4 @@
 
 [Tips 4 Economists](https://sites.google.com/site/mkudamatsu/tips4economists) - Masayuki Kudamatsu
 
-[Data Science and Economics](https://github.com/vkoul/Economics-and-Data-Science) 
+[Data Science and Economics](https://github.com/vkoul/Economics-and-Data-Science)
