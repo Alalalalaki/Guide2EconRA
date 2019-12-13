@@ -21,6 +21,7 @@
 - [Templates for reproducible research projects](http://hmgaudecker.github.io/econ-project-templates/)
 - Wilson, G., Bryan, J., Cranston, K., Kitzes, J., Nederbragt, L., & Teal, T. K. (2017). [Good enough practices in scientific computing](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510). PLoS computational biology, 13(6), e1005510.
 - [The Plain Person’s Guide to Plain Text Social Science](http://plain-text.co/index.html#introduction) - Kieran Healy
+- [Data and Code Guidance by Data Editors](https://social-science-data-editors.github.io/guidance/) (also see [the](https://twitter.com/AeaData/status/1199691179291484161) [AEA guidance](https://www.aeaweb.org/journals/policies/sample-references) on [Data and Code](https://aeadataeditor.github.io/aea-de-guidance/addtl-data-citation-guidance.html))
 
 
 
@@ -59,6 +60,8 @@
 ## R
 
 - see the resources collected by [Maximilian Kasy](https://maxkasy.github.io/home/computationlinks/) (and also machine learning links)
+- [Data science for economists](https://grantmcdermott.com/teaching/) - Grant McDermott
+- [Library of Statistical Techniques](https://lost-stats.github.io/)
 
 
 
@@ -86,6 +89,7 @@
 
 - [The Not So Short Introduction to LATEX](https://tobi.oetiker.ch/lshort/lshort.pdf) - Tobias Oetiker
 - [A simple guide to LaTeX - Step by Step](https://www.latex-tutorial.com/tutorials/)
+- [Tips + Tricks with Beamer for Economists](https://paulgp.github.io/beamer_tips.pdf) - Paul Goldsmith-Pinkham
 
 
 
@@ -106,6 +110,12 @@
 ## Machine Learning
 
 - [Data Science & Artificial Intelligence](https://chrisalbon.com/) - Chris Albon (and a lot of other stuffs)
+
+
+
+## Unsorted
+
+- [Awesome Scientific Writing](https://github.com/ashwinvis/awesome-scientific-writing)
 
 
 
