@@ -30,6 +30,7 @@
 - [macOS Setup Guide](https://sourabhbajaj.com/mac-setup) (a little outdated)
 - [The Unix Shell](http://swcarpentry.github.io/shell-novice/) - [Software Carpentry](https://software-carpentry.org/lessons/index.html) (see also python, git, r, etc.)
 - [Corey Schafer's youtube channel](https://www.youtube.com/user/schafer5/videos) (very beginner-friendly videos for almost all basic things about mac, python, git, etc.)
+- Terminal: [here](https://react.design/terminal), [here](https://qiita.com/kinchiki/items/57e9391128d07819c321), [here](https://qiita.com/vimyum/items/44478a51ef3a6f49804f)
 
 
 
@@ -96,7 +97,7 @@
 ## Markdown
 
 - [The Markdown Guide](https://www.markdownguide.org/)
-- [Markdown Reference](http://support.typora.io/Markdown-Reference/) - typora
+- [Markdown Reference](http://support.typora.io/Markdown-Reference/) - [typora](https://qiita.com/AnchorBlues/items/532dba54cd2f0465af97)
 
 
 
