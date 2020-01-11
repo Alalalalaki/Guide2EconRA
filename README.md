@@ -22,6 +22,7 @@
 - Wilson, G., Bryan, J., Cranston, K., Kitzes, J., Nederbragt, L., & Teal, T. K. (2017). [Good enough practices in scientific computing](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510). PLoS computational biology, 13(6), e1005510.
 - [The Plain Person’s Guide to Plain Text Social Science](http://plain-text.co/index.html#introduction) - Kieran Healy
 - [Data and Code Guidance by Data Editors](https://social-science-data-editors.github.io/guidance/) (also see [the](https://twitter.com/AeaData/status/1199691179291484161) [AEA guidance](https://www.aeaweb.org/journals/policies/sample-references) on [Data and Code](https://aeadataeditor.github.io/aea-de-guidance/addtl-data-citation-guidance.html))
+- [Best Practices when Writing Code](http://www.danielmsullivan.com/pages/tutorial_workflow_3bestpractice.html)
 
 
 
@@ -91,13 +92,14 @@
 - [The Not So Short Introduction to LATEX](https://tobi.oetiker.ch/lshort/lshort.pdf) - Tobias Oetiker
 - [A simple guide to LaTeX - Step by Step](https://www.latex-tutorial.com/tutorials/)
 - [Tips + Tricks with Beamer for Economists](https://paulgp.github.io/beamer_tips.pdf) - Paul Goldsmith-Pinkham
+- [Template-based introductory guide to LaTeX for Economics](https://www.researchgate.net/publication/280050294_Template-based_introductory_guide_to_LaTeX_for_Economics_Instructional_Guide_Version_2)
 
 
 
 ## Markdown
 
 - [The Markdown Guide](https://www.markdownguide.org/)
-- [Markdown Reference](http://support.typora.io/Markdown-Reference/) - [typora](https://qiita.com/AnchorBlues/items/532dba54cd2f0465af97)
+- [Markdown Reference](http://support.typora.io/Markdown-Reference/) - typora (some [Japanese](https://qiita.com/AnchorBlues/items/532dba54cd2f0465af97) [introduction](https://qiita.com/4_mio_11/items/223326c3289f6b2c2a07))
 
 
 
