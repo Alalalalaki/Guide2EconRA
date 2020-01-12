@@ -6,7 +6,8 @@
 
 - Hans-Martin von Gaudecker - [Effective programming practices for economists](https://www.wiwi.uni-bonn.de/gaudecker/prog_econ_slides.html#prog-econ-slides)
 - Jesús Fernández-Villaverde - [Computational Methods for Economists](https://www.sas.upenn.edu/~jesusfv/teaching.html)
-- Richard W. Evans et al - Open Source Economics Laboratory (OSE Lab) Boot Camp [2019](https://github.com/OpenSourceEcon/BootCamp2019), [2018](https://github.com/OpenSourceEcon/BootCamp2018), [2017](https://github.com/OpenSourceEcon/BootCamp2017) & [Git and GitHub tutorial](https://github.com/nyupredocs/githubtutorial)
+- Richard W. Evans et al - Open Source Economics Laboratory (OSE Lab) Boot Camp [2019](https://github.com/OpenSourceEcon/BootCamp2019), [2018](https://github.com/OpenSourceEcon/BootCamp2018), [2017](https://github.com/OpenSourceEcon/BootCamp2017) 
+- Richard W. Evans - Perspectives on Computational Modeling for Economics [2020](https://github.com/UC-MACSS/persp-model-econ_w20) & Structural Estimation [2020](https://github.com/rickecon/StructEst_W20) & [Git and GitHub tutorial](https://github.com/nyupredocs/githubtutorial)
 - Jason DeBacker - Computational Methods for Economists [2017](https://github.com/jdebacker/CompEcon_Fall17), [2019](https://github.com/jdebacker/CompEcon_Fall19)
 - Jeppe Druedahl - [Introduction to Programming and Numerical Analysis](https://numeconcopenhagen.netlify.com/)
 - Tyler Ransom - Data Science for Economists [2020](https://github.com/tyleransom/DScourseS20)
