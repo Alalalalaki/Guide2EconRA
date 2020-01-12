@@ -9,6 +9,7 @@
 - Richard W. Evans et al - Open Source Economics Laboratory (OSE Lab) Boot Camp [2019](https://github.com/OpenSourceEcon/BootCamp2019), [2018](https://github.com/OpenSourceEcon/BootCamp2018), [2017](https://github.com/OpenSourceEcon/BootCamp2017) & [Git and GitHub tutorial](https://github.com/nyupredocs/githubtutorial)
 - Jason DeBacker - Computational Methods for Economists [2017](https://github.com/jdebacker/CompEcon_Fall17), [2019](https://github.com/jdebacker/CompEcon_Fall19)
 - Jeppe Druedahl - [Introduction to Programming and Numerical Analysis](https://numeconcopenhagen.netlify.com/)
+- Tyler Ransom - Data Science for Economists [2020](https://github.com/tyleransom/DScourseS20)
 
 
 
@@ -59,11 +60,11 @@
 
 
 
-## R
+## R (Lectures)
 
-- see the resources collected by [Maximilian Kasy](https://maxkasy.github.io/home/computationlinks/) (and also machine learning links)
+- Maximilian Kasy - Advanced Econometrics and Machine Learning: [2019](https://maxkasy.github.io/home/TopicsInEconometrics2019/), [2000](https://maxkasy.github.io/home/ML_Oxford_2020/) - ( and also see his collection [of computation links](https://maxkasy.github.io/home/computationlinks/))
 - [Data science for economists](https://grantmcdermott.com/teaching/) - Grant McDermott
-- [Library of Statistical Techniques](https://lost-stats.github.io/)
+- [Economics, Causality, and Analytics](https://github.com/NickCH-K/introcausality) - Nick Huntington-Klein (and also his [Library of Statistical Techniques](https://lost-stats.github.io/))
 
 
 
@@ -91,6 +92,7 @@
 
 - [The Not So Short Introduction to LATEX](https://tobi.oetiker.ch/lshort/lshort.pdf) - Tobias Oetiker
 - [A simple guide to LaTeX - Step by Step](https://www.latex-tutorial.com/tutorials/)
+- [Overleaf guides to LaTeX](https://www.overleaf.com/learn/latex) 
 - [Tips + Tricks with Beamer for Economists](https://paulgp.github.io/beamer_tips.pdf) - Paul Goldsmith-Pinkham
 - [Template-based introductory guide to LaTeX for Economics](https://www.researchgate.net/publication/280050294_Template-based_introductory_guide_to_LaTeX_for_Economics_Instructional_Guide_Version_2)
 
@@ -99,7 +101,7 @@
 ## Markdown
 
 - [The Markdown Guide](https://www.markdownguide.org/)
-- [Markdown Reference](http://support.typora.io/Markdown-Reference/) - typora (some [Japanese](https://qiita.com/AnchorBlues/items/532dba54cd2f0465af97) [introduction](https://qiita.com/4_mio_11/items/223326c3289f6b2c2a07))
+- [Markdown Reference](http://support.typora.io/Markdown-Reference/) - typora (some [Japanese](https://qiita.com/AnchorBlues/items/532dba54cd2f0465af97) [introduction](https://qiita.com/4_mio_11/items/223326c3289f6b2c2a07) on typora)
 
 
 
