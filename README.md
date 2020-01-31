@@ -11,6 +11,7 @@
 - Jason DeBacker - Computational Methods for Economists [2017](https://github.com/jdebacker/CompEcon_Fall17), [2019](https://github.com/jdebacker/CompEcon_Fall19)
 - Jeppe Druedahl - [Introduction to Programming and Numerical Analysis](https://numeconcopenhagen.netlify.com/)
 - Tyler Ransom - Data Science for Economists [2020](https://github.com/tyleransom/DScourseS20)
+- Fedor Iskhakov - [Dynamic programming and structural estimation](https://github.com/CompEconCourse/CourseMaterials)
 
 
 
@@ -19,8 +20,7 @@
 - Gentzkow, M., & Shapiro, J. M. (2014). Code and data for the social sciences: A practitioner’s guide. Chicago, IL: University of Chicago.
 - Knittel, C. R., & Metaxoglou, K. (2016). Working with Data: Two Empiricists’ Experience. Journal of Econometric Methods, 7(1).
 - [Coding for Economists: A Language-Agnostic Guide to Programming for Economists](https://scholar.harvard.edu/files/ristovska/files/coding_for_econs_20190221.pdf) - Ljubica Ristovska
-- Schwabish, J. A. (2014). [An economist's guide to visualizing data](https://pubs.aeaweb.org/doi/pdfplus/10.1257/jep.28.1.209). Journal of Economic Perspectives, 28(1), 209-34.
-- [Templates for reproducible research projects](http://hmgaudecker.github.io/econ-project-templates/)
+- [Templates for reproducible research projects](https://econ-project-templates.readthedocs.io/en/stable/)
 - Wilson, G., Bryan, J., Cranston, K., Kitzes, J., Nederbragt, L., & Teal, T. K. (2017). [Good enough practices in scientific computing](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510). PLoS computational biology, 13(6), e1005510.
 - [The Plain Person’s Guide to Plain Text Social Science](http://plain-text.co/index.html#introduction) - Kieran Healy
 - [Data and Code Guidance by Data Editors](https://social-science-data-editors.github.io/guidance/) (also see [the](https://twitter.com/AeaData/status/1199691179291484161) [AEA guidance](https://www.aeaweb.org/journals/policies/sample-references) on [Data and Code](https://aeadataeditor.github.io/aea-de-guidance/addtl-data-citation-guidance.html))
@@ -39,7 +39,7 @@
 
 ## Python
 
-- [QuantEcon](https://python.quantecon.org/)
+- [QuantEcon](https://python.quantecon.org/) (also [here](https://github.com/QuantEcon/summer_course_2019))
 - [QuantEcon DataScience](https://datascience.quantecon.org/)
 - [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) - Jake VanderPlas (also his [A Whirlwind Tour of Python](https://jakevdp.github.io/WhirlwindTourOfPython/))
 - [Introduction to Python for Econometrics, Statistics and Numerical Analysis](https://www.kevinsheppard.com/teaching/python/notes/) - Kevin Sheppard
@@ -122,6 +122,8 @@
 ## Unsorted
 
 - [Awesome Scientific Writing](https://github.com/ashwinvis/awesome-scientific-writing)
+- Schwabish, J. A. (2014). [An economist's guide to visualizing data](https://pubs.aeaweb.org/doi/pdfplus/10.1257/jep.28.1.209). Journal of Economic Perspectives, 28(1), 209-34.
+- [awesome-causality-algorithms](https://github.com/rguo12/awesome-causality-algorithms)
 
 
 
