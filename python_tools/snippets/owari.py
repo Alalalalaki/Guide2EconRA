@@ -4,6 +4,10 @@ If you use mac, this simple code can help to inform you when running a time-cons
 import os
 
 
+def say(word, repeat=1, voice="kyoko"):
+    os.system(f"say -v {voice} {word*repeat}")
+
+
 def owari(error=False, repeat=2, jp_voice=True):
 
     if jp_voice:
@@ -18,6 +22,6 @@ def owari(error=False, repeat=2, jp_voice=True):
         voice_err = 'Bad\\ News'
 
     if not error:
-        os.system(f"say -v {voice_fin} {word_fin*repeat}")
+        say(word_fin, repeat, voice_fin)
     else:
-        os.system(f"say -v {voice_err} {word_err*repeat}")
+        say(word_err, repeat, voice_err)

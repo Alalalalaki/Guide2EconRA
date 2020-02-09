@@ -11,3 +11,4 @@ Thumbs.db
 
 # API keys
 key*.py
+password.py
