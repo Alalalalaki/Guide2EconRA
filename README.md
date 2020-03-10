@@ -58,6 +58,7 @@
 - QuantEcon
 - [Computational Economics with Data Science Applications](https://github.com/ubcecon/ECON622_2019) - Paul Schrimpf
 - [Think Julia: How to Think Like a Computer Scientist](https://benlauwens.github.io/ThinkJulia.jl/latest/book.html) - Ben Lauwens
+- [Econometrics](https://github.com/mcreel/Econometrics) - Michael Creel
 
 
 
@@ -66,6 +67,7 @@
 - Maximilian Kasy - Advanced Econometrics and Machine Learning: [2019](https://maxkasy.github.io/home/TopicsInEconometrics2019/), [2000](https://maxkasy.github.io/home/ML_Oxford_2020/) - ( and also see his collection [of computation links](https://maxkasy.github.io/home/computationlinks/))
 - [Data science for economists](https://grantmcdermott.com/teaching/) - Grant McDermott
 - [Economics, Causality, and Analytics](https://github.com/NickCH-K/introcausality) - Nick Huntington-Klein (and also his [Library of Statistical Techniques](https://lost-stats.github.io/))
+- [Statistical Learning and Causal Inference for Economics](https://github.com/fditraglia/econ224) - Francis J. DiTraglia
 
 
 
@@ -119,10 +121,18 @@
 
 
 
+## Visualization
+
+- Schwabish, J. A. (2014). [An economist's guide to visualizing data](https://pubs.aeaweb.org/doi/pdfplus/10.1257/jep.28.1.209). Journal of Economic Perspectives, 28(1), 209-34.
+- [Some Data visualizations in Python](https://github.com/aaronpenne/data_visualization) 
+- [Python Plotting for Exploratory Data Analysis](https://pythonplot.com/#scatter-plot-with-facets)
+- [from Data to Viz](https://www.data-to-viz.com/) - [The Python Graph Gallery](https://python-graph-gallery.com/) / [The R Graph Gallery](https://www.r-graph-gallery.com/)
+
+
+
 ## Unsorted
 
 - [Awesome Scientific Writing](https://github.com/ashwinvis/awesome-scientific-writing)
-- Schwabish, J. A. (2014). [An economist's guide to visualizing data](https://pubs.aeaweb.org/doi/pdfplus/10.1257/jep.28.1.209). Journal of Economic Perspectives, 28(1), 209-34.
 - [awesome-causality-algorithms](https://github.com/rguo12/awesome-causality-algorithms)
 
 
