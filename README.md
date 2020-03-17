@@ -2,11 +2,11 @@
 
 ---
 
-## Lectures
+## Comp Econ Lectures
 
 - Hans-Martin von Gaudecker - [Effective programming practices for economists](https://www.wiwi.uni-bonn.de/gaudecker/prog_econ_slides.html#prog-econ-slides)
 - Jesús Fernández-Villaverde - [Computational Methods for Economists](https://www.sas.upenn.edu/~jesusfv/teaching.html)
-- Richard W. Evans et al - Open Source Economics Laboratory (OSE Lab) Boot Camp [2019](https://github.com/OpenSourceEcon/BootCamp2019), [2018](https://github.com/OpenSourceEcon/BootCamp2018), [2017](https://github.com/OpenSourceEcon/BootCamp2017) 
+- Richard W. Evans, et al. - Open Source Economics Laboratory (OSE Lab) Boot Camp [2019](https://github.com/OpenSourceEcon/BootCamp2019), [2018](https://github.com/OpenSourceEcon/BootCamp2018), [2017](https://github.com/OpenSourceEcon/BootCamp2017) 
 - Richard W. Evans - Perspectives on Computational Modeling for Economics [2020](https://github.com/UC-MACSS/persp-model-econ_w20) & Structural Estimation [2020](https://github.com/rickecon/StructEst_W20) & [Git and GitHub tutorial](https://github.com/nyupredocs/githubtutorial)
 - Jason DeBacker - Computational Methods for Economists [2017](https://github.com/jdebacker/CompEcon_Fall17), [2019](https://github.com/jdebacker/CompEcon_Fall19)
 - Jeppe Druedahl - [Introduction to Programming and Numerical Analysis](https://numeconcopenhagen.netlify.com/)
@@ -20,7 +20,7 @@
 - Gentzkow, M., & Shapiro, J. M. (2014). Code and data for the social sciences: A practitioner’s guide. Chicago, IL: University of Chicago.
 - Knittel, C. R., & Metaxoglou, K. (2016). Working with Data: Two Empiricists’ Experience. Journal of Econometric Methods, 7(1).
 - [Coding for Economists: A Language-Agnostic Guide to Programming for Economists](https://scholar.harvard.edu/files/ristovska/files/coding_for_econs_20190221.pdf) - Ljubica Ristovska
-- [Templates for reproducible research projects](https://econ-project-templates.readthedocs.io/en/stable/)
+- [Templates for Reproducible Research Projects in Economics](https://github.com/OpenSourceEconomics/econ-project-templates)
 - Wilson, G., Bryan, J., Cranston, K., Kitzes, J., Nederbragt, L., & Teal, T. K. (2017). [Good enough practices in scientific computing](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510). PLoS computational biology, 13(6), e1005510.
 - [The Plain Person’s Guide to Plain Text Social Science](http://plain-text.co/index.html#introduction) - Kieran Healy
 - [Data and Code Guidance by Data Editors](https://social-science-data-editors.github.io/guidance/) (also see [the](https://twitter.com/AeaData/status/1199691179291484161) [AEA guidance](https://www.aeaweb.org/journals/policies/sample-references) on [Data and Code](https://aeadataeditor.github.io/aea-de-guidance/addtl-data-citation-guidance.html))
@@ -58,15 +58,18 @@
 - QuantEcon
 - [Computational Economics with Data Science Applications](https://github.com/ubcecon/ECON622_2019) - Paul Schrimpf
 - [Think Julia: How to Think Like a Computer Scientist](https://benlauwens.github.io/ThinkJulia.jl/latest/book.html) - Ben Lauwens
-- [Econometrics](https://github.com/mcreel/Econometrics) - Michael Creel
+- [Econometrics lecture notes with examples using the Julia language](https://github.com/mcreel/Econometrics) - Michael Creel
+- [Statistics with Julia: Fundamentals for Data Science, Machine Learning and Artificial Intelligence](https://github.com/h-Klok/StatsWithJuliaBook) - H.Klok, Y.Nazarathy
 
 
 
-## R (Lectures)
+## R
 
-- Maximilian Kasy - Advanced Econometrics and Machine Learning: [2019](https://maxkasy.github.io/home/TopicsInEconometrics2019/), [2000](https://maxkasy.github.io/home/ML_Oxford_2020/) - ( and also see his collection [of computation links](https://maxkasy.github.io/home/computationlinks/))
-- [Data science for economists](https://grantmcdermott.com/teaching/) - Grant McDermott
-- [Economics, Causality, and Analytics](https://github.com/NickCH-K/introcausality) - Nick Huntington-Klein (and also his [Library of Statistical Techniques](https://lost-stats.github.io/))
+- Advanced Econometrics and Machine Learning: [2019](https://maxkasy.github.io/home/TopicsInEconometrics2019/), [2000](https://maxkasy.github.io/home/ML_Oxford_2020/) - Maximilian Kasy
+- collection of [useful computation links on R and ML](https://maxkasy.github.io/home/computationlinks/) - Maximilian Kasy
+- [Data science for economists](https://github.com/uo-ec607/lectures) - Grant McDermott
+- [Economics, Causality, and Analytics](https://github.com/NickCH-K/introcausality) - Nick Huntington-Klein 
+- [Library of Statistical Techniques](https://lost-stats.github.io/) - Nick Huntington-Klein 
 - [Statistical Learning and Causal Inference for Economics](https://github.com/fditraglia/econ224) - Francis J. DiTraglia
 
 
@@ -115,18 +118,18 @@
 
 
 
-## Machine Learning
-
-- [Data Science & Artificial Intelligence](https://chrisalbon.com/) - Chris Albon (and a lot of other stuffs)
-
-
-
 ## Visualization
 
 - Schwabish, J. A. (2014). [An economist's guide to visualizing data](https://pubs.aeaweb.org/doi/pdfplus/10.1257/jep.28.1.209). Journal of Economic Perspectives, 28(1), 209-34.
 - [Some Data visualizations in Python](https://github.com/aaronpenne/data_visualization) 
 - [Python Plotting for Exploratory Data Analysis](https://pythonplot.com/#scatter-plot-with-facets)
 - [from Data to Viz](https://www.data-to-viz.com/) - [The Python Graph Gallery](https://python-graph-gallery.com/) / [The R Graph Gallery](https://www.r-graph-gallery.com/)
+
+
+
+## Machine Learning
+
+- [Data Science & Artificial Intelligence](https://chrisalbon.com/) - Chris Albon (and a lot of other stuffs)
 
 
 
@@ -139,14 +142,24 @@
 
 ---
 
+## Other Econ Lectures on Github
+
+- [Microeconometrics](https://github.com/HumanCapitalAnalysis/microeconometrics#lectures) - [Analysis of Human Capital](https://github.com/HumanCapitalAnalysis)
+- [Labor Economics](https://github.com/HumanCapitalAnalysis/labor-economics) - Analysis of Human Capital
+- [Econometrics of Human Capital](https://github.com/HumanCapitalAnalysis/policy-evaluation) - Analysis of Human Capital
+
+
+
+---
+
 ## Links to more general Econ resources
 
-[Advice for current and aspiring academic economists](http://jenniferdoleac.com/resources/) - Jennifer Doleac
+- [Advice for current and aspiring academic economists](http://jenniferdoleac.com/resources/) - Jennifer Doleac
 
-[Writing, Presentation, and Refereeing Advice](https://sites.google.com/site/amandayagan/writingadvice) - Amanda Y. Agan
+- [Writing, Presentation, and Refereeing Advice](https://sites.google.com/site/amandayagan/writingadvice) - Amanda Y. Agan
 
-[Resource](http://www.ryanbedwards.com/resources) - Ryan B Edwards
+- [Resource](http://www.ryanbedwards.com/resources) - Ryan B Edwards
 
-[Tips 4 Economists](https://sites.google.com/site/mkudamatsu/tips4economists) - Masayuki Kudamatsu
+- [Tips 4 Economists](https://sites.google.com/site/mkudamatsu/tips4economists) - Masayuki Kudamatsu
 
-[Data Science and Economics](https://github.com/vkoul/Economics-and-Data-Science)
+- [Data Science and Economics](https://github.com/vkoul/Economics-and-Data-Science)

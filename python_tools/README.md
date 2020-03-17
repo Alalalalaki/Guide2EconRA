@@ -7,10 +7,10 @@
 - Useful python packages:
   - Econ & Econometrics
     - linearmodels
-    - quantecon
+    - quantecon (require interpolation)
     - pyblp
-    - interpolation
     - numecon
+    - [Estimagic](https://estimagic.readthedocs.io/en/latest/)
   - Plotting
     - altair
     - matplotlib-label-lines
@@ -21,7 +21,7 @@
     - missingno
     - pandas-datareader
   - Web scrapping
-    - requests-html
+    - requests or requests-html
     - selenium
   - Others
     - panel
