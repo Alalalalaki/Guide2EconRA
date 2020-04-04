@@ -50,6 +50,8 @@
 - [Computational Statistics in Python](http://people.duke.edu/~ccc14/cspy/index.html)
 - [Python computational labs](https://acme.byu.edu/2019-2020-materials/)
 - [Real Python Tutorials](https://realpython.com/tutorials/all/)
+- [Scipy Lecture Notes](https://scipy-lectures.org/) 
+- [Hypermodern Python](https://cjolowicz.github.io/posts/)
 
 
 
@@ -147,6 +149,7 @@
 - [Microeconometrics](https://github.com/HumanCapitalAnalysis/microeconometrics#lectures) - [Analysis of Human Capital](https://github.com/HumanCapitalAnalysis)
 - [Labor Economics](https://github.com/HumanCapitalAnalysis/labor-economics) - Analysis of Human Capital
 - [Econometrics of Human Capital](https://github.com/HumanCapitalAnalysis/policy-evaluation) - Analysis of Human Capital
+- [Introduction to Econometrics with R](https://github.com/mca91/EconometricsWithR) 
 
 
 

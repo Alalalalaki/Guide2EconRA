@@ -11,6 +11,8 @@
     - pyblp
     - numecon
     - [Estimagic](https://estimagic.readthedocs.io/en/latest/)
+    - [respy, grmpy](https://ose-resources.readthedocs.io/en/latest/OpenSourceEconomics.html#model-packages)
+    - [HARK](https://github.com/econ-ark/HARK)
   - Plotting
     - altair
     - matplotlib-label-lines
