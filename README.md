@@ -7,18 +7,25 @@
 - Hans-Martin von Gaudecker - [Effective programming practices for economists](https://www.wiwi.uni-bonn.de/gaudecker/prog_econ_slides.html#prog-econ-slides)
 - Jesús Fernández-Villaverde - [Computational Methods for Economists](https://www.sas.upenn.edu/~jesusfv/teaching.html)
 - Richard W. Evans, et al. - Open Source Economics Laboratory (OSE Lab) Boot Camp [2019](https://github.com/OpenSourceEcon/BootCamp2019), [2018](https://github.com/OpenSourceEcon/BootCamp2018), [2017](https://github.com/OpenSourceEcon/BootCamp2017) 
-- Richard W. Evans - Perspectives on Computational Modeling for Economics [2020](https://github.com/UC-MACSS/persp-model-econ_w20) & Structural Estimation [2020](https://github.com/rickecon/StructEst_W20) & [Git and GitHub tutorial](https://github.com/nyupredocs/githubtutorial)
+- Richard W. Evans
+  - Perspectives on Computational Modeling for Economics [2020](https://github.com/UC-MACSS/persp-model-econ_w20) 
+  - Perspectives on Computational Research in Economics [2020](https://github.com/UC-MACSS/persp-research-econ_Spr20)
+  - Structural Estimation [2020](https://github.com/rickecon/StructEst_W20) 
+  - [Git and GitHub tutorial](https://github.com/nyupredocs/githubtutorial)
 - Jason DeBacker - Computational Methods for Economists [2017](https://github.com/jdebacker/CompEcon_Fall17), [2019](https://github.com/jdebacker/CompEcon_Fall19)
 - Jeppe Druedahl - [Introduction to Programming and Numerical Analysis](https://numeconcopenhagen.netlify.com/)
 - Tyler Ransom - Data Science for Economists [2020](https://github.com/tyleransom/DScourseS20)
 - Fedor Iskhakov - [Dynamic programming and structural estimation](https://github.com/CompEconCourse/CourseMaterials)
+- Grant McDermott - [Data science for economists](https://github.com/uo-ec607/lectures)
+- Kenneth Judd - Computational Economics [2020](https://github.com/KennethJudd/CompEcon2020)
 
 
 
-## Data & Code
+## Data & Code & Reproducibility
 
 - Gentzkow, M., & Shapiro, J. M. (2014). Code and data for the social sciences: A practitioner’s guide. Chicago, IL: University of Chicago.
 - Knittel, C. R., & Metaxoglou, K. (2016). Working with Data: Two Empiricists’ Experience. Journal of Econometric Methods, 7(1).
+- Christensen, Garret S. and Edward Miguel, "Transparency, Reproducibility, and the Credibility of Economics Research," Journal of Economic Literature, 56:3 pp. 920-980 (Sep. 2018).
 - [Coding for Economists: A Language-Agnostic Guide to Programming for Economists](https://scholar.harvard.edu/files/ristovska/files/coding_for_econs_20190221.pdf) - Ljubica Ristovska
 - [Templates for Reproducible Research Projects in Economics](https://github.com/OpenSourceEconomics/econ-project-templates)
 - Wilson, G., Bryan, J., Cranston, K., Kitzes, J., Nederbragt, L., & Teal, T. K. (2017). [Good enough practices in scientific computing](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510). PLoS computational biology, 13(6), e1005510.
@@ -59,6 +66,7 @@
 
 - QuantEcon
 - [Computational Economics with Data Science Applications](https://github.com/ubcecon/ECON622_2019) - Paul Schrimpf
+- [UBCECON567](https://github.com/UBCECON567) - Paul Schrimpf
 - [Think Julia: How to Think Like a Computer Scientist](https://benlauwens.github.io/ThinkJulia.jl/latest/book.html) - Ben Lauwens
 - [Econometrics lecture notes with examples using the Julia language](https://github.com/mcreel/Econometrics) - Michael Creel
 - [Statistics with Julia: Fundamentals for Data Science, Machine Learning and Artificial Intelligence](https://github.com/h-Klok/StatsWithJuliaBook) - H.Klok, Y.Nazarathy
@@ -69,10 +77,10 @@
 
 - Advanced Econometrics and Machine Learning: [2019](https://maxkasy.github.io/home/TopicsInEconometrics2019/), [2000](https://maxkasy.github.io/home/ML_Oxford_2020/) - Maximilian Kasy
 - collection of [useful computation links on R and ML](https://maxkasy.github.io/home/computationlinks/) - Maximilian Kasy
-- [Data science for economists](https://github.com/uo-ec607/lectures) - Grant McDermott
 - [Economics, Causality, and Analytics](https://github.com/NickCH-K/introcausality) - Nick Huntington-Klein 
 - [Library of Statistical Techniques](https://lost-stats.github.io/) - Nick Huntington-Klein 
 - [Statistical Learning and Causal Inference for Economics](https://github.com/fditraglia/econ224) - Francis J. DiTraglia
+- [Causal-Inference-for-Beginning-Undergraduates](https://github.com/tomogradyucl/Causal-Inference-for-Beginning-Undergraduates) - Tom O'Grady
 
 
 
@@ -132,6 +140,7 @@
 ## Machine Learning
 
 - [Data Science & Artificial Intelligence](https://chrisalbon.com/) - Chris Albon (and a lot of other stuffs)
+- [A course in machine learning for economists](https://github.com/ml4econ)
 
 
 
@@ -139,6 +148,7 @@
 
 - [Awesome Scientific Writing](https://github.com/ashwinvis/awesome-scientific-writing)
 - [awesome-causality-algorithms](https://github.com/rguo12/awesome-causality-algorithms)
+- [MATLAB–Python–Julia cheatsheet](https://cheatsheets.quantecon.org/index.html)
 
 
 
@@ -150,6 +160,7 @@
 - [Labor Economics](https://github.com/HumanCapitalAnalysis/labor-economics) - Analysis of Human Capital
 - [Econometrics of Human Capital](https://github.com/HumanCapitalAnalysis/policy-evaluation) - Analysis of Human Capital
 - [Introduction to Econometrics with R](https://github.com/mca91/EconometricsWithR) 
+- [Advanced Macro](https://github.com/jbduarte/Advanced_Macro) - Joao B. Duarte
 
 
 
@@ -158,11 +169,8 @@
 ## Links to more general Econ resources
 
 - [Advice for current and aspiring academic economists](http://jenniferdoleac.com/resources/) - Jennifer Doleac
-
 - [Writing, Presentation, and Refereeing Advice](https://sites.google.com/site/amandayagan/writingadvice) - Amanda Y. Agan
-
 - [Resource](http://www.ryanbedwards.com/resources) - Ryan B Edwards
-
 - [Tips 4 Economists](https://sites.google.com/site/mkudamatsu/tips4economists) - Masayuki Kudamatsu
-
+- [Research resources that I recommend](https://faculty.chicagobooth.edu/jonathan.dingel/teaching/advice.html) - Jonathan Dingel 
 - [Data Science and Economics](https://github.com/vkoul/Economics-and-Data-Science)
