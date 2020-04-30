@@ -4,7 +4,7 @@
 
 - Use both jupyter notebook and editor. They works best in different situations. The most commonly recommended editor is vscode.
 - Use conda environment. The advance operation is to use virtual environment for different projects.
-- Useful python packages:
+- Useful python packages (except numpy, pandas, matplotlib, etc.):
   - Econ & Econometrics
     - linearmodels
     - quantecon (require interpolation)
