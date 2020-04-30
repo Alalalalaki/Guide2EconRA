@@ -1,4 +1,4 @@
-# A Student's Guide to Efficient Econ RA Work
+# A Student's Guide to Efficient ~~RA~~ Computational Work in Economics 
 
 ---
 
@@ -7,7 +7,7 @@
 - Hans-Martin von Gaudecker - [Effective programming practices for economists](https://www.wiwi.uni-bonn.de/gaudecker/prog_econ_slides.html#prog-econ-slides)
 - Jesús Fernández-Villaverde - [Computational Methods for Economists](https://www.sas.upenn.edu/~jesusfv/teaching.html)
 - Richard W. Evans, et al. - Open Source Economics Laboratory (OSE Lab) Boot Camp [2019](https://github.com/OpenSourceEcon/BootCamp2019), [2018](https://github.com/OpenSourceEcon/BootCamp2018), [2017](https://github.com/OpenSourceEcon/BootCamp2017) 
-- Richard W. Evans
+- Richard W. Evans -
   - Perspectives on Computational Modeling for Economics [2020](https://github.com/UC-MACSS/persp-model-econ_w20) 
   - Perspectives on Computational Research in Economics [2020](https://github.com/UC-MACSS/persp-research-econ_Spr20)
   - Structural Estimation [2020](https://github.com/rickecon/StructEst_W20) 
@@ -25,7 +25,7 @@
 
 - Gentzkow, M., & Shapiro, J. M. (2014). Code and data for the social sciences: A practitioner’s guide. Chicago, IL: University of Chicago.
 - Knittel, C. R., & Metaxoglou, K. (2016). Working with Data: Two Empiricists’ Experience. Journal of Econometric Methods, 7(1).
-- Christensen, Garret S. and Edward Miguel, "Transparency, Reproducibility, and the Credibility of Economics Research," Journal of Economic Literature, 56:3 pp. 920-980 (Sep. 2018).
+- Christensen, Garret S. and Edward Miguel, "[Transparency, Reproducibility, and the Credibility of Economics Research](https://www.aeaweb.org/articles?id=10.1257/jel.20171350)," Journal of Economic Literature, 56:3 pp. 920-980 (Sep. 2018).
 - [Coding for Economists: A Language-Agnostic Guide to Programming for Economists](https://scholar.harvard.edu/files/ristovska/files/coding_for_econs_20190221.pdf) - Ljubica Ristovska
 - [Templates for Reproducible Research Projects in Economics](https://github.com/OpenSourceEconomics/econ-project-templates)
 - Wilson, G., Bryan, J., Cranston, K., Kitzes, J., Nederbragt, L., & Teal, T. K. (2017). [Good enough practices in scientific computing](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510). PLoS computational biology, 13(6), e1005510.
