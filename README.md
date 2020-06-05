@@ -32,6 +32,7 @@
 - [The Plain Person’s Guide to Plain Text Social Science](http://plain-text.co/index.html#introduction) - Kieran Healy
 - [Data and Code Guidance by Data Editors](https://social-science-data-editors.github.io/guidance/) (also see [the](https://twitter.com/AeaData/status/1199691179291484161) [AEA guidance](https://www.aeaweb.org/journals/policies/sample-references) on [Data and Code](https://aeadataeditor.github.io/aea-de-guidance/addtl-data-citation-guidance.html))
 - [Best Practices when Writing Code](http://www.danielmsullivan.com/pages/tutorial_workflow_3bestpractice.html)
+- Patrick Ball - [The Task Is A Quantum Of Workflow](https://hrdag.org/2016/06/14/the-task-is-a-quantum-of-workflow/) and [Principled Data Processing](https://www.youtube.com/watch?v=ZSunU9GQdcI)
 
 
 
@@ -81,6 +82,18 @@
 - [Library of Statistical Techniques](https://lost-stats.github.io/) - Nick Huntington-Klein 
 - [Statistical Learning and Causal Inference for Economics](https://github.com/fditraglia/econ224) - Francis J. DiTraglia
 - [Causal-Inference-for-Beginning-Undergraduates](https://github.com/tomogradyucl/Causal-Inference-for-Beginning-Undergraduates) - Tom O'Grady
+- [Data science for economists](https://github.com/uo-ec607/lectures) - Grant McDermott
+
+
+
+## Stata
+
+- [Fundamentals of data analysis and visualization](http://geocenter.github.io/StataTraining/)
+- [Economics Lesson with Stata](https://datacarpentry.org/stata-economics/index.html)
+- [Statistical Analysis](https://stats.idre.ucla.edu/stata/#) - UCLA
+- [Statistics cheatsheet (R, Python, Stata)](https://cheatsheets.quantecon.org/stats-cheatsheet.html) - QuantEcon
+- [Stata to Python Equivalents](http://www.danielmsullivan.com/pages/tutorial_stata_to_python.html) - Daniel M. Sullivan
+- [Pandas comparison with Stata](https://pandas.pydata.org/docs/getting_started/comparison/comparison_with_stata.html)
 
 
 
@@ -141,6 +154,7 @@
 
 - [Data Science & Artificial Intelligence](https://chrisalbon.com/) - Chris Albon (and a lot of other stuffs)
 - [A course in machine learning for economists](https://github.com/ml4econ)
+- [Machine Learning for Econometrics](https://github.com/jlhourENSAE/hdmetrics) - Jérémy L'Hour
 
 
 
@@ -149,6 +163,7 @@
 - [Awesome Scientific Writing](https://github.com/ashwinvis/awesome-scientific-writing)
 - [awesome-causality-algorithms](https://github.com/rguo12/awesome-causality-algorithms)
 - [MATLAB–Python–Julia cheatsheet](https://cheatsheets.quantecon.org/index.html)
+- [mostly-harmless-replication in Stata, R, Python and Julia](https://github.com/vikjam/mostly-harmless-replication)
 
 
 
@@ -161,6 +176,8 @@
 - [Econometrics of Human Capital](https://github.com/HumanCapitalAnalysis/policy-evaluation) - Analysis of Human Capital
 - [Introduction to Econometrics with R](https://github.com/mca91/EconometricsWithR) 
 - [Advanced Macro](https://github.com/jbduarte/Advanced_Macro) - Joao B. Duarte
+- [Econometrics](https://github.com/bryangraham) - Bryan S. Graham
+- [Advanced Topics in Microeconometrics](https://github.com/alfredgalichon/microeconometrics2018s) - Alfred Galichon 
 
 
 
@@ -174,3 +191,6 @@
 - [Tips 4 Economists](https://sites.google.com/site/mkudamatsu/tips4economists) - Masayuki Kudamatsu
 - [Research resources that I recommend](https://faculty.chicagobooth.edu/jonathan.dingel/teaching/advice.html) - Jonathan Dingel 
 - [Data Science and Economics](https://github.com/vkoul/Economics-and-Data-Science)
+- [Advice resource](https://faculty.chicagobooth.edu/jonathan.dingel/teaching/advice.html) - Jonathan Dingel
+- [Mentoring Reading Materials](https://www.aeaweb.org/about-aea/committees/cswep/mentoring/reading) - AEA-CSWEP
+

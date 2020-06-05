@@ -22,6 +22,9 @@
     - japandas
     - missingno
     - pandas-datareader
+  - Database
+    - [sqlite](https://docs.python.org/3/library/sqlite3.html)
+    - [Ibis](https://docs.ibis-project.org/)
   - Web scrapping
     - requests or requests-html
     - selenium
