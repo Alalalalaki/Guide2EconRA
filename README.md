@@ -67,10 +67,12 @@
 
 - QuantEcon
 - [Computational Economics with Data Science Applications](https://github.com/ubcecon/ECON622_2019) - Paul Schrimpf
-- [UBCECON567](https://github.com/UBCECON567) - Paul Schrimpf
+- [UBC ECON567 IO](https://github.com/UBCECON567) - Paul Schrimpf
+- [Dynamic Optimization/Computational Methods](https://github.com/AEM7130/spring-2020) - Ivan Rudik
 - [Think Julia: How to Think Like a Computer Scientist](https://benlauwens.github.io/ThinkJulia.jl/latest/book.html) - Ben Lauwens
 - [Econometrics lecture notes with examples using the Julia language](https://github.com/mcreel/Econometrics) - Michael Creel
 - [Statistics with Julia: Fundamentals for Data Science, Machine Learning and Artificial Intelligence](https://github.com/h-Klok/StatsWithJuliaBook) - H.Klok, Y.Nazarathy
+- [An Introduction to Structural Econometrics in Julia](https://juliaeconomics.com/tutorials/) - Bradley J. Setzler
 
 
 
@@ -105,6 +107,7 @@
 - [Git, GitHub, and Version Control](https://julia.quantecon.org/more_julia/version_control.html) - QuantEcon
 - [Git and GitHub tutorial chapter](https://github.com/nyupredocs/githubtutorial/blob/master/Tutorials/git_tutorial.pdf) - Richard Evans
 - Bryan, J. (2018). [Excuse me, do you have a moment to talk about version control?.](https://peerj.com/preprints/3159.pdf) The American Statistician, 72(1), 20-27.
+- Bruno, R. (2016). Version control systems to facilitate research collaboration in economics. Computational Economics, 48(3), 547-553.
 - [git + LaTeX workflow](https://stackoverflow.com/questions/6188780/git-latex-workflow) - stackoverflow
 - [Pro Git book](https://git-scm.com/book/en/v2) - Scott Chacon & Ben Straub
 - [Git Tutorials and Training](https://www.atlassian.com/git/tutorials) - Atlassian
@@ -160,6 +163,7 @@
 
 ## Unsorted
 
+- Aruoba, S. B., & Fernández-Villaverde, J. (2018). [A comparison of programming languages in economics](https://www.sas.upenn.edu/~jesusfv/research.html).
 - [Awesome Scientific Writing](https://github.com/ashwinvis/awesome-scientific-writing)
 - [awesome-causality-algorithms](https://github.com/rguo12/awesome-causality-algorithms)
 - [MATLAB–Python–Julia cheatsheet](https://cheatsheets.quantecon.org/index.html)

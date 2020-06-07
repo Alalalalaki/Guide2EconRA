@@ -8,7 +8,7 @@
   - Econ & Econometrics
     - linearmodels
     - quantecon (require interpolation)
-    - pyblp
+    - pyblp / torchblp
     - numecon
     - [Estimagic](https://estimagic.readthedocs.io/en/latest/)
     - [respy, grmpy](https://ose-resources.readthedocs.io/en/latest/OpenSourceEconomics.html#model-packages)
