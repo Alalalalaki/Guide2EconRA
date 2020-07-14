@@ -23,7 +23,7 @@
 
 ## Data & Code & Reproducibility
 
-- Gentzkow, M., & Shapiro, J. M. (2014). Code and data for the social sciences: A practitioner’s guide. Chicago, IL: University of Chicago.
+- Gentzkow, M., & Shapiro, J. M. (2014). Code and data for the social sciences: A practitioner’s guide. Chicago, IL: University of Chicago. ([Github manual](https://github.com/gslab-econ/ra-manual/wiki/Getting-Started))
 - Knittel, C. R., & Metaxoglou, K. (2016). Working with Data: Two Empiricists’ Experience. Journal of Econometric Methods, 7(1).
 - Christensen, Garret S. and Edward Miguel, "[Transparency, Reproducibility, and the Credibility of Economics Research](https://www.aeaweb.org/articles?id=10.1257/jel.20171350)," Journal of Economic Literature, 56:3 pp. 920-980 (Sep. 2018).
 - [Coding for Economists: A Language-Agnostic Guide to Programming for Economists](https://scholar.harvard.edu/files/ristovska/files/coding_for_econs_20190221.pdf) - Ljubica Ristovska
@@ -85,6 +85,7 @@
 - [Statistical Learning and Causal Inference for Economics](https://github.com/fditraglia/econ224) - Francis J. DiTraglia
 - [Causal-Inference-for-Beginning-Undergraduates](https://github.com/tomogradyucl/Causal-Inference-for-Beginning-Undergraduates) - Tom O'Grady
 - [Data science for economists](https://github.com/uo-ec607/lectures) - Grant McDermott
+- [Introduction to Econometrics with R](https://www.econometrics-with-r.org/index.html) - Christoph Hanck, et al.
 
 
 
@@ -168,6 +169,7 @@
 - [awesome-causality-algorithms](https://github.com/rguo12/awesome-causality-algorithms)
 - [MATLAB–Python–Julia cheatsheet](https://cheatsheets.quantecon.org/index.html)
 - [mostly-harmless-replication in Stata, R, Python and Julia](https://github.com/vikjam/mostly-harmless-replication)
+- [Merely Useful](https://github.com/merely-useful/merely-useful.github.io) (python and r lecture)
 
 
 
@@ -182,6 +184,8 @@
 - [Advanced Macro](https://github.com/jbduarte/Advanced_Macro) - Joao B. Duarte
 - [Econometrics](https://github.com/bryangraham) - Bryan S. Graham
 - [Advanced Topics in Microeconometrics](https://github.com/alfredgalichon/microeconometrics2018s) - Alfred Galichon 
+- [UG Econometrics](https://github.com/ScPoEcon/ScPoEconometrics) - SciencePo
+- [UG Growth](https://growthecon.com/StudyGuide/) - Dietz Vollrath 
 
 
 
