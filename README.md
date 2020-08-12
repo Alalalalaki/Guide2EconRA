@@ -30,9 +30,17 @@
 - [Templates for Reproducible Research Projects in Economics](https://github.com/OpenSourceEconomics/econ-project-templates)
 - Wilson, G., Bryan, J., Cranston, K., Kitzes, J., Nederbragt, L., & Teal, T. K. (2017). [Good enough practices in scientific computing](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510). PLoS computational biology, 13(6), e1005510.
 - [The Plain Person’s Guide to Plain Text Social Science](http://plain-text.co/index.html#introduction) - Kieran Healy
-- [Data and Code Guidance by Data Editors](https://social-science-data-editors.github.io/guidance/) (also see [the](https://twitter.com/AeaData/status/1199691179291484161) [AEA guidance](https://www.aeaweb.org/journals/policies/sample-references) on [Data and Code](https://aeadataeditor.github.io/aea-de-guidance/addtl-data-citation-guidance.html))
+- [Data and Code Guidance by Data Editors](https://social-science-data-editors.github.io/guidance/) (also see [the](https://twitter.com/AeaData/status/1199691179291484161) [AEA guidance](https://www.aeaweb.org/journals/policies/sample-references) on [Data and Code](https://aeadataeditor.github.io/aea-de-guidance/addtl-data-citation-guidance.html)) ([github](https://github.com/AEADataEditor))
 - [Best Practices when Writing Code](http://www.danielmsullivan.com/pages/tutorial_workflow_3bestpractice.html)
 - Patrick Ball - [The Task Is A Quantum Of Workflow](https://hrdag.org/2016/06/14/the-task-is-a-quantum-of-workflow/) and [Principled Data Processing](https://www.youtube.com/watch?v=ZSunU9GQdcI)
+
+
+
+## Tips on Doing Computational Work
+
+- Michael Keane - [Practical Issues in Structural Estimation](file:///Users/alalalalaki/Desktop/IO%20Ind%20Org/Lecture%20*****/Dynamic%20Structural%20Econometrics%20-%20Econometric%20Society%20Summer%20School%20-%202019%20(github)%20*****/08_Art_Keane/Art_Structural_Modeling_Chicago.pdf)
+- Chris Taber -  [Estimation of Policy Counterfactuals](https://hceconomics.uchicago.edu/sites/default/files/file_uploads/policy16.pdf) / [Structural Estimation](https://www.ssc.wisc.edu/~ctaber/718/struct.pdf) 
+- Tony Smith - [Tips for Doing Computational Work in Economics](http://www.econ.yale.edu/smith/econ561a/compute6.pdf)
 
 
 
@@ -73,6 +81,7 @@
 - [Econometrics lecture notes with examples using the Julia language](https://github.com/mcreel/Econometrics) - Michael Creel
 - [Statistics with Julia: Fundamentals for Data Science, Machine Learning and Artificial Intelligence](https://github.com/h-Klok/StatsWithJuliaBook) - H.Klok, Y.Nazarathy
 - [An Introduction to Structural Econometrics in Julia](https://juliaeconomics.com/tutorials/) - Bradley J. Setzler
+- [Computational Economics for PhDs](https://scpo-compecon.github.io/CoursePack/) - Florian Oswald
 
 
 
@@ -85,7 +94,9 @@
 - [Statistical Learning and Causal Inference for Economics](https://github.com/fditraglia/econ224) - Francis J. DiTraglia
 - [Causal-Inference-for-Beginning-Undergraduates](https://github.com/tomogradyucl/Causal-Inference-for-Beginning-Undergraduates) - Tom O'Grady
 - [Data science for economists](https://github.com/uo-ec607/lectures) - Grant McDermott
+- [Big Data in Economics](https://github.com/uo-ec510-2020-spring/lectures) - Grant McDermott
 - [Introduction to Econometrics with R](https://www.econometrics-with-r.org/index.html) - Christoph Hanck, et al.
+- [The tidyverse style guide](https://style.tidyverse.org/)
 
 
 
@@ -186,6 +197,7 @@
 - [Advanced Topics in Microeconometrics](https://github.com/alfredgalichon/microeconometrics2018s) - Alfred Galichon 
 - [UG Econometrics](https://github.com/ScPoEcon/ScPoEconometrics) - SciencePo
 - [UG Growth](https://growthecon.com/StudyGuide/) - Dietz Vollrath 
+- [Python Causality Handbook](https://github.com/matheusfacure/python-causality-handbook) - Matheus Facure
 
 
 
@@ -201,4 +213,5 @@
 - [Data Science and Economics](https://github.com/vkoul/Economics-and-Data-Science)
 - [Advice resource](https://faculty.chicagobooth.edu/jonathan.dingel/teaching/advice.html) - Jonathan Dingel
 - [Mentoring Reading Materials](https://www.aeaweb.org/about-aea/committees/cswep/mentoring/reading) - AEA-CSWEP
+- [Resources](https://github.com/mizuhirosuzuki/resources) - Mizuhito Suzuki
 
