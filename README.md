@@ -82,6 +82,7 @@
 - [Statistics with Julia: Fundamentals for Data Science, Machine Learning and Artificial Intelligence](https://github.com/h-Klok/StatsWithJuliaBook) - H.Klok, Y.Nazarathy
 - [An Introduction to Structural Econometrics in Julia](https://juliaeconomics.com/tutorials/) - Bradley J. Setzler
 - [Computational Economics for PhDs](https://scpo-compecon.github.io/CoursePack/) - Florian Oswald
+- [Tutorials on Topics in Julia Programming](https://github.com/johnmyleswhite/julia_tutorials)
 
 
 
@@ -108,6 +109,7 @@
 - [Statistics cheatsheet (R, Python, Stata)](https://cheatsheets.quantecon.org/stats-cheatsheet.html) - QuantEcon
 - [Stata to Python Equivalents](http://www.danielmsullivan.com/pages/tutorial_stata_to_python.html) - Daniel M. Sullivan
 - [Pandas comparison with Stata](https://pandas.pydata.org/docs/getting_started/comparison/comparison_with_stata.html)
+- [Stata Coding Guide](https://reifjulian.github.io/guide/) - Julian Reif
 
 
 
@@ -198,6 +200,7 @@
 - [UG Econometrics](https://github.com/ScPoEcon/ScPoEconometrics) - SciencePo
 - [UG Growth](https://growthecon.com/StudyGuide/) - Dietz Vollrath 
 - [Python Causality Handbook](https://github.com/matheusfacure/python-causality-handbook) - Matheus Facure
+- [Economic Growth and Comparative Development](https://econgrowth.github.io/) / [Macroeconomics II](https://macroeconomics.github.io/) - Ömer Özak
 
 
 
