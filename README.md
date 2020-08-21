@@ -16,7 +16,6 @@
 - Jeppe Druedahl - [Introduction to Programming and Numerical Analysis](https://numeconcopenhagen.netlify.com/)
 - Tyler Ransom - Data Science for Economists [2020](https://github.com/tyleransom/DScourseS20)
 - Fedor Iskhakov - [Dynamic programming and structural estimation](https://github.com/CompEconCourse/CourseMaterials)
-- Grant McDermott - [Data science for economists](https://github.com/uo-ec607/lectures)
 - Kenneth Judd - Computational Economics [2020](https://github.com/KennethJudd/CompEcon2020)
 
 
@@ -169,9 +168,10 @@
 
 ## Machine Learning
 
-- [Data Science & Artificial Intelligence](https://chrisalbon.com/) - Chris Albon (and a lot of other stuffs)
+- [Machine Learning for Economists (Resources)](https://sites.google.com/view/dariosansone/resources/machine-learning) - Dario Sansone
 - [A course in machine learning for economists](https://github.com/ml4econ)
 - [Machine Learning for Econometrics](https://github.com/jlhourENSAE/hdmetrics) - Jérémy L'Hour
+- [Data Science & Artificial Intelligence](https://chrisalbon.com/) - Chris Albon
 
 
 
