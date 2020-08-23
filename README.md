@@ -13,7 +13,6 @@
   - Structural Estimation [2020](https://github.com/rickecon/StructEst_W20) 
   - [Git and GitHub tutorial](https://github.com/nyupredocs/githubtutorial)
 - Jason DeBacker - Computational Methods for Economists [2017](https://github.com/jdebacker/CompEcon_Fall17), [2019](https://github.com/jdebacker/CompEcon_Fall19)
-- Jeppe Druedahl - [Introduction to Programming and Numerical Analysis](https://numeconcopenhagen.netlify.com/)
 - Tyler Ransom - Data Science for Economists [2020](https://github.com/tyleransom/DScourseS20)
 - Fedor Iskhakov - [Dynamic programming and structural estimation](https://github.com/CompEconCourse/CourseMaterials)
 - Kenneth Judd - Computational Economics [2020](https://github.com/KennethJudd/CompEcon2020)
@@ -37,18 +36,9 @@
 
 ## Tips on Doing Computational Work
 
-- Michael Keane - [Practical Issues in Structural Estimation](file:///Users/alalalalaki/Desktop/IO%20Ind%20Org/Lecture%20*****/Dynamic%20Structural%20Econometrics%20-%20Econometric%20Society%20Summer%20School%20-%202019%20(github)%20*****/08_Art_Keane/Art_Structural_Modeling_Chicago.pdf)
+- Michael Keane - [Practical Issues in Structural Estimation](https://www.youtube.com/watch?v=0hazaPBAYWE)
 - Chris Taber -  [Estimation of Policy Counterfactuals](https://hceconomics.uchicago.edu/sites/default/files/file_uploads/policy16.pdf) / [Structural Estimation](https://www.ssc.wisc.edu/~ctaber/718/struct.pdf) 
 - Tony Smith - [Tips for Doing Computational Work in Economics](http://www.econ.yale.edu/smith/econ561a/compute6.pdf)
-
-
-
-## Mac OS
-
-- [macOS Setup Guide](https://sourabhbajaj.com/mac-setup) (a little outdated)
-- [The Unix Shell](http://swcarpentry.github.io/shell-novice/) - [Software Carpentry](https://software-carpentry.org/lessons/index.html) (see also python, git, r, etc.)
-- [Corey Schafer's youtube channel](https://www.youtube.com/user/schafer5/videos) (very beginner-friendly videos for almost all basic things about mac, python, git, etc.)
-- Terminal: [here](https://react.design/terminal), [here](https://qiita.com/kinchiki/items/57e9391128d07819c321), [here](https://qiita.com/vimyum/items/44478a51ef3a6f49804f)
 
 
 
@@ -57,6 +47,7 @@
 - [QuantEcon](https://python.quantecon.org/) (also [here](https://github.com/QuantEcon/summer_course_2019))
 - [QuantEcon DataScience](https://datascience.quantecon.org/)
 - [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) - Jake VanderPlas (also his [A Whirlwind Tour of Python](https://jakevdp.github.io/WhirlwindTourOfPython/))
+- [Introduction to Programming and Numerical Analysis](https://numeconcopenhagen.netlify.com/) - Jeppe Druedahl
 - [Introduction to Python for Econometrics, Statistics and Numerical Analysis](https://www.kevinsheppard.com/teaching/python/notes/) - Kevin Sheppard
 - [NYU-Data-Bootcamp](https://nyu.data-bootcamp.com/)
 - [Data Analysis in Python](http://www.data-analysis-in-python.org/index.html)
@@ -81,6 +72,7 @@
 - [Statistics with Julia: Fundamentals for Data Science, Machine Learning and Artificial Intelligence](https://github.com/h-Klok/StatsWithJuliaBook) - H.Klok, Y.Nazarathy
 - [An Introduction to Structural Econometrics in Julia](https://juliaeconomics.com/tutorials/) - Bradley J. Setzler
 - [Computational Economics for PhDs](https://scpo-compecon.github.io/CoursePack/) - Florian Oswald
+- [Econometrics III](https://github.com/OU-PhD-Econometrics/fall-2020) - Tyler Ransom
 - [Tutorials on Topics in Julia Programming](https://github.com/johnmyleswhite/julia_tutorials)
 
 
@@ -109,6 +101,24 @@
 - [Stata to Python Equivalents](http://www.danielmsullivan.com/pages/tutorial_stata_to_python.html) - Daniel M. Sullivan
 - [Pandas comparison with Stata](https://pandas.pydata.org/docs/getting_started/comparison/comparison_with_stata.html)
 - [Stata Coding Guide](https://reifjulian.github.io/guide/) - Julian Reif
+
+
+
+## Machine Learning
+
+- [Machine Learning for Economists (Resources)](https://sites.google.com/view/dariosansone/resources/machine-learning) - Dario Sansone
+- [A course in machine learning for economists](https://github.com/ml4econ)
+- [Machine Learning for Econometrics](https://github.com/jlhourENSAE/hdmetrics) - Jérémy L'Hour
+- [Data Science & Artificial Intelligence](https://chrisalbon.com/) - Chris Albon
+
+
+
+## Mac OS
+
+- [macOS Setup Guide](https://sourabhbajaj.com/mac-setup) (a little outdated)
+- [The Unix Shell](http://swcarpentry.github.io/shell-novice/) - [Software Carpentry](https://software-carpentry.org/lessons/index.html) (see also python, git, r, etc.)
+- [Corey Schafer's youtube channel](https://www.youtube.com/user/schafer5/videos) (very beginner-friendly videos for almost all basic things about mac, python, git, etc.)
+- Terminal: [here](https://react.design/terminal), [here](https://qiita.com/kinchiki/items/57e9391128d07819c321), [here](https://qiita.com/vimyum/items/44478a51ef3a6f49804f)
 
 
 
@@ -163,15 +173,6 @@
 - [Some Data visualizations in Python](https://github.com/aaronpenne/data_visualization) 
 - [Python Plotting for Exploratory Data Analysis](https://pythonplot.com/#scatter-plot-with-facets)
 - [from Data to Viz](https://www.data-to-viz.com/) - [The Python Graph Gallery](https://python-graph-gallery.com/) / [The R Graph Gallery](https://www.r-graph-gallery.com/)
-
-
-
-## Machine Learning
-
-- [Machine Learning for Economists (Resources)](https://sites.google.com/view/dariosansone/resources/machine-learning) - Dario Sansone
-- [A course in machine learning for economists](https://github.com/ml4econ)
-- [Machine Learning for Econometrics](https://github.com/jlhourENSAE/hdmetrics) - Jérémy L'Hour
-- [Data Science & Artificial Intelligence](https://chrisalbon.com/) - Chris Albon
 
 
 
