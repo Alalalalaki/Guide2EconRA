@@ -4,17 +4,11 @@
 
 ## Comp Econ Lectures
 
+(programming-language-neutral)
+
 - Hans-Martin von Gaudecker - [Effective programming practices for economists](https://www.wiwi.uni-bonn.de/gaudecker/prog_econ_slides.html#prog-econ-slides)
 - Jesús Fernández-Villaverde - [Computational Methods for Economists](https://www.sas.upenn.edu/~jesusfv/teaching.html)
 - Richard W. Evans, et al. - Open Source Economics Laboratory (OSE Lab) Boot Camp [2019](https://github.com/OpenSourceEcon/BootCamp2019), [2018](https://github.com/OpenSourceEcon/BootCamp2018), [2017](https://github.com/OpenSourceEcon/BootCamp2017) 
-- Richard W. Evans -
-  - Perspectives on Computational Modeling for Economics [2020](https://github.com/UC-MACSS/persp-model-econ_w20) 
-  - Perspectives on Computational Research in Economics [2020](https://github.com/UC-MACSS/persp-research-econ_Spr20)
-  - Structural Estimation [2020](https://github.com/rickecon/StructEst_W20) 
-  - [Git and GitHub tutorial](https://github.com/nyupredocs/githubtutorial)
-- Jason DeBacker - Computational Methods for Economists [2017](https://github.com/jdebacker/CompEcon_Fall17), [2019](https://github.com/jdebacker/CompEcon_Fall19)
-- Tyler Ransom - Data Science for Economists [2020](https://github.com/tyleransom/DScourseS20)
-- Fedor Iskhakov - [Dynamic programming and structural estimation](https://github.com/CompEconCourse/CourseMaterials)
 - Kenneth Judd - Computational Economics [2020](https://github.com/KennethJudd/CompEcon2020)
 
 
@@ -34,7 +28,7 @@
 
 
 
-## Tips on Doing Computational Work
+## Tips for Comp Econ Work
 
 - Michael Keane - [Practical Issues in Structural Estimation](https://www.youtube.com/watch?v=0hazaPBAYWE)
 - Chris Taber -  [Estimation of Policy Counterfactuals](https://hceconomics.uchicago.edu/sites/default/files/file_uploads/policy16.pdf) / [Structural Estimation](https://www.ssc.wisc.edu/~ctaber/718/struct.pdf) 
@@ -42,14 +36,27 @@
 
 
 
-## Python
+## Python - Econ Lectures
 
-- [QuantEcon](https://python.quantecon.org/) (also [here](https://github.com/QuantEcon/summer_course_2019))
+- [QuantEcon - Python](https://python.quantecon.org/) (also [here](https://github.com/QuantEcon/summer_course_2019))
 - [QuantEcon DataScience](https://datascience.quantecon.org/)
-- [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) - Jake VanderPlas (also his [A Whirlwind Tour of Python](https://jakevdp.github.io/WhirlwindTourOfPython/))
-- [Introduction to Programming and Numerical Analysis](https://numeconcopenhagen.netlify.com/) - Jeppe Druedahl
-- [Introduction to Python for Econometrics, Statistics and Numerical Analysis](https://www.kevinsheppard.com/teaching/python/notes/) - Kevin Sheppard
+- Richard W. Evans -
+  - Perspectives on Computational Modeling for Economics [2020](https://github.com/UC-MACSS/persp-model-econ_w20) 
+  - Perspectives on Computational Research in Economics [2020](https://github.com/UC-MACSS/persp-research-econ_Spr20)
+  - Structural Estimation [2020](https://github.com/rickecon/StructEst_W20) 
+  - [Git and GitHub tutorial](https://github.com/nyupredocs/githubtutorial)
+- Jason DeBacker - Computational Methods for Economists [2017](https://github.com/jdebacker/CompEcon_Fall17), [2019](https://github.com/jdebacker/CompEcon_Fall19)
+- Tyler Ransom - Data Science for Economists [2020](https://github.com/tyleransom/DScourseS20)
+- Fedor Iskhakov - [Dynamic programming and structural estimation](https://github.com/CompEconCourse/CourseMaterials)
+- Jeppe Druedahl - [Introduction to Programming and Numerical Analysis](https://numeconcopenhagen.netlify.com/)
+- Kevin Sheppard - [Introduction to Python for Econometrics, Statistics and Numerical Analysis](https://www.kevinsheppard.com/teaching/python/notes/)
 - [NYU-Data-Bootcamp](https://nyu.data-bootcamp.com/)
+
+
+
+## Python - Other Tutorials
+
+- [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) - Jake VanderPlas (also [A Whirlwind Tour of Python](https://jakevdp.github.io/WhirlwindTourOfPython/))
 - [Data Analysis in Python](http://www.data-analysis-in-python.org/index.html)
 - [Modern Pandas](https://tomaugspurger.github.io/modern-1-intro.html)
 - [Introduction to Python for Science](https://clouds.eos.ubc.ca/~phil/djpine_python/index.html)
@@ -61,34 +68,56 @@
 
 
 
-## Julia
+## Julia - Econ Lectures
 
-- QuantEcon
-- [Computational Economics with Data Science Applications](https://github.com/ubcecon/ECON622_2019) - Paul Schrimpf
-- [UBC ECON567 IO](https://github.com/UBCECON567) - Paul Schrimpf
-- [Dynamic Optimization/Computational Methods](https://github.com/AEM7130/spring-2020) - Ivan Rudik
-- [Think Julia: How to Think Like a Computer Scientist](https://benlauwens.github.io/ThinkJulia.jl/latest/book.html) - Ben Lauwens
-- [Econometrics lecture notes with examples using the Julia language](https://github.com/mcreel/Econometrics) - Michael Creel
-- [Statistics with Julia: Fundamentals for Data Science, Machine Learning and Artificial Intelligence](https://github.com/h-Klok/StatsWithJuliaBook) - H.Klok, Y.Nazarathy
-- [An Introduction to Structural Econometrics in Julia](https://juliaeconomics.com/tutorials/) - Bradley J. Setzler
-- [Computational Economics for PhDs](https://scpo-compecon.github.io/CoursePack/) - Florian Oswald
-- [Econometrics III](https://github.com/OU-PhD-Econometrics/fall-2020) - Tyler Ransom
+- [QuantEcon - Julia](https://julia.quantecon.org/)
+- Paul Schrimpf - [Computational Economics with Data Science Applications](https://github.com/ubcecon/ECON622_2019)
+- Paul Schrimpf - [UBC ECON567 IO](https://github.com/UBCECON567)
+- Ivan Rudik - [Dynamic Optimization/Computational Methods](https://github.com/AEM7130/spring-2020)
+- Michael Creel - [Econometrics lecture notes with examples using the Julia language](https://github.com/mcreel/Econometrics)
+- Bradley J. Setzler - [An Introduction to Structural Econometrics in Julia](https://juliaeconomics.com/tutorials/)
+- Florian Oswald - [Computational Economics for PhDs](https://scpo-compecon.github.io/CoursePack/)
+- Tyler Ransom - [Econometrics III](https://github.com/OU-PhD-Econometrics/fall-2020)
 - [Tutorials on Topics in Julia Programming](https://github.com/johnmyleswhite/julia_tutorials)
 
 
 
-## R
+## Julia - Other Tutorials
 
-- Advanced Econometrics and Machine Learning: [2019](https://maxkasy.github.io/home/TopicsInEconometrics2019/), [2000](https://maxkasy.github.io/home/ML_Oxford_2020/) - Maximilian Kasy
-- collection of [useful computation links on R and ML](https://maxkasy.github.io/home/computationlinks/) - Maximilian Kasy
-- [Economics, Causality, and Analytics](https://github.com/NickCH-K/introcausality) - Nick Huntington-Klein 
-- [Library of Statistical Techniques](https://lost-stats.github.io/) - Nick Huntington-Klein 
-- [Statistical Learning and Causal Inference for Economics](https://github.com/fditraglia/econ224) - Francis J. DiTraglia
-- [Causal-Inference-for-Beginning-Undergraduates](https://github.com/tomogradyucl/Causal-Inference-for-Beginning-Undergraduates) - Tom O'Grady
-- [Data science for economists](https://github.com/uo-ec607/lectures) - Grant McDermott
-- [Big Data in Economics](https://github.com/uo-ec510-2020-spring/lectures) - Grant McDermott
-- [Introduction to Econometrics with R](https://www.econometrics-with-r.org/index.html) - Christoph Hanck, et al.
+- [Statistics with Julia: Fundamentals for Data Science, Machine Learning and Artificial Intelligence](https://github.com/h-Klok/StatsWithJuliaBook) - H.Klok, Y.Nazarathy
+- [Think Julia: How to Think Like a Computer Scientist](https://benlauwens.github.io/ThinkJulia.jl/latest/book.html) - Ben Lauwens
+
+
+
+## R - Econ Lectures
+
+- Maximilian Kasy - Advanced Econometrics and Machine Learning: [2019](https://maxkasy.github.io/home/TopicsInEconometrics2019/), [2000](https://maxkasy.github.io/home/ML_Oxford_2020/) / collection of [useful computation links on R and ML](https://maxkasy.github.io/home/computationlinks/)
+- Nick Huntington-Klein - [Economics, Causality, and Analytics](https://github.com/NickCH-K/introcausality)
+- Nick Huntington-Klein - [Library of Statistical Techniques](https://lost-stats.github.io/)
+- Francis J. DiTraglia - [Statistical Learning and Causal Inference for Economics](https://github.com/fditraglia/econ224)
+- Tom O'Grady - [Causal-Inference-for-Beginning-Undergraduates](https://github.com/tomogradyucl/Causal-Inference-for-Beginning-Undergraduates)
+- Grant McDermott - [Data science for economists](https://github.com/uo-ec607/lectures) / [Big Data in Economics](https://github.com/uo-ec510-2020-spring/lectures)
+- Christoph Hanck, et al. - [Introduction to Econometrics with R](https://www.econometrics-with-r.org/index.html)
+
+
+
+## R - Other Tutorials
+
 - [The tidyverse style guide](https://style.tidyverse.org/)
+
+
+
+## Machine Learning For Economists
+
+- Dario Sansone - [Machine Learning for Economists (Resources)](https://sites.google.com/view/dariosansone/resources/machine-learning)
+- Itamar Caspi - [A course in machine learning for economists](https://github.com/ml4econ)
+- Jérémy L'Hour - [Machine Learning for Econometrics](https://github.com/jlhourENSAE/hdmetrics)
+
+
+
+## Machine Learning - Other Resources
+
+- [Data Science & Artificial Intelligence](https://chrisalbon.com/) - Chris Albon
 
 
 
@@ -104,14 +133,7 @@
 
 
 
-## Machine Learning
-
-- [Machine Learning for Economists (Resources)](https://sites.google.com/view/dariosansone/resources/machine-learning) - Dario Sansone
-- [A course in machine learning for economists](https://github.com/ml4econ)
-- [Machine Learning for Econometrics](https://github.com/jlhourENSAE/hdmetrics) - Jérémy L'Hour
-- [Data Science & Artificial Intelligence](https://chrisalbon.com/) - Chris Albon
-
-
+---
 
 ## Mac OS
 
@@ -207,7 +229,7 @@
 
 ---
 
-## Links to more general Econ resources
+## Links to Other Econ Resources
 
 - [Advice for current and aspiring academic economists](http://jenniferdoleac.com/resources/) - Jennifer Doleac
 - [Writing, Presentation, and Refereeing Advice](https://sites.google.com/site/amandayagan/writingadvice) - Amanda Y. Agan
