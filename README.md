@@ -1,4 +1,4 @@
-# A Student's Guide to Efficient ~~RA~~ Computational Work in Economics 
+# Guide to Efficient ~~RA~~ Computational Work in Economics 
 
 ---
 
