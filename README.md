@@ -73,7 +73,7 @@
 - [QuantEcon - Julia](https://julia.quantecon.org/)
 - Paul Schrimpf - [Computational Economics with Data Science Applications](https://github.com/ubcecon/ECON622_2019)
 - Paul Schrimpf - [UBC ECON567 IO](https://github.com/UBCECON567)
-- Ivan Rudik - [Dynamic Optimization/Computational Methods](https://github.com/AEM7130/spring-2020)
+- Ivan Rudik - [Environmental and Resource Economics](https://github.com/AEM7130/spring-2020)
 - Michael Creel - [Econometrics lecture notes with examples using the Julia language](https://github.com/mcreel/Econometrics)
 - Bradley J. Setzler - [An Introduction to Structural Econometrics in Julia](https://juliaeconomics.com/tutorials/)
 - Florian Oswald - [Computational Economics for PhDs](https://scpo-compecon.github.io/CoursePack/)
@@ -104,6 +104,7 @@
 ## R - Other Tutorials
 
 - [The tidyverse style guide](https://style.tidyverse.org/)
+- dlab-berkeley - [R-Fundamentals](https://github.com/dlab-berkeley/R-Fundamentals) / ...
 
 
 
@@ -213,17 +214,14 @@
 
 ## Other Econ Lectures on Github
 
-- [Microeconometrics](https://github.com/HumanCapitalAnalysis/microeconometrics#lectures) - [Analysis of Human Capital](https://github.com/HumanCapitalAnalysis)
-- [Labor Economics](https://github.com/HumanCapitalAnalysis/labor-economics) - Analysis of Human Capital
-- [Econometrics of Human Capital](https://github.com/HumanCapitalAnalysis/policy-evaluation) - Analysis of Human Capital
-- [Introduction to Econometrics with R](https://github.com/mca91/EconometricsWithR) 
-- [Advanced Macro](https://github.com/jbduarte/Advanced_Macro) - Joao B. Duarte
-- [Econometrics](https://github.com/bryangraham) - Bryan S. Graham
-- [Advanced Topics in Microeconometrics](https://github.com/alfredgalichon/microeconometrics2018s) - Alfred Galichon 
-- [UG Econometrics](https://github.com/ScPoEcon/ScPoEconometrics) - SciencePo
-- [UG Growth](https://growthecon.com/StudyGuide/) - Dietz Vollrath 
-- [Python Causality Handbook](https://github.com/matheusfacure/python-causality-handbook) - Matheus Facure
-- [Economic Growth and Comparative Development](https://econgrowth.github.io/) / [Macroeconomics II](https://macroeconomics.github.io/) - Ömer Özak
+- [Analysis of Human Capital](https://github.com/HumanCapitalAnalysis) - [Microeconometrics](https://github.com/HumanCapitalAnalysis/microeconometrics#lectures) / [Labor Economics](https://github.com/HumanCapitalAnalysis/labor-economics) / [Econometrics of Human Capital](https://github.com/HumanCapitalAnalysis/policy-evaluation) - Analysis of Human Capital
+- Joao B. Duarte - [Advanced Macro](https://github.com/jbduarte/Advanced_Macro)
+- Bryan S. Graham - [Econometrics](https://github.com/bryangraham) 
+- Alfred Galichon - [Advanced Topics in Microeconometrics](https://github.com/alfredgalichon/microeconometrics2018s)
+- SciencePo - [UG Econometrics](https://github.com/ScPoEcon/ScPoEconometrics)
+- Dietz Vollrath - [UG Growth](https://growthecon.com/StudyGuide/)
+- Matheus Facure - [Python Causality Handbook](https://github.com/matheusfacure/python-causality-handbook)
+- Ömer Özak - [Economic Growth and Comparative Development](https://econgrowth.github.io/) / [Macroeconomics II](https://macroeconomics.github.io/)
 
 
 
