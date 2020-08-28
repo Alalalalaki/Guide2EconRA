@@ -7,7 +7,8 @@
 - Useful python packages (except numpy, pandas, matplotlib, etc.):
   - Econ & Econometrics
     - linearmodels
-    - quantecon (require interpolation)
+    - [interpolation](https://github.com/EconForge/interpolation.py)
+    - quantecon
     - pyblp / torchblp
     - numecon
     - [Estimagic](https://estimagic.readthedocs.io/en/latest/)

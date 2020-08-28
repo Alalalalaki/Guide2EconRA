@@ -112,6 +112,7 @@
 
 - Dario Sansone - [Machine Learning for Economists (Resources)](https://sites.google.com/view/dariosansone/resources/machine-learning)
 - Itamar Caspi - [A course in machine learning for economists](https://github.com/ml4econ)
+- Stephen Hansen - [machine_learning_economics](https://github.com/sekhansen/machine_learning_economics) / [text-mining-tutorial](https://github.com/sekhansen/text-mining-tutorial)
 - Jérémy L'Hour - [Machine Learning for Econometrics](https://github.com/jlhourENSAE/hdmetrics)
 
 
@@ -214,10 +215,11 @@
 
 ## Other Econ Lectures on Github
 
-- [Analysis of Human Capital](https://github.com/HumanCapitalAnalysis) - [Microeconometrics](https://github.com/HumanCapitalAnalysis/microeconometrics#lectures) / [Labor Economics](https://github.com/HumanCapitalAnalysis/labor-economics) / [Econometrics of Human Capital](https://github.com/HumanCapitalAnalysis/policy-evaluation) - Analysis of Human Capital
+- [Analysis of Human Capital](https://github.com/HumanCapitalAnalysis) - [Microeconometrics](https://github.com/HumanCapitalAnalysis/microeconometrics#lectures) / [Labor Economics](https://github.com/HumanCapitalAnalysis/labor-economics) / [Econometrics of Human Capital](https://github.com/HumanCapitalAnalysis/policy-evaluation)
 - Joao B. Duarte - [Advanced Macro](https://github.com/jbduarte/Advanced_Macro)
 - Bryan S. Graham - [Econometrics](https://github.com/bryangraham) 
 - Alfred Galichon - [Advanced Topics in Microeconometrics](https://github.com/alfredgalichon/microeconometrics2018s)
+- Alfred Galichon - ['math+econ+code' series](http://alfredgalichon.com/coursesandtalks/)
 - SciencePo - [UG Econometrics](https://github.com/ScPoEcon/ScPoEconometrics)
 - Dietz Vollrath - [UG Growth](https://growthecon.com/StudyGuide/)
 - Matheus Facure - [Python Causality Handbook](https://github.com/matheusfacure/python-causality-handbook)
