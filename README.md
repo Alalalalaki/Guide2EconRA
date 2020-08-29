@@ -137,12 +137,13 @@
 
 ---
 
-## Mac OS
+## OS
 
-- [macOS Setup Guide](https://sourabhbajaj.com/mac-setup) (a little outdated)
+- [macOS Setup Guide](https://sourabhbajaj.com/mac-setup) (somehow outdated)
 - [The Unix Shell](http://swcarpentry.github.io/shell-novice/) - [Software Carpentry](https://software-carpentry.org/lessons/index.html) (see also python, git, r, etc.)
 - [Corey Schafer's youtube channel](https://www.youtube.com/user/schafer5/videos) (very beginner-friendly videos for almost all basic things about mac, python, git, etc.)
 - Terminal: [here](https://react.design/terminal), [here](https://qiita.com/kinchiki/items/57e9391128d07819c321), [here](https://qiita.com/vimyum/items/44478a51ef3a6f49804f)
+- [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line)
 
 
 
