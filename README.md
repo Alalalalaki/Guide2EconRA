@@ -56,15 +56,17 @@
 
 ## Python - Other Tutorials
 
-- [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) - Jake VanderPlas (also [A Whirlwind Tour of Python](https://jakevdp.github.io/WhirlwindTourOfPython/))
-- [Data Analysis in Python](http://www.data-analysis-in-python.org/index.html)
-- [Modern Pandas](https://tomaugspurger.github.io/modern-1-intro.html)
+- Jake VanderPlas - [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) / [A Whirlwind Tour of Python](https://jakevdp.github.io/WhirlwindTourOfPython/)
+- Nick Eubank - [Data Analysis in Python](http://www.data-analysis-in-python.org/index.html)
+- Tom Augspurger - [Modern Pandas](https://tomaugspurger.github.io/modern-1-intro.html)
 - [Introduction to Python for Science](https://clouds.eos.ubc.ca/~phil/djpine_python/index.html)
 - [Computational Statistics in Python](http://people.duke.edu/~ccc14/cspy/index.html)
 - [Python computational labs](https://acme.byu.edu/2019-2020-materials/)
 - [Real Python Tutorials](https://realpython.com/tutorials/all/)
 - [Scipy Lecture Notes](https://scipy-lectures.org/) 
-- [Hypermodern Python](https://cjolowicz.github.io/posts/)
+- Claudio Jolowicz - [Hypermodern Python](https://cjolowicz.github.io/posts/)
+- Nicolas P. Rougier - [From Python to Numpy](https://www.labri.fr/perso/nrougier/from-python-to-numpy/)
+- Nicolas P. Rougier - [Scientific Visualization – Python & Matplotlib](https://github.com/rougier/scientific-visualization-book) / [Matplotlib cheat sheet](https://github.com/rougier/matplotlib-cheatsheet)
 
 
 
@@ -214,7 +216,6 @@
 - [Awesome Scientific Writing](https://github.com/ashwinvis/awesome-scientific-writing)
 - [awesome-causality-algorithms](https://github.com/rguo12/awesome-causality-algorithms)
 - [MATLAB–Python–Julia cheatsheet](https://cheatsheets.quantecon.org/index.html)
-- [mostly-harmless-replication in Stata, R, Python and Julia](https://github.com/vikjam/mostly-harmless-replication)
 - [Merely Useful](https://github.com/merely-useful/merely-useful.github.io) (python and r lecture)
 
 
@@ -232,6 +233,7 @@
 - Dietz Vollrath - [UG Growth](https://growthecon.com/StudyGuide/)
 - Matheus Facure - [Python Causality Handbook](https://github.com/matheusfacure/python-causality-handbook)
 - Ömer Özak - [Economic Growth and Comparative Development](https://econgrowth.github.io/) / [Macroeconomics II](https://macroeconomics.github.io/)
+- [mostly-harmless-replication in Stata, R, Python and Julia](https://github.com/vikjam/mostly-harmless-replication)
 
 
 
