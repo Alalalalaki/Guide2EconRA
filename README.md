@@ -100,13 +100,16 @@
 - Tom O'Grady - [Causal-Inference-for-Beginning-Undergraduates](https://github.com/tomogradyucl/Causal-Inference-for-Beginning-Undergraduates)
 - Grant McDermott - [Data science for economists](https://github.com/uo-ec607/lectures) / [Big Data in Economics](https://github.com/uo-ec510-2020-spring/lectures)
 - Christoph Hanck, et al. - [Introduction to Econometrics with R](https://www.econometrics-with-r.org/index.html)
+- Ed Rubin - [PhD Econometrics (III) with R](https://github.com/edrubin/EC607S20) / [Masters-level applied econometrics with R](https://github.com/edrubin/EC524W20) / [Introduction to Econometrics with R](https://github.com/edrubin/EC421W20)
 
 
 
 ## R - Other Tutorials
 
+- [R for Data Science](https://r4ds.had.co.nz/)
 - [The tidyverse style guide](https://style.tidyverse.org/)
 - dlab-berkeley - [R-Fundamentals](https://github.com/dlab-berkeley/R-Fundamentals) / ...
+- Jeffrey Arnold - [R Code for Mastering ’Metrics](https://jrnold.github.io/masteringmetrics/)
 
 
 
@@ -122,6 +125,8 @@
 ## Machine Learning - Other Resources
 
 - [Data Science & Artificial Intelligence](https://chrisalbon.com/) - Chris Albon
+- [Introduction to machine learning for social scientists](https://tyleransom.github.io/research/IntroMachineLearning.pdf)
+- [Practical tips for machine learning practitioners](https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf)
 
 
 
