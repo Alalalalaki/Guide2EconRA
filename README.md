@@ -25,6 +25,7 @@
 - [Data and Code Guidance by Data Editors](https://social-science-data-editors.github.io/guidance/) (also see [the](https://twitter.com/AeaData/status/1199691179291484161) [AEA guidance](https://www.aeaweb.org/journals/policies/sample-references) on [Data and Code](https://aeadataeditor.github.io/aea-de-guidance/addtl-data-citation-guidance.html)) ([github](https://github.com/AEADataEditor))
 - [Best Practices when Writing Code](http://www.danielmsullivan.com/pages/tutorial_workflow_3bestpractice.html)
 - Patrick Ball - [The Task Is A Quantum Of Workflow](https://hrdag.org/2016/06/14/the-task-is-a-quantum-of-workflow/) and [Principled Data Processing](https://www.youtube.com/watch?v=ZSunU9GQdcI)
+- [The Turing Way](https://the-turing-way.netlify.app/welcome.html) (a lightly opinionated guide to reproducible data science)
 
 
 
@@ -88,6 +89,7 @@
 
 - [Statistics with Julia: Fundamentals for Data Science, Machine Learning and Artificial Intelligence](https://github.com/h-Klok/StatsWithJuliaBook) - H.Klok, Y.Nazarathy
 - [Think Julia: How to Think Like a Computer Scientist](https://benlauwens.github.io/ThinkJulia.jl/latest/book.html) - Ben Lauwens
+- [Introduction to Computational Thinking](https://mitmath.github.io/18S191/Fall20/) - MIT
 
 
 
