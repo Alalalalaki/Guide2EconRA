@@ -52,6 +52,7 @@
 - Jeppe Druedahl - [Introduction to Programming and Numerical Analysis](https://numeconcopenhagen.netlify.com/)
 - Kevin Sheppard - [Introduction to Python for Econometrics, Statistics and Numerical Analysis](https://www.kevinsheppard.com/teaching/python/notes/)
 - [NYU-Data-Bootcamp](https://nyu.data-bootcamp.com/)
+- Matheus Facure - [Python Causality Handbook](https://github.com/matheusfacure/python-causality-handbook)
 
 
 
@@ -112,6 +113,7 @@
 - [The tidyverse style guide](https://style.tidyverse.org/)
 - dlab-berkeley - [R-Fundamentals](https://github.com/dlab-berkeley/R-Fundamentals) / ...
 - Jeffrey Arnold - [R Code for Mastering ’Metrics](https://jrnold.github.io/masteringmetrics/)
+- Gina Reynolds - [R Flipbook Textbook](https://evamaerey.github.io/flipbooks/textbook)
 
 
 
@@ -238,7 +240,6 @@
 - Alfred Galichon - ['math+econ+code' series](http://alfredgalichon.com/coursesandtalks/)
 - SciencePo - [UG Econometrics](https://github.com/ScPoEcon/ScPoEconometrics)
 - Dietz Vollrath - [UG Growth](https://growthecon.com/StudyGuide/)
-- Matheus Facure - [Python Causality Handbook](https://github.com/matheusfacure/python-causality-handbook)
 - Ömer Özak - [Economic Growth and Comparative Development](https://econgrowth.github.io/) / [Macroeconomics II](https://macroeconomics.github.io/)
 - [mostly-harmless-replication in Stata, R, Python and Julia](https://github.com/vikjam/mostly-harmless-replication)
 
