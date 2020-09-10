@@ -131,6 +131,7 @@
 - [Data Science & Artificial Intelligence](https://chrisalbon.com/) - Chris Albon
 - [Introduction to machine learning for social scientists](https://tyleransom.github.io/research/IntroMachineLearning.pdf)
 - [Practical tips for machine learning practitioners](https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf)
+- [Hands-On Machine Learning with R](https://bradleyboehmke.github.io/HOML/)
 
 
 
