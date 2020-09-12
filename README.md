@@ -114,15 +114,18 @@
 - dlab-berkeley - [R-Fundamentals](https://github.com/dlab-berkeley/R-Fundamentals) / ...
 - Jeffrey Arnold - [R Code for Mastering ’Metrics](https://jrnold.github.io/masteringmetrics/)
 - Gina Reynolds - [R Flipbook Textbook](https://evamaerey.github.io/flipbooks/textbook)
+- [R for Health Data Science](https://argoshare.is.ed.ac.uk/healthyr_book/)
 
 
 
 ## Machine Learning For Economists
 
-- Dario Sansone - [Machine Learning for Economists (Resources)](https://sites.google.com/view/dariosansone/resources/machine-learning)
-- Itamar Caspi - [A course in machine learning for economists](https://github.com/ml4econ)
-- Stephen Hansen - [machine_learning_economics](https://github.com/sekhansen/machine_learning_economics) / [text-mining-tutorial](https://github.com/sekhansen/text-mining-tutorial)
-- Jérémy L'Hour - [Machine Learning for Econometrics](https://github.com/jlhourENSAE/hdmetrics)
+- Dario Sansone - [Machine Learning for Economists](https://sites.google.com/view/dariosansone/resources/machine-learning) (Resources)
+- Itamar Caspi - [A course in machine learning for economists](https://github.com/ml4econ) (R)
+- Stephen Hansen - [machine_learning_economics](https://github.com/sekhansen/machine_learning_economics) / [text-mining-tutorial](https://github.com/sekhansen/text-mining-tutorial) (Python)
+- Jérémy L'Hour - [Machine Learning for Econometrics](https://github.com/jlhourENSAE/hdmetrics) (R)
+- Le Wang - [Machine Learning and Causal Inference](https://github.com/lewangecon/man2-2020) (R)
+- Kathy Baylis et al. - [Machine learning in applied economics](https://github.com/heckelei/PromotionskollegModule6800_2020) (Python)
 
 
 
