@@ -2,7 +2,7 @@
 
 ![xkcd](xkcd.png)
 
-Every time you have mistakenly added a file
+Every time you have mistakenly added and/or commited a file
 
 `git rm --cached your_giant.file`
 
