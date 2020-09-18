@@ -4,7 +4,7 @@
 
 Every time you have mistakenly added a file
 
-`git rm --cached your.file`
+`git rm --cached your_giant.file`
 
 Every time you commit but then regret before pushing (replace new message with --no-edit if necessary)
 
