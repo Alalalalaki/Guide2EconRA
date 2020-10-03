@@ -1,4 +1,4 @@
-# Guide to Efficient ~~RA~~ Computational Work in Economics 
+# Guide to Efficient ~~RA~~ Computational Work in Economics
 
 ---
 
@@ -97,8 +97,8 @@
 ## R - Econ Lectures
 
 - Maximilian Kasy - Advanced Econometrics and Machine Learning: [2019](https://maxkasy.github.io/home/TopicsInEconometrics2019/), [2000](https://maxkasy.github.io/home/ML_Oxford_2020/) / collection of [useful computation links on R and ML](https://maxkasy.github.io/home/computationlinks/)
-- Nick Huntington-Klein - [Economics, Causality, and Analytics](https://github.com/NickCH-K/introcausality)
-- Nick Huntington-Klein - [Library of Statistical Techniques](https://lost-stats.github.io/)
+- Nick Huntington-Klein - [Economics, Causality, and Analytics](https://github.com/NickCH-K/introcausality) / [R resources](http://nickchk.com/econometrics.html)
+- Nick Huntington-Klein et al. - [Library of Statistical Techniques](https://lost-stats.github.io/)
 - Francis J. DiTraglia - [Statistical Learning and Causal Inference for Economics](https://github.com/fditraglia/econ224)
 - Tom O'Grady - [Causal-Inference-for-Beginning-Undergraduates](https://github.com/tomogradyucl/Causal-Inference-for-Beginning-Undergraduates)
 - Grant McDermott - [Data science for economists](https://github.com/uo-ec607/lectures) / [Big Data in Economics](https://github.com/uo-ec510-2020-spring/lectures)
@@ -135,6 +135,15 @@
 - [Introduction to machine learning for social scientists](https://tyleransom.github.io/research/IntroMachineLearning.pdf)
 - [Practical tips for machine learning practitioners](https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf)
 - [Hands-On Machine Learning with R](https://bradleyboehmke.github.io/HOML/)
+- [Applied Machine Learning](https://github.com/tfolkman/byu_econ_applied_machine_learning)
+- [Deep Learning Drizzle](https://github.com/kmario23/deep-learning-drizzle#hibiscus-natural-language-processing-cherry_blossom-sparkling_heart) (Links)
+
+
+
+## NLP
+
+- [Oxford Deep NLP 2017 course](https://github.com/oxford-cs-deepnlp-2017/lectures)
+- [NYU Text as Data Lab](https://github.com/leslie-huang/TextasDataLabSpring2020) (R)
 
 
 
@@ -225,6 +234,7 @@
 
 ## Unsorted
 
+- (a real) [Econ RA Guide](https://raguide.github.io/)
 - Aruoba, S. B., & Fernández-Villaverde, J. (2018). [A comparison of programming languages in economics](https://www.sas.upenn.edu/~jesusfv/research.html).
 - [Awesome Scientific Writing](https://github.com/ashwinvis/awesome-scientific-writing)
 - [awesome-causality-algorithms](https://github.com/rguo12/awesome-causality-algorithms)
@@ -242,9 +252,11 @@
 - Bryan S. Graham - [Econometrics](https://github.com/bryangraham) 
 - Alfred Galichon - [Advanced Topics in Microeconometrics](https://github.com/alfredgalichon/microeconometrics2018s)
 - Alfred Galichon - ['math+econ+code' series](http://alfredgalichon.com/coursesandtalks/)
-- SciencePo - [UG Econometrics](https://github.com/ScPoEcon/ScPoEconometrics)
-- Dietz Vollrath - [UG Growth](https://growthecon.com/StudyGuide/)
+- SciencePo - [(UG) Econometrics](https://github.com/ScPoEcon/ScPoEconometrics)
+- Dietz Vollrath - [(UG) Growth](https://growthecon.com/StudyGuide/)
 - Ömer Özak - [Economic Growth and Comparative Development](https://econgrowth.github.io/) / [Macroeconomics II](https://macroeconomics.github.io/)
+- Jonathan Dingel - [International Macroeconomics and Trade](https://github.com/jdingel/econ35101) 
+- David Ubilava - [(UG) Agricultural Markets](https://davidubilava.com/agmarkets/) 
 - [mostly-harmless-replication in Stata, R, Python and Julia](https://github.com/vikjam/mostly-harmless-replication)
 
 
