@@ -104,6 +104,7 @@
 - Grant McDermott - [Data science for economists](https://github.com/uo-ec607/lectures) / [Big Data in Economics](https://github.com/uo-ec510-2020-spring/lectures)
 - Christoph Hanck, et al. - [Introduction to Econometrics with R](https://www.econometrics-with-r.org/index.html)
 - Ed Rubin - [PhD Econometrics (III) with R](https://github.com/edrubin/EC607S20) / [Masters-level applied econometrics with R](https://github.com/edrubin/EC524W20) / [Introduction to Econometrics with R](https://github.com/edrubin/EC421W20)
+- Tyler Ransom - [Econometric Analysis (U)](https://tyleransom.github.io/econometricslabs.html)
 
 
 
@@ -126,6 +127,7 @@
 - Jérémy L'Hour - [Machine Learning for Econometrics](https://github.com/jlhourENSAE/hdmetrics) (R)
 - Le Wang - [Machine Learning and Causal Inference](https://github.com/lewangecon/man2-2020) (R)
 - Kathy Baylis et al. - [Machine learning in applied economics](https://github.com/heckelei/PromotionskollegModule6800_2020) (Python)
+- Ed Rubin and Connor Lennon - [Prediction and machine-learning in econometrics](https://github.com/edrubin/EC524W20)
 
 
 
