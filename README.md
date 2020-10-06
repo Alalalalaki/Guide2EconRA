@@ -10,7 +10,6 @@
 - Jesús Fernández-Villaverde - [Computational Methods for Economists](https://www.sas.upenn.edu/~jesusfv/teaching.html)
 - Richard W. Evans, et al. - Open Source Economics Laboratory (OSE Lab) Boot Camp [2019](https://github.com/OpenSourceEcon/BootCamp2019), [2018](https://github.com/OpenSourceEcon/BootCamp2018), [2017](https://github.com/OpenSourceEcon/BootCamp2017) 
 - Kenneth Judd - Computational Economics [2020](https://github.com/KennethJudd/CompEcon2020)
-- Tyler Ransom - Data Science for Economists [2020](https://github.com/tyleransom/DScourseS20)
 
 
 
@@ -110,7 +109,8 @@
 
 ## R - Other Tutorials
 
-- [R for Data Science](https://r4ds.had.co.nz/)
+- Garrett Grolemund & Hadley Wickham - [R for Data Science](https://r4ds.had.co.nz/)
+- Hadley Wickham - [Advanced R](https://adv-r.hadley.nz/)
 - [The tidyverse style guide](https://style.tidyverse.org/)
 - dlab-berkeley - [R-Fundamentals](https://github.com/dlab-berkeley/R-Fundamentals) / ...
 - Jeffrey Arnold - [R Code for Mastering ’Metrics](https://jrnold.github.io/masteringmetrics/)
@@ -122,12 +122,13 @@
 ## Machine Learning For Economists
 
 - Dario Sansone - [Machine Learning for Economists](https://sites.google.com/view/dariosansone/resources/machine-learning) (Resources)
+- Tyler Ransom - Data Science for Economists [2020](https://github.com/tyleransom/DScourseS20) (R)
+- Ed Rubin and Connor Lennon - [Prediction and machine-learning in econometrics](https://github.com/edrubin/EC524W20) (R)
 - Itamar Caspi - [A course in machine learning for economists](https://github.com/ml4econ) (R)
 - Stephen Hansen - [machine_learning_economics](https://github.com/sekhansen/machine_learning_economics) / [text-mining-tutorial](https://github.com/sekhansen/text-mining-tutorial) (Python)
 - Jérémy L'Hour - [Machine Learning for Econometrics](https://github.com/jlhourENSAE/hdmetrics) (R)
 - Le Wang - [Machine Learning and Causal Inference](https://github.com/lewangecon/man2-2020) (R)
 - Kathy Baylis et al. - [Machine learning in applied economics](https://github.com/heckelei/PromotionskollegModule6800_2020) (Python)
-- Ed Rubin and Connor Lennon - [Prediction and machine-learning in econometrics](https://github.com/edrubin/EC524W20)
 
 
 
@@ -231,6 +232,7 @@
 - [Some Data visualizations in Python](https://github.com/aaronpenne/data_visualization) 
 - [Python Plotting for Exploratory Data Analysis](https://pythonplot.com/#scatter-plot-with-facets)
 - [from Data to Viz](https://www.data-to-viz.com/) - [The Python Graph Gallery](https://python-graph-gallery.com/) / [The R Graph Gallery](https://www.r-graph-gallery.com/)
+- Kieran Healy - [Data Visualization - A practical introduction](https://socviz.co/index.html)
 
 
 
