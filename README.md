@@ -10,6 +10,7 @@
 - Jesús Fernández-Villaverde - [Computational Methods for Economists](https://www.sas.upenn.edu/~jesusfv/teaching.html)
 - Richard W. Evans, et al. - Open Source Economics Laboratory (OSE Lab) Boot Camp [2019](https://github.com/OpenSourceEcon/BootCamp2019), [2018](https://github.com/OpenSourceEcon/BootCamp2018), [2017](https://github.com/OpenSourceEcon/BootCamp2017) 
 - Kenneth Judd - Computational Economics [2020](https://github.com/KennethJudd/CompEcon2020)
+- Tyler Ransom - Data Science for Economists [2020](https://github.com/tyleransom/DScourseS20)
 
 
 
@@ -47,7 +48,6 @@
   - Structural Estimation [2020](https://github.com/rickecon/StructEst_W20) 
   - [Git and GitHub tutorial](https://github.com/nyupredocs/githubtutorial)
 - Jason DeBacker - Computational Methods for Economists [2017](https://github.com/jdebacker/CompEcon_Fall17), [2019](https://github.com/jdebacker/CompEcon_Fall19)
-- Tyler Ransom - Data Science for Economists [2020](https://github.com/tyleransom/DScourseS20)
 - Fedor Iskhakov - [Dynamic programming and structural estimation](https://github.com/CompEconCourse/CourseMaterials)
 - Jeppe Druedahl - [Introduction to Programming and Numerical Analysis](https://numeconcopenhagen.netlify.com/)
 - Kevin Sheppard - [Introduction to Python for Econometrics, Statistics and Numerical Analysis](https://www.kevinsheppard.com/teaching/python/notes/)
