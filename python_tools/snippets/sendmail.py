@@ -5,12 +5,12 @@ ref: https://realpython.com/python-send-email/#sending-your-plain-text-email
 
 import smtplib
 import ssl
-from password import mail_password_alalaki as mail_password  # Import your password
+from API_KEYS import gmail_alalaki as mail_password  # Import your password
 from email.mime.text import MIMEText
 
 
 def sendmail(from_email="alalaki.koyomi@gmail.com",  # Enter your address
-             to_email="harlan.zhu@gmail.com",  # Enter receiver address, can be a list
+             to_email="akaguro.koyomi@gmail.com",  # Enter receiver address, can be a list
              subject="Test Test",
              body="""
 Hi,

@@ -233,6 +233,7 @@
 - [Python Plotting for Exploratory Data Analysis](https://pythonplot.com/#scatter-plot-with-facets)
 - [from Data to Viz](https://www.data-to-viz.com/) - [The Python Graph Gallery](https://python-graph-gallery.com/) / [The R Graph Gallery](https://www.r-graph-gallery.com/)
 - Kieran Healy - [Data Visualization - A practical introduction](https://socviz.co/index.html)
+- [ggplot2: Elegant Graphics for Data Analysis](https://ggplot2-book.org/)
 
 
 
