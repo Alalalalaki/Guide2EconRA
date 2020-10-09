@@ -3,6 +3,8 @@ Send an email from your G-mail account.
 ref: https://realpython.com/python-send-email/#sending-your-plain-text-email
 """
 
+__version__ = 0.1
+
 import smtplib
 import ssl
 from API_KEYS import gmail_alalaki as mail_password  # Import your password

@@ -1,14 +1,17 @@
 """
-This code is used to directly access eStat data through japandas.
-You also need to set up a keys.py file to place your estat api key.
+This simple code is a "second-tier" wrapper for accessing eStat data through japandas.
+An eStat key is needed.
+
+Caution: the orignal pkg japandas is no longer working. This code needs a fixed version of japandas.
 """
+
+__version__ = 0.0
 
 import pandas as pd
 import japandas as jpd
-import keys
-import z2h
 
-key = keys.eStat_key
+from API_KEYS import eStat as key
+from snippets import z2h
 
 
 def clean_list(df):
@@ -26,7 +29,7 @@ def clean_data(df):
     df = df.copy()
     df = (df
           .applymap(z2h.str_z2h)
-          .reset_index()
+        #   .reset_index(drop=True)
           )
     return df
 

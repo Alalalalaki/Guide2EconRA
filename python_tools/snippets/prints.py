@@ -3,6 +3,8 @@ This code is used to print a pandas dataframe with customized length of rows and
 Ref: https://pandas.pydata.org/pandas-docs/stable/user_guide/options.html
 """
 
+__version__ = 0.1
+
 if __name__ == "__main__":
     import pandas as pd
     # from displays import display_dfs

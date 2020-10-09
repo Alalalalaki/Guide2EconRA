@@ -2,6 +2,7 @@
 This code turn country names to continents.
 """
 
+__version__ = 0.1
 
 import country_converter as coco
 from pycountry_convert import country_alpha2_to_continent_code, country_name_to_country_alpha2

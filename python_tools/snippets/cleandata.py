@@ -3,6 +3,7 @@ Factory for data cleaning functions
 Under progress
 """
 
+__version__ = 0.0
 
 def clean_column_name(df, n):
     """
