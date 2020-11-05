@@ -52,6 +52,7 @@
 - Kevin Sheppard - [Introduction to Python for Econometrics, Statistics and Numerical Analysis](https://www.kevinsheppard.com/teaching/python/notes/)
 - [NYU-Data-Bootcamp](https://nyu.data-bootcamp.com/)
 - Matheus Facure - [Python Causality Handbook](https://github.com/matheusfacure/python-causality-handbook)
+- [OSE scientific computing](https://github.com/OpenSourceEconomics/ose-course-scientific-computing)
 
 
 
@@ -68,6 +69,7 @@
 - Claudio Jolowicz - [Hypermodern Python](https://cjolowicz.github.io/posts/)
 - Nicolas P. Rougier - [From Python to Numpy](https://www.labri.fr/perso/nrougier/from-python-to-numpy/)
 - Nicolas P. Rougier - [Scientific Visualization – Python & Matplotlib](https://github.com/rougier/scientific-visualization-book) / [Matplotlib cheat sheet](https://github.com/rougier/matplotlib-cheatsheet)
+- [Introduction to Mathematical Computing with Python and Jupyter](https://github.com/patrickwalls/mathematical-python)
 
 
 
@@ -116,6 +118,8 @@
 - Jeffrey Arnold - [R Code for Mastering ’Metrics](https://jrnold.github.io/masteringmetrics/)
 - Gina Reynolds - [R Flipbook Textbook](https://evamaerey.github.io/flipbooks/textbook)
 - [R for Health Data Science](https://argoshare.is.ed.ac.uk/healthyr_book/)
+- [A ModernDive into R and the Tidyverse](https://moderndive.com/)
+- Andrew Heiss - [Program Evaluation for Public Service](https://evalf20.classes.andrewheiss.com/) / [Data Visualization](https://datavizm20.classes.andrewheiss.com/)
 
 
 
@@ -263,6 +267,7 @@
 - Jonathan Dingel - [International Macroeconomics and Trade](https://github.com/jdingel/econ35101) 
 - David Ubilava - [(UG) Agricultural Markets](https://davidubilava.com/agmarkets/) 
 - [mostly-harmless-replication in Stata, R, Python and Julia](https://github.com/vikjam/mostly-harmless-replication)
+- Ivan Rudik - [Environmental and Resource Economics](https://github.com/irudik/aem6510)
 
 
 
