@@ -52,7 +52,8 @@
 - Kevin Sheppard - [Introduction to Python for Econometrics, Statistics and Numerical Analysis](https://www.kevinsheppard.com/teaching/python/notes/)
 - [NYU-Data-Bootcamp](https://nyu.data-bootcamp.com/)
 - Matheus Facure - [Python Causality Handbook](https://github.com/matheusfacure/python-causality-handbook)
-- [OSE scientific computing](https://github.com/OpenSourceEconomics/ose-course-scientific-computing)
+- OpenSourceEconomics - [Scientific Computing](https://github.com/OpenSourceEconomics/ose-course-scientific-computing)
+- OpenSourceEconomics -  [Microeconometrics](https://github.com/OpenSourceEconomics/ose-course-data-science) 
 
 
 
@@ -256,7 +257,7 @@
 
 ## Other Econ Lectures on Github
 
-- [Analysis of Human Capital](https://github.com/HumanCapitalAnalysis) - [Microeconometrics](https://github.com/HumanCapitalAnalysis/microeconometrics#lectures) / [Labor Economics](https://github.com/HumanCapitalAnalysis/labor-economics) / [Econometrics of Human Capital](https://github.com/HumanCapitalAnalysis/policy-evaluation)
+- [Analysis of Human Capital](https://github.com/HumanCapitalAnalysis) - [Labor Economics](https://github.com/HumanCapitalAnalysis/labor-economics) / [Econometrics of Human Capital](https://github.com/HumanCapitalAnalysis/policy-evaluation)
 - Joao B. Duarte - [Advanced Macro](https://github.com/jbduarte/Advanced_Macro)
 - Bryan S. Graham - [Econometrics](https://github.com/bryangraham) 
 - Alfred Galichon - [Advanced Topics in Microeconometrics](https://github.com/alfredgalichon/microeconometrics2018s)
