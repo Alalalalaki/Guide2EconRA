@@ -107,6 +107,8 @@
 - Christoph Hanck, et al. - [Introduction to Econometrics with R](https://www.econometrics-with-r.org/index.html)
 - Ed Rubin - [PhD Econometrics (III) with R](https://github.com/edrubin/EC607S20) / [Masters-level applied econometrics with R](https://github.com/edrubin/EC524W20) / [Introduction to Econometrics with R](https://github.com/edrubin/EC421W20)
 - Tyler Ransom - [Econometric Analysis (U)](https://tyleransom.github.io/econometricslabs.html)
+- Hans H. Sievertsen - [Applied Economics with R](https://hhsievertsen.github.io/applied_econ_with_r/)
+- Matt Woerman - [Topics in Advanced Econometrics](https://github.com/woerman/ResEcon703) 
 
 
 
