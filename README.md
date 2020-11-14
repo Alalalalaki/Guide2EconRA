@@ -71,6 +71,7 @@
 - Nicolas P. Rougier - [From Python to Numpy](https://www.labri.fr/perso/nrougier/from-python-to-numpy/)
 - Nicolas P. Rougier - [Scientific Visualization – Python & Matplotlib](https://github.com/rougier/scientific-visualization-book) / [Matplotlib cheat sheet](https://github.com/rougier/matplotlib-cheatsheet)
 - [Introduction to Mathematical Computing with Python and Jupyter](https://github.com/patrickwalls/mathematical-python)
+- [Reproducible and Collaborative Data Science](https://berkeley-stat159-f17.github.io/stat159-f17/)
 
 
 
@@ -79,11 +80,11 @@
 - [QuantEcon - Julia](https://julia.quantecon.org/)
 - Paul Schrimpf - [Computational Economics with Data Science Applications](https://github.com/ubcecon/ECON622_2019)
 - Paul Schrimpf - [UBC ECON567 IO](https://github.com/UBCECON567)
-- Ivan Rudik - [Environmental and Resource Economics](https://github.com/AEM7130/spring-2020)
+- Ivan Rudik - [Environmental and Resource Economics (computational methods for economics)](https://github.com/AEM7130/spring-2020)
+- Tyler Ransom - [Econometrics III](https://github.com/OU-PhD-Econometrics/fall-2020)
 - Michael Creel - [Econometrics lecture notes with examples using the Julia language](https://github.com/mcreel/Econometrics)
 - Bradley J. Setzler - [An Introduction to Structural Econometrics in Julia](https://juliaeconomics.com/tutorials/)
 - Florian Oswald - [Computational Economics for PhDs](https://scpo-compecon.github.io/CoursePack/)
-- Tyler Ransom - [Econometrics III](https://github.com/OU-PhD-Econometrics/fall-2020)
 - [Tutorials on Topics in Julia Programming](https://github.com/johnmyleswhite/julia_tutorials)
 
 
