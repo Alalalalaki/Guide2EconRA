@@ -26,6 +26,7 @@
 - [Best Practices when Writing Code](http://www.danielmsullivan.com/pages/tutorial_workflow_3bestpractice.html)
 - Patrick Ball - [The Task Is A Quantum Of Workflow](https://hrdag.org/2016/06/14/the-task-is-a-quantum-of-workflow/) and [Principled Data Processing](https://www.youtube.com/watch?v=ZSunU9GQdcI)
 - [The Turing Way](https://the-turing-way.netlify.app/welcome.html) (a lightly opinionated guide to reproducible data science)
+- Fernando Hoces - [Accelerating Computational Reproducibility in Economics](https://fhoces.github.io/ACRE-slides-bids/#1) 
 
 
 
@@ -124,6 +125,7 @@
 - [R for Health Data Science](https://argoshare.is.ed.ac.uk/healthyr_book/)
 - [A ModernDive into R and the Tidyverse](https://moderndive.com/)
 - Andrew Heiss - [Program Evaluation for Public Service](https://evalf20.classes.andrewheiss.com/) / [Data Visualization](https://datavizm20.classes.andrewheiss.com/)
+- [R Data Science Tutorials](https://github.com/ujjwalkarn/DataScienceR) (resources)
 
 
 
