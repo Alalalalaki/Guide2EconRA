@@ -49,6 +49,7 @@
   - [Git and GitHub tutorial](https://github.com/nyupredocs/githubtutorial)
 - Jason DeBacker - Computational Methods for Economists [2017](https://github.com/jdebacker/CompEcon_Fall17), [2019](https://github.com/jdebacker/CompEcon_Fall19)
 - Fedor Iskhakov - [Dynamic programming and structural estimation](https://github.com/CompEconCourse/CourseMaterials)
+- Fedor Iskhakov - [Foundations of Computational Economics](https://github.com/fediskhakov/CompEcon)
 - Jeppe Druedahl - [Introduction to Programming and Numerical Analysis](https://numeconcopenhagen.netlify.com/)
 - Kevin Sheppard - [Introduction to Python for Econometrics, Statistics and Numerical Analysis](https://www.kevinsheppard.com/teaching/python/notes/)
 - [NYU-Data-Bootcamp](https://nyu.data-bootcamp.com/)
