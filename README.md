@@ -140,6 +140,8 @@
 - Jérémy L'Hour - [Machine Learning for Econometrics](https://github.com/jlhourENSAE/hdmetrics) (R)
 - Le Wang - [Machine Learning and Causal Inference](https://github.com/lewangecon/man2-2020) (R)
 - Kathy Baylis et al. - [Machine learning in applied economics](https://github.com/heckelei/PromotionskollegModule6800_2020) (Python)
+- Dawie van Lill - [Data Science for Economics](https://github.com/DawievLill/DataScience-871) (Python)
+- [Economics and Data Science](https://github.com/vkoul/Econ-Data-Science) (Resources)
 
 
 
