@@ -13,7 +13,7 @@
 - This [extension](https://github.com/ryantam626/jupyterlab_code_formatter) gives you code auto-formatter in Jupyter Lab.
   - Note that you can set a customized shortcut for this function.
 - This [extension](https://github.com/jupyterlab/jupyterlab-toc) gives you table of contents.
-- Slide mode is available in Jupyter Lab. See the example [here](slide/test.slides.html).
+- Slide mode is available in Jupyter Lab. See the example [here](slide/test.ipynb).
 - [R](https://github.com/IRkernel/IRkernel) and [Stata](https://github.com/kylebarron/stata_kernel) kernel is available in Jupyter.
 - You can use nteract or vscode to open a `.ipynb` file.
 - See this repo - [Ten simple rules for writing and sharing computational analyses in Jupyter Notebooks](https://github.com/jupyter-guide/ten-rules-jupyter) - for writing reproducible notebooks. "Code is read much more often than it is written."
