@@ -133,7 +133,7 @@
 ## Machine Learning For Economists
 
 - Dario Sansone - [Machine Learning for Economists](https://sites.google.com/view/dariosansone/resources/machine-learning) (Resources)
-- Tyler Ransom - Data Science for Economists [2020](https://github.com/tyleransom/DScourseS20) (R)
+- Tyler Ransom - Data Science for Economists [2020](https://github.com/tyleransom/DScourseS20) (R) / [Introduction to machine learning for social scientists](https://tyleransom.github.io/research/IntroMachineLearning.pdf)
 - Ed Rubin and Connor Lennon - [Prediction and machine-learning in econometrics](https://github.com/edrubin/EC524W20) (R)
 - Itamar Caspi - [A course in machine learning for economists](https://github.com/ml4econ) (R)
 - Stephen Hansen - [machine_learning_economics](https://github.com/sekhansen/machine_learning_economics) / [text-mining-tutorial](https://github.com/sekhansen/text-mining-tutorial) (Python)
@@ -142,16 +142,22 @@
 - Kathy Baylis et al. - [Machine learning in applied economics](https://github.com/heckelei/PromotionskollegModule6800_2020) (Python)
 - Dawie van Lill - [Data Science for Economics](https://github.com/DawievLill/DataScience-871) (Python)
 - [Economics and Data Science](https://github.com/vkoul/Econ-Data-Science) (Resources)
+- Jonathan Hersh - [Introduction to Machine Learning](https://github.com/jonhersh/MGSC310)
+
+
+
+## Machine Learning Lectures
+
+- Andreas C. Müller - [Applied Machine Learning Spring 2020](https://github.com/amueller/COMS4995-s20#applied-machine-learning-spring-2020) (python)
+- Tyler Folkman - [Applied Machine Learning](https://github.com/tfolkman/byu_econ_applied_machine_learning) (python)
 
 
 
 ## Machine Learning - Other Resources
 
-- [Data Science & Artificial Intelligence](https://chrisalbon.com/) - Chris Albon
-- [Introduction to machine learning for social scientists](https://tyleransom.github.io/research/IntroMachineLearning.pdf)
+- Chris Albon - [Data Science & Artificial Intelligence](https://chrisalbon.com/) (Resources)
 - [Practical tips for machine learning practitioners](https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf)
 - [Hands-On Machine Learning with R](https://bradleyboehmke.github.io/HOML/)
-- [Applied Machine Learning](https://github.com/tfolkman/byu_econ_applied_machine_learning)
 - [Deep Learning Drizzle](https://github.com/kmario23/deep-learning-drizzle#hibiscus-natural-language-processing-cherry_blossom-sparkling_heart) (Links)
 
 
