@@ -1,13 +1,17 @@
 """
 This code is used to print a pandas dataframe with customized length of rows and columns.
 Ref: https://pandas.pydata.org/pandas-docs/stable/user_guide/options.html
+
+Note:
+  - When setting as `exec_files` in `ipython_config`, the `prints` function `display` the DataFrame.
+  - Alternatively when import the file, the `prints` function `print` the DataFrame.
 """
 
-__version__ = 0.1
+import pandas as pd
 
-if __name__ == "__main__":
-    import pandas as pd
-    # from displays import display_dfs
+
+if __name__ != "__main__":
+    __version__ = 0.1
 
 
 def prints(x, r=None, c=None, w=-1):
@@ -42,11 +46,6 @@ def prints(x, r=None, c=None, w=-1):
                 display(x)
             else:
                 print(x)
-
-    # elif isinstance(x, display_dfs):
-
-    #     with pd.option_context('display.min_rows', r, 'display.max_rows', r, 'display.max_columns', c, 'display.max_colwidth', w):
-    #         display(x)
 
     else:
         raise ValueError('Input must be a pandas object.')
