@@ -74,6 +74,7 @@
 - Nicolas P. Rougier - [Scientific Visualization – Python & Matplotlib](https://github.com/rougier/scientific-visualization-book) / [Matplotlib cheat sheet](https://github.com/rougier/matplotlib-cheatsheet)
 - [Introduction to Mathematical Computing with Python and Jupyter](https://github.com/patrickwalls/mathematical-python)
 - [Reproducible and Collaborative Data Science](https://berkeley-stat159-f17.github.io/stat159-f17/)
+- [Introduction to Data Science and Programming](https://github.com/mszell/introdatasci)
 
 
 
@@ -190,6 +191,13 @@
 
 
 
+## Bash
+
+- [pure bash bible](https://github.com/dylanaraps/pure-bash-bible)
+- useful bash scripts shared by economists: [Ed Rubin](http://edrub.in/research.html), [John Horton](https://github.com/johnjosephhorton/jjhscripts)
+
+
+
 ## OS
 
 - [macOS Setup Guide](https://sourabhbajaj.com/mac-setup) (somehow outdated)
@@ -283,6 +291,7 @@
 - David Ubilava - [(UG) Agricultural Markets](https://davidubilava.com/agmarkets/) 
 - [mostly-harmless-replication in Stata, R, Python and Julia](https://github.com/vikjam/mostly-harmless-replication)
 - Ivan Rudik - [Environmental and Resource Economics](https://github.com/irudik/aem6510)
+- Scott Cunningham - [causal-inference-class](https://github.com/scunning1975)
 
 
 
