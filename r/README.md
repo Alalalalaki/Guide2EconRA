@@ -23,3 +23,9 @@
 
 - ...
 
+---
+
+## Non-Econ Stuffs
+
+- [Individual-based models of cultural evolution](https://acerbialberto.com/IBM-cultevo/)
+
