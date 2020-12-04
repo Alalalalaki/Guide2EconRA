@@ -75,6 +75,7 @@
 - [Introduction to Mathematical Computing with Python and Jupyter](https://github.com/patrickwalls/mathematical-python)
 - [Reproducible and Collaborative Data Science](https://berkeley-stat159-f17.github.io/stat159-f17/)
 - [Introduction to Data Science and Programming](https://github.com/mszell/introdatasci)
+- [Bayesian Computing Course](https://github.com/fonnesbeck/Bayes_Computing_Course)
 
 
 
