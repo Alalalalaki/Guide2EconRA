@@ -53,6 +53,7 @@
 - [geopandas](https://geopandas.org/)
 - [graphviz](https://graphviz.readthedocs.io/en/stable/manual.html)
 - [daft](https://github.com/daft-dev/daft)
+- [networkx](https://networkx.org/documentation/latest/)
 
 ### Econ Data
 

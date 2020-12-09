@@ -22,7 +22,7 @@
 - [Templates for Reproducible Research Projects in Economics](https://github.com/OpenSourceEconomics/econ-project-templates)
 - Wilson, G., Bryan, J., Cranston, K., Kitzes, J., Nederbragt, L., & Teal, T. K. (2017). [Good enough practices in scientific computing](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510). PLoS computational biology, 13(6), e1005510.
 - [The Plain Person’s Guide to Plain Text Social Science](http://plain-text.co/index.html#introduction) - Kieran Healy
-- [Data and Code Guidance by Data Editors](https://social-science-data-editors.github.io/guidance/) (also see [the](https://twitter.com/AeaData/status/1199691179291484161) [AEA guidance](https://www.aeaweb.org/journals/policies/sample-references) on [Data and Code](https://aeadataeditor.github.io/aea-de-guidance/addtl-data-citation-guidance.html)) ([github](https://github.com/AEADataEditor))
+- [Data and Code Guidance by Data Editors](https://social-science-data-editors.github.io/guidance/) / [A template README for social science replication packages](https://social-science-data-editors.github.io/template_README/) (see also [the](https://twitter.com/AeaData/status/1199691179291484161) [AEA guidance](https://www.aeaweb.org/journals/policies/sample-references) on [Data and Code](https://aeadataeditor.github.io/aea-de-guidance/addtl-data-citation-guidance.html)) ([github](https://github.com/AEADataEditor))
 - [Best Practices when Writing Code](http://www.danielmsullivan.com/pages/tutorial_workflow_3bestpractice.html)
 - Patrick Ball - [The Task Is A Quantum Of Workflow](https://hrdag.org/2016/06/14/the-task-is-a-quantum-of-workflow/) and [Principled Data Processing](https://www.youtube.com/watch?v=ZSunU9GQdcI)
 - [The Turing Way](https://the-turing-way.netlify.app/welcome.html) (a lightly opinionated guide to reproducible data science)
@@ -68,7 +68,8 @@
 - [Computational Statistics in Python](http://people.duke.edu/~ccc14/cspy/index.html)
 - [Python computational labs](https://acme.byu.edu/2019-2020-materials/)
 - [Real Python Tutorials](https://realpython.com/tutorials/all/)
-- [Scipy Lecture Notes](https://scipy-lectures.org/) 
+- [Scipy Lecture Notes](https://scipy-lectures.org/)
+- [Econometrics in Python](http://aeturrell.com/blog/)
 - Claudio Jolowicz - [Hypermodern Python](https://cjolowicz.github.io/posts/)
 - Nicolas P. Rougier - [From Python to Numpy](https://www.labri.fr/perso/nrougier/from-python-to-numpy/)
 - Nicolas P. Rougier - [Scientific Visualization – Python & Matplotlib](https://github.com/rougier/scientific-visualization-book) / [Matplotlib cheat sheet](https://github.com/rougier/matplotlib-cheatsheet)
@@ -98,6 +99,7 @@
 - [Statistics with Julia: Fundamentals for Data Science, Machine Learning and Artificial Intelligence](https://github.com/h-Klok/StatsWithJuliaBook) - H.Klok, Y.Nazarathy
 - [Think Julia: How to Think Like a Computer Scientist](https://benlauwens.github.io/ThinkJulia.jl/latest/book.html) - Ben Lauwens
 - [Introduction to Computational Thinking](https://mitmath.github.io/18S191/Fall20/) - MIT
+- [Tutorials for Scientific Machine Learning and Differential Equations](https://github.com/SciML/SciMLTutorials.jl)
 
 
 
@@ -273,6 +275,7 @@
 - [awesome-causality-algorithms](https://github.com/rguo12/awesome-causality-algorithms)
 - [MATLAB–Python–Julia cheatsheet](https://cheatsheets.quantecon.org/index.html)
 - [Merely Useful](https://github.com/merely-useful/merely-useful.github.io) (python and r lecture)
+- [Computing in Optimization and Statistics 2017](https://philchodrow.github.io/cos_2017/)
 
 
 
