@@ -28,4 +28,5 @@
 ## Non-Econ Stuffs
 
 - [Individual-based models of cultural evolution](https://acerbialberto.com/IBM-cultevo/)
+- [Intro to Political Science Research Methods](https://mattblackwell.org/teaching/gov50/)
 

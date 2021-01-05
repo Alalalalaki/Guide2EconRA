@@ -61,6 +61,8 @@
 
 ## Python - Other Tutorials
 
+- [Research Software Engineering with Python](https://merely-useful.github.io/py-rse/index.html)
+- [Reproducible and Collaborative Data Science](https://berkeley-stat159-f17.github.io/stat159-f17/)
 - Jake VanderPlas - [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) / [A Whirlwind Tour of Python](https://jakevdp.github.io/WhirlwindTourOfPython/)
 - Nick Eubank - [Data Analysis in Python](http://www.data-analysis-in-python.org/index.html)
 - Tom Augspurger - [Modern Pandas](https://tomaugspurger.github.io/modern-1-intro.html)
@@ -74,9 +76,9 @@
 - Nicolas P. Rougier - [From Python to Numpy](https://www.labri.fr/perso/nrougier/from-python-to-numpy/)
 - Nicolas P. Rougier - [Scientific Visualization – Python & Matplotlib](https://github.com/rougier/scientific-visualization-book) / [Matplotlib cheat sheet](https://github.com/rougier/matplotlib-cheatsheet)
 - [Introduction to Mathematical Computing with Python and Jupyter](https://github.com/patrickwalls/mathematical-python)
-- [Reproducible and Collaborative Data Science](https://berkeley-stat159-f17.github.io/stat159-f17/)
 - [Introduction to Data Science and Programming](https://github.com/mszell/introdatasci)
 - [Bayesian Computing Course](https://github.com/fonnesbeck/Bayes_Computing_Course)
+- Arthur Turrell - [Coding for Economists](https://aeturrell.github.io/coding-for-economists/intro.html)
 
 
 
@@ -131,6 +133,7 @@
 - [A ModernDive into R and the Tidyverse](https://moderndive.com/)
 - Andrew Heiss - [Program Evaluation for Public Service](https://evalf20.classes.andrewheiss.com/) / [Data Visualization](https://datavizm20.classes.andrewheiss.com/)
 - [R Data Science Tutorials](https://github.com/ujjwalkarn/DataScienceR) (resources)
+- [Telling Stories With Data](https://www.tellingstorieswithdata.com/)
 
 
 
@@ -191,6 +194,7 @@
 
 - [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
 - [Software Carpentry](https://software-carpentry.org/lessons/index.html)
+- [Harvard CS50](https://cs50.harvard.edu/)
 
 
 
@@ -239,6 +243,7 @@
 - [Overleaf guides to LaTeX](https://www.overleaf.com/learn/latex) 
 - [Tips + Tricks with Beamer for Economists](https://paulgp.github.io/beamer_tips.pdf) - Paul Goldsmith-Pinkham
 - [Template-based introductory guide to LaTeX for Economics](https://www.researchgate.net/publication/280050294_Template-based_introductory_guide_to_LaTeX_for_Economics_Instructional_Guide_Version_2)
+- [A LaTeX Template for Economics Papers](https://github.com/talgross-bu/Template-for-Overleaf)
 
 
 
@@ -276,6 +281,7 @@
 - [MATLAB–Python–Julia cheatsheet](https://cheatsheets.quantecon.org/index.html)
 - [Merely Useful](https://github.com/merely-useful/merely-useful.github.io) (python and r lecture)
 - [Computing in Optimization and Statistics 2017](https://philchodrow.github.io/cos_2017/)
+- Hernán MA, Robins JM (2020). [Causal Inference: What If. (with computer code of stat, R, python)](https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/)
 
 
 
