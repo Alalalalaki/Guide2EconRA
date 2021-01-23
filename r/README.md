@@ -19,7 +19,11 @@
 
 - ...
 
-#### Formating
+**Learning**
+
+- [hayashir](https://github.com/lachlandeer/hayashir)
+
+### Formating
 
 - ...
 

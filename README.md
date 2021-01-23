@@ -27,6 +27,7 @@
 - Patrick Ball - [The Task Is A Quantum Of Workflow](https://hrdag.org/2016/06/14/the-task-is-a-quantum-of-workflow/) and [Principled Data Processing](https://www.youtube.com/watch?v=ZSunU9GQdcI)
 - [The Turing Way](https://the-turing-way.netlify.app/welcome.html) (a lightly opinionated guide to reproducible data science)
 - Fernando Hoces - [Accelerating Computational Reproducibility in Economics](https://fhoces.github.io/ACRE-slides-bids/#1) 
+- [A template README for social science replication packages](https://github.com/social-science-data-editors/template_README) 
 
 
 
@@ -79,6 +80,7 @@
 - [Introduction to Data Science and Programming](https://github.com/mszell/introdatasci)
 - [Bayesian Computing Course](https://github.com/fonnesbeck/Bayes_Computing_Course)
 - Arthur Turrell - [Coding for Economists](https://aeturrell.github.io/coding-for-economists/intro.html)
+- Cliburn - [Computational Statistics and Statistical Computing](https://github.com/cliburn/sta-663-2021)
 
 
 
@@ -91,7 +93,7 @@
 - Tyler Ransom - [Econometrics III](https://github.com/OU-PhD-Econometrics/fall-2020)
 - Michael Creel - [Econometrics lecture notes with examples using the Julia language](https://github.com/mcreel/Econometrics)
 - Bradley J. Setzler - [An Introduction to Structural Econometrics in Julia](https://juliaeconomics.com/tutorials/)
-- Florian Oswald - [Computational Economics for PhDs](https://scpo-compecon.github.io/CoursePack/)
+- Florian Oswald - [Computational Economics for PhDs](https://scpo-compecon.github.io/CoursePack/) ([2021](https://github.com/floswald/NumericalMethods))
 - [Tutorials on Topics in Julia Programming](https://github.com/johnmyleswhite/julia_tutorials)
 
 
@@ -208,6 +210,7 @@
 ## OS
 
 - [macOS Setup Guide](https://sourabhbajaj.com/mac-setup) (somehow outdated)
+- [Mac Setup](https://github.com/ptb/mac-setup)
 - [The Unix Shell](http://swcarpentry.github.io/shell-novice/) - Software Carpentry
 - [Corey Schafer's youtube channel](https://www.youtube.com/user/schafer5/videos) (very beginner-friendly videos for almost all basic things about mac, python, git, etc.)
 - Terminal: [here](https://react.design/terminal), [here](https://qiita.com/kinchiki/items/57e9391128d07819c321), [here](https://qiita.com/vimyum/items/44478a51ef3a6f49804f)

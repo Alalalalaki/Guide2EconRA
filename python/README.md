@@ -34,6 +34,7 @@
 - [fastreg](https://github.com/iamlemec/fastreg)
 - [specification_curve](https://specification-curve.readthedocs.io/en/latest/readme.html)
 - [Stargazer](https://github.com/mwburke/stargazer)
+- [spreg](https://github.com/pysal/spreg)
 
 ### Fast Computation
 
