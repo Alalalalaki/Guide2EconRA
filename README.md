@@ -120,6 +120,7 @@
 - Tyler Ransom - [Econometric Analysis (U)](https://tyleransom.github.io/econometricslabs.html)
 - Hans H. Sievertsen - [Applied Economics with R](https://hhsievertsen.github.io/applied_econ_with_r/)
 - Matt Woerman - [Topics in Advanced Econometrics](https://github.com/woerman/ResEcon703) 
+- Sebastian Kranz - [Empirical Economics with R](https://github.com/skranz/empecon) / [Market Analysis with Econometrics and Machine Learning](https://github.com/skranz/MarketAnalysis)
 
 
 
@@ -235,7 +236,6 @@
 - [Happy Git and GitHub for the useR](https://happygitwithr.com/) - Jenny Bryan
 - [Git for Scientists](https://milesmcbain.github.io/git_4_sci/index.html) - Miles McBain
 - [Flight rules for git](https://github.com/k88hudson/git-flight-rules/)
-- [Collaborative Models in GitHub](http://www.goring.org/resources/project-management.html) / [Collaborating on GitHub](https://uoftcoders.github.io/studyGroup/lessons/git/collaboration/lesson/) / [GitHub for Collaboration On Open Projects ](https://mozillascience.github.io/working-open-workshop/github_for_collaboration/) / [Development workflow](https://docs.scipy.org/doc/numpy-1.15.1/dev/gitwash/development_workflow.html) / [GitHub Standard Fork & Pull Request Workflow ](https://gist.github.com/Chaser324/ce0505fbed06b947d962) / [Git mergetool tutorial](https://gist.github.com/karenyyng/f19ff75c60f18b4b8149#setting-up-different-editors--tool-for-using-git-mergetool)
 
 
 
