@@ -227,7 +227,7 @@
 - [Git, GitHub, and Version Control](https://julia.quantecon.org/more_julia/version_control.html) - QuantEcon
 - [Git and GitHub tutorial chapter](https://github.com/nyupredocs/githubtutorial/blob/master/Tutorials/git_tutorial.pdf) - Richard Evans
 - Bryan, J. (2018). [Excuse me, do you have a moment to talk about version control?.](https://peerj.com/preprints/3159.pdf) The American Statistician, 72(1), 20-27.
-- Bruno, R. (2016). Version control systems to facilitate research collaboration in economics. Computational Economics, 48(3), 547-553.
+- Bruno, R. (2016). [Version control systems to facilitate research collaboration in economics](https://link.springer.com/article/10.1007/s10614-015-9513-8). Computational Economics, 48(3), 547-553.
 - [git + LaTeX workflow](https://stackoverflow.com/questions/6188780/git-latex-workflow) - stackoverflow
 - [Pro Git book](https://git-scm.com/book/en/v2) - Scott Chacon & Ben Straub
 - [Git Tutorials and Training](https://www.atlassian.com/git/tutorials) - Atlassian
