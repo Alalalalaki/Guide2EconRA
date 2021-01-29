@@ -1,4 +1,4 @@
-![xkcd](xkcd.png)
+<img src="xkcd.png"  width="400">
 
 ## Frequently Used Commands
 
