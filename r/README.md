@@ -17,6 +17,7 @@
 
 ### Econometrics
 
+- [tidysynth](https://github.com/edunford/tidysynth)
 - ...
 
 **Learning**

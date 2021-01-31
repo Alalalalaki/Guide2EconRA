@@ -87,7 +87,7 @@
 ## Julia - Econ Lectures
 
 - [QuantEcon - Julia](https://julia.quantecon.org/)
-- Paul Schrimpf - [Computational Economics with Data Science Applications](https://github.com/ubcecon/ECON622_2019)
+- Paul Schrimpf - Computational Economics with Data Science Applications [2019](https://github.com/ubcecon/ECON622_2019), [2020](https://github.com/ubcecon/ECON622_2020)
 - Paul Schrimpf - [UBC ECON567 IO](https://github.com/UBCECON567)
 - Ivan Rudik - [Environmental and Resource Economics (computational methods for economics)](https://github.com/AEM7130/spring-2020)
 - Tyler Ransom - [Econometrics III](https://github.com/OU-PhD-Econometrics/fall-2020)

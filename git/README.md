@@ -36,5 +36,8 @@ Every time I want check what has happened in a file
 
 [Collaborative Models in GitHub](http://www.goring.org/resources/project-management.html) / [Collaborating on GitHub](https://uoftcoders.github.io/studyGroup/lessons/git/collaboration/lesson/) / [The Ultimate Github Collaboration Guide](https://medium.com/@jonathanmines/the-ultimate-github-collaboration-guide-df816e98fb67)
 
+[Scientific Collaboration and Project Management in GitHub](https://rabernat.medium.com/scientific-collaboration-and-project-management-in-github-d74f2255ae5f) / [Learn How To Use GitHub to Collaborate on Open Science Projects](https://www.earthdatascience.org/courses/intro-to-earth-data-science/git-github/github-collaboration/)
+
 [GitHub for Collaboration On Open Projects ](https://mozillascience.github.io/working-open-workshop/github_for_collaboration/) / [Development workflow](https://docs.scipy.org/doc/numpy-1.15.1/dev/gitwash/development_workflow.html) / [GitHub Standard Fork & Pull Request Workflow](https://gist.github.com/Chaser324/ce0505fbed06b947d962)
 
+[Set up your digital classroom with GitHub Classroom](https://github.blog/2020-03-18-set-up-your-digital-classroom-with-github-classroom/) / [Manage coursework with GitHub Classroom](https://docs.github.com/en/education/manage-coursework-with-github-classroom)
