@@ -41,4 +41,8 @@
 
 - Typora
 
-  
+
+## Random Resources
+
+- [Awesome macOS Command Line](https://github.com/herrbischoff/awesome-macos-command-line#time-machine) 
+

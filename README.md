@@ -143,7 +143,7 @@
 ## Machine Learning For Economists
 
 - Dario Sansone - [Machine Learning for Economists](https://sites.google.com/view/dariosansone/resources/machine-learning) (Resources)
-- Tyler Ransom - Data Science for Economists [2020](https://github.com/tyleransom/DScourseS20) (R) / [Introduction to machine learning for social scientists](https://tyleransom.github.io/research/IntroMachineLearning.pdf)
+- Tyler Ransom - Data Science for Economists [2020](https://github.com/tyleransom/DScourseS20), [2021](https://github.com/tyleransom/DScourseS21) (R) / [Introduction to machine learning for social scientists](https://tyleransom.github.io/research/IntroMachineLearning.pdf)
 - Ed Rubin and Connor Lennon - [Prediction and machine-learning in econometrics](https://github.com/edrubin/EC524W20) (R)
 - Itamar Caspi - [A course in machine learning for economists](https://github.com/ml4econ) (R)
 - Stephen Hansen - [machine_learning_economics](https://github.com/sekhansen/machine_learning_economics) / [text-mining-tutorial](https://github.com/sekhansen/text-mining-tutorial) (Python)
@@ -210,7 +210,7 @@
 
 ## OS
 
-- [macOS Setup Guide](https://sourabhbajaj.com/mac-setup) (somehow outdated)
+- [macOS Setup Guide](https://sourabhbajaj.com/mac-setup)
 - [Mac Setup](https://github.com/ptb/mac-setup)
 - [The Unix Shell](http://swcarpentry.github.io/shell-novice/) - Software Carpentry
 - [Corey Schafer's youtube channel](https://www.youtube.com/user/schafer5/videos) (very beginner-friendly videos for almost all basic things about mac, python, git, etc.)
@@ -319,4 +319,5 @@
 - Jonathan Dingel  - [Research resources that I recommend](https://faculty.chicagobooth.edu/jonathan.dingel/teaching/advice.html) / [Advice resource](https://faculty.chicagobooth.edu/jonathan.dingel/teaching/advice.html)
 - AEA-CSWEP - [Mentoring Reading Materials](https://www.aeaweb.org/about-aea/committees/cswep/mentoring/reading)
 - Mizuhito Suzuki - [Resources](https://github.com/mizuhirosuzuki/resources)
+- Christoph Kronenberg - [Resources](https://sites.google.com/view/christoph-kronenberg/home/resources)
 

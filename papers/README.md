@@ -6,6 +6,6 @@
 - Turrell, A., Speigner, B. J., Djumalieva, J., Copple, D., & Thurgood, J. (2019). [Transforming naturally occurring text data into economic statistics: The case of online job vacancy postings.](https://github.com/aeturrell/occupationcoder)
 - Abbring, J. H., Campbell, J. R., Tilly, J., & Yang, N. (2018). [Very Simple Markov‐Perfect Industry Dynamics: Theory.](https://github.com/jtilly/very-simple-theory-replication) Econometrica, 86(2), 721-735. ([python ver. by John Stachurski](https://notes.quantecon.org/submission/5b569e1617fb4900153deb07))
 - Perla, J., Tonetti, C., & Waugh, M. E. (2020). [Equilibrium technology diffusion, trade, and growth](https://github.com/jlperla/PerlaTonettiWaugh.jl). AER forthcoming.
-- Chernozhukov, V., Chetverikov, D., Demirer, M., Duflo, E., Hansen, C., Newey, W., & Robins, J. (2018). [Double/debiased machine learning for treatment and structural parameters: Double/debiased machine learning](Double/debiased machine learning for treatment and structural parameters: Double/debiased machine learning). The Econometrics Journal, 21(1).
+- Chernozhukov, V., Chetverikov, D., Demirer, M., Duflo, E., Hansen, C., Newey, W., & Robins, J. (2018). [Double/debiased machine learning for treatment and structural parameters](https://github.com/DoubleML). The Econometrics Journal, 21(1). (also [here](https://github.com/MCKnaus/dmlmt))
 - Fernández-Villaverde, Hurtado, and Nuño (2019): ["Financial Frictions and the Wealth Distribution".](https://github.com/jesusfv/financial-frictions)
 
