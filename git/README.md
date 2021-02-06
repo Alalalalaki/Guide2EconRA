@@ -32,6 +32,8 @@ Every time I want check what has happened in a file
 
 [Git mergetool tutorial](https://gist.github.com/karenyyng/f19ff75c60f18b4b8149#setting-up-different-editors--tool-for-using-git-mergetool) 
 
+[Git Forks and Upstreams: How-to and a cool tip](https://www.atlassian.com/git/tutorials/git-forks-and-upstreams)
+
 [Merging vs. Rebasing](https://www.atlassian.com/git/tutorials/merging-vs-rebasing) / [When do you use Git rebase instead of Git merge?](https://stackoverflow.com/a/36587353)
 
 [Collaborative Models in GitHub](http://www.goring.org/resources/project-management.html) / [Collaborating on GitHub](https://uoftcoders.github.io/studyGroup/lessons/git/collaboration/lesson/) / [The Ultimate Github Collaboration Guide](https://medium.com/@jonathanmines/the-ultimate-github-collaboration-guide-df816e98fb67)
@@ -41,3 +43,4 @@ Every time I want check what has happened in a file
 [GitHub for Collaboration On Open Projects ](https://mozillascience.github.io/working-open-workshop/github_for_collaboration/) / [Development workflow](https://docs.scipy.org/doc/numpy-1.15.1/dev/gitwash/development_workflow.html) / [GitHub Standard Fork & Pull Request Workflow](https://gist.github.com/Chaser324/ce0505fbed06b947d962)
 
 [Set up your digital classroom with GitHub Classroom](https://github.blog/2020-03-18-set-up-your-digital-classroom-with-github-classroom/) / [Manage coursework with GitHub Classroom](https://docs.github.com/en/education/manage-coursework-with-github-classroom)
+

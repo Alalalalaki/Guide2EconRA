@@ -110,17 +110,32 @@
 ## R - Econ Lectures
 
 - Maximilian Kasy - Advanced Econometrics and Machine Learning: [2019](https://maxkasy.github.io/home/TopicsInEconometrics2019/), [2000](https://maxkasy.github.io/home/ML_Oxford_2020/) / collection of [useful computation links on R and ML](https://maxkasy.github.io/home/computationlinks/)
+
 - Nick Huntington-Klein - [Economics, Causality, and Analytics](https://github.com/NickCH-K/introcausality) / [R resources](http://nickchk.com/econometrics.html)
+
 - Nick Huntington-Klein et al. - [Library of Statistical Techniques](https://lost-stats.github.io/)
+
 - Francis J. DiTraglia - [Statistical Learning and Causal Inference for Economics](https://github.com/fditraglia/econ224)
+
 - Tom O'Grady - [Causal-Inference-for-Beginning-Undergraduates](https://github.com/tomogradyucl/Causal-Inference-for-Beginning-Undergraduates)
+
 - Grant McDermott - [Data science for economists](https://github.com/uo-ec607/lectures) / [Big Data in Economics](https://github.com/uo-ec510-2020-spring/lectures)
+
 - Christoph Hanck, et al. - [Introduction to Econometrics with R](https://www.econometrics-with-r.org/index.html)
+
 - Ed Rubin - [PhD Econometrics (III) with R](https://github.com/edrubin/EC607S20) / [Masters-level applied econometrics with R](https://github.com/edrubin/EC524W20) / [Introduction to Econometrics with R](https://github.com/edrubin/EC421W20)
+
 - Tyler Ransom - [Econometric Analysis (U)](https://tyleransom.github.io/econometricslabs.html)
+
 - Hans H. Sievertsen - [Applied Economics with R](https://hhsievertsen.github.io/applied_econ_with_r/)
+
 - Matt Woerman - [Topics in Advanced Econometrics](https://github.com/woerman/ResEcon703) 
+
 - Sebastian Kranz - [Empirical Economics with R](https://github.com/skranz/empecon) / [Market Analysis with Econometrics and Machine Learning](https://github.com/skranz/MarketAnalysis)
+
+- Paul Goldsmith-Pinkham - Applied Empirical Methods
+
+  ## 
 
 
 
@@ -152,7 +167,7 @@
 - Kathy Baylis et al. - [Machine learning in applied economics](https://github.com/heckelei/PromotionskollegModule6800_2020) (Python)
 - Dawie van Lill - [Data Science for Economics](https://github.com/DawievLill/DataScience-871) (Python)
 - [Economics and Data Science](https://github.com/vkoul/Econ-Data-Science) (Resources)
-- Jonathan Hersh - [Introduction to Machine Learning](https://github.com/jonhersh/MGSC310)
+- Jonathan Hersh - [Introduction to Machine Learning](https://github.com/jonhersh/MGSC310) (R)
 
 
 
