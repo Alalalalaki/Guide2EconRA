@@ -104,6 +104,7 @@
 - [Think Julia: How to Think Like a Computer Scientist](https://benlauwens.github.io/ThinkJulia.jl/latest/book.html) - Ben Lauwens
 - [Introduction to Computational Thinking](https://mitmath.github.io/18S191/Fall20/) - MIT
 - [Tutorials for Scientific Machine Learning and Differential Equations](https://github.com/SciML/SciMLTutorials.jl)
+- [Algorithms for Decision Making](https://algorithmsbook.com/)
 
 
 
@@ -121,7 +122,7 @@
 - Hans H. Sievertsen - [Applied Economics with R](https://hhsievertsen.github.io/applied_econ_with_r/)
 - Matt Woerman - [Topics in Advanced Econometrics](https://github.com/woerman/ResEcon703) 
 - Sebastian Kranz - [Empirical Economics with R](https://github.com/skranz/empecon) / [Market Analysis with Econometrics and Machine Learning](https://github.com/skranz/MarketAnalysis)
-- Paul Goldsmith-Pinkham - Applied Empirical Methods
+- Paul Goldsmith-Pinkham - [Applied Empirical Methods](https://github.com/paulgp/applied-methods-phd)
 
 
 

@@ -95,3 +95,9 @@
 - [requests](https://requests.readthedocs.io/en/master/) / [requests-html](https://github.com/psf/requests-html)
 - [selenium](https://selenium-python.readthedocs.io/)
 
+---
+
+## Random Notes I Find Useful
+
+[Contributing to Pandas](https://pandas.pydata.org/docs/development/contributing.html) / [Contributing to NumPy](https://numpy.org/devdocs/dev/index.html)
+
