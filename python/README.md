@@ -101,3 +101,8 @@
 
 [Contributing to Pandas](https://pandas.pydata.org/docs/development/contributing.html) / [Contributing to NumPy](https://numpy.org/devdocs/dev/index.html)
 
+---
+
+## Non-Econ Stuffs
+
+- [Introduction to Computational Literary Analysis](https://icla2020b.jonreeve.com/)
