@@ -81,6 +81,7 @@
 - [Bayesian Computing Course](https://github.com/fonnesbeck/Bayes_Computing_Course)
 - Arthur Turrell - [Coding for Economists](https://aeturrell.github.io/coding-for-economists/intro.html)
 - Cliburn - [Computational Statistics and Statistical Computing](https://github.com/cliburn/sta-663-2021)
+- [A Python version of Miranda and Fackler's CompEcon toolbox](https://github.com/randall-romero/CompEcon)
 
 
 
@@ -111,7 +112,7 @@
 ## R - Econ Lectures
 
 - Maximilian Kasy - Advanced Econometrics and Machine Learning: [2019](https://maxkasy.github.io/home/TopicsInEconometrics2019/), [2000](https://maxkasy.github.io/home/ML_Oxford_2020/) / collection of [useful computation links on R and ML](https://maxkasy.github.io/home/computationlinks/)
-- Nick Huntington-Klein - [Economics, Causality, and Analytics](https://github.com/NickCH-K/introcausality) / [R resources](http://nickchk.com/econometrics.html)
+- Nick Huntington-Klein - [Economics, Causality, and Analytics](https://github.com/NickCH-K/introcausality) / [R resources](http://nickchk.com/econometrics.html) / [Causal Inference](https://github.com/NickCH-K/CausalitySlides)
 - Nick Huntington-Klein et al. - [Library of Statistical Techniques](https://lost-stats.github.io/)
 - Francis J. DiTraglia - [Statistical Learning and Causal Inference for Economics](https://github.com/fditraglia/econ224)
 - Tom O'Grady - [Causal-Inference-for-Beginning-Undergraduates](https://github.com/tomogradyucl/Causal-Inference-for-Beginning-Undergraduates)
@@ -287,6 +288,7 @@
 - [Merely Useful](https://github.com/merely-useful/merely-useful.github.io) (python and r lecture)
 - [Computing in Optimization and Statistics 2017](https://philchodrow.github.io/cos_2017/)
 - Hernán MA, Robins JM (2020). [Causal Inference: What If. (with computer code of stat, R, python)](https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/)
+- [The Programming Historian](https://programminghistorian.org/en/lessons/) (lessons on digital tools, methods, and research processes)
 
 
 
