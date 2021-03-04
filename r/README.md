@@ -34,9 +34,16 @@
 
 ---
 
+## Some Random Notes I Find Useful
+
+
+
+---
+
 ## Non-Econ Stuffs
 
 - [Individual-based models of cultural evolution](https://acerbialberto.com/IBM-cultevo/)
 - [Intro to Political Science Research Methods](https://mattblackwell.org/teaching/gov50/)
 - [Public Policy Analytics: Code & Context for Data Science in Government](https://urbanspatial.github.io/PublicPolicyAnalytics/)
+- [Data Science for Psychologists](https://bookdown.org/hneth/ds4psy/)
 

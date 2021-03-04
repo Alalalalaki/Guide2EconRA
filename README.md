@@ -123,7 +123,6 @@
 - Hans H. Sievertsen - [Applied Economics with R](https://hhsievertsen.github.io/applied_econ_with_r/)
 - Matt Woerman - [Topics in Advanced Econometrics](https://github.com/woerman/ResEcon703) 
 - Sebastian Kranz - [Empirical Economics with R](https://github.com/skranz/empecon) / [Market Analysis with Econometrics and Machine Learning](https://github.com/skranz/MarketAnalysis)
-- Paul Goldsmith-Pinkham - [Applied Empirical Methods](https://github.com/paulgp/applied-methods-phd)
 
 
 
@@ -309,6 +308,7 @@
 - [mostly-harmless-replication in Stata, R, Python and Julia](https://github.com/vikjam/mostly-harmless-replication)
 - Ivan Rudik - [Environmental and Resource Economics](https://github.com/irudik/aem6510)
 - Scott Cunningham - [causal-inference-class](https://github.com/scunning1975)
+- Paul Goldsmith-Pinkham - [Applied Empirical Methods](https://github.com/paulgp/applied-methods-phd)
 
 
 
