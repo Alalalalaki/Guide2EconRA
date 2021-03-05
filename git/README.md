@@ -28,7 +28,7 @@ Every time I want check what has happened in a file
 
 
 
-## Some Random Notes I Find Useful
+## Random Notes I Find Useful
 
 [Git mergetool tutorial](https://gist.github.com/karenyyng/f19ff75c60f18b4b8149#setting-up-different-editors--tool-for-using-git-mergetool) 
 
