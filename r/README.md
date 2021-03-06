@@ -18,6 +18,7 @@
 ### Econometrics
 
 - [tidysynth](https://github.com/edunford/tidysynth)
+- [fixest](https://lrberge.github.io/fixest/)
 - ...
 
 **Learning**
@@ -34,7 +35,7 @@
 
 ---
 
-## Some Random Notes I Find Useful
+## Random Notes I Find Useful
 
 [An R Markdown template for writing lecture notes and academic papers](https://github.com/grantmcdermott/lecturenotes)
 

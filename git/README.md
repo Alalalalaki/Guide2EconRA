@@ -1,6 +1,6 @@
 <img src="xkcd.png"  width="400">
 
-## Frequently Used Commands
+## My Frequently Used Commands
 
 Every time I have mistakenly added and/or commited a file
 
@@ -10,11 +10,15 @@ Note that even after removing it from the index with `git rm` or `git reset`,  i
 
 `git gc --prune=now`
 
-Every time I commit but then regret before pushing (replace new message with --no-edit if necessary)
+Every time I commit but then I want to add something to this commit before pushing
 
 `git commit --amend --no-edit`
 
-Every time I get messed up, give up, and want to go back into past
+Every time I commit but then I want to change the commit comment before pushing
+
+`git commit --amend -m "new message"`
+
+Every time I get messed up, give up, and want to go back into last commit
 
 `git reset --hard`
 
@@ -25,6 +29,10 @@ Every time I want to clean something for now and move back lately
 Every time I want check what has happened in a file
 
 `git log -p my.file`
+
+Every time I want to fetch a pull request so that I can checkout as a local branch  
+
+`git fetch origin pull/<PR NUMBER>/head:<LOCAL BRANCH NAME> `
 
 
 

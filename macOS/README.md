@@ -1,9 +1,10 @@
 ## Mac OS
 
-- Learn shell and command line tools.
-- Use homebrew to install apps if possible.
+- Learning shell and command line tools can make life easier (though sometimes harder).
+- I find it helpful to organize your folder and files with some knowledge about the basic structure of Mac OS.
+- It will be convenient to use homebrew to install command line tools and many apps if possible.
 
-## Recommended Apps
+## Some Apps I Find Useful
 
 - Alfred
 
@@ -40,7 +41,6 @@
 - Texpad
 
 - Typora
-
 
 ## Random Resources
 

@@ -309,6 +309,7 @@
 - Ivan Rudik - [Environmental and Resource Economics](https://github.com/irudik/aem6510)
 - Scott Cunningham - [causal-inference-class](https://github.com/scunning1975)
 - Paul Goldsmith-Pinkham - [Applied Empirical Methods](https://github.com/paulgp/applied-methods-phd)
+- José Luis Montiel Olea - [IntroEconometrics-Ph.D](https://github.com/jm4474/Courses-IntroEconometrics-Ph.D) / [TimeSeries-UG](https://github.com/jm4474/Courses-TimeSeries-Undergraduate)
 
 
 
