@@ -18,3 +18,13 @@
 - [R](https://github.com/IRkernel/IRkernel) and [Stata](https://github.com/kylebarron/stata_kernel) kernel is available in Jupyter.
 - You can use nteract or vscode to open a `.ipynb` file directly.
 - See this repo - [Ten simple rules for writing and sharing computational analyses in Jupyter Notebooks](https://github.com/jupyter-guide/ten-rules-jupyter) - for writing reproducible notebooks. 
+
+---
+
+## Random Notes I Find Useful
+
+[How to Version Control Jupyter Notebooks](https://nextjournal.com/schmudde/how-to-version-control-jupyter) / [Jupyter Notebooks in a Git Repository](https://mg.readthedocs.io/git-jupyter.html) / [Making Git and Jupyter Notebooks play nice](http://timstaley.co.uk/posts/making-git-and-jupyter-notebooks-play-nice) / Clearing Output Data in Jupyter Notebooks using [Pre-commit Framework](https://zhauniarovich.com/post/2020/2020-06-clearing-jupyter-output/) or [a Bash Script Hook”](https://zhauniarovich.com/post/2020/2020-10-clearing-jupyter-output-p2/) or [Git Attributes](https://zhauniarovich.com/post/2020/2020-10-clearing-jupyter-output-p3/) / [Git Version Control with Jupyter Notebooks and R-Markdown](https://towardsdatascience.com/version-control-with-jupyter-notebooks-f096f4d7035a)
+
+[Importing Local Python Modules from Jupyter Notebooks](https://mg.readthedocs.io/importing-local-python-modules-from-jupyter-notebooks/index.html)
+
+ 

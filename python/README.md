@@ -35,6 +35,7 @@
 - [specification_curve](https://specification-curve.readthedocs.io/en/latest/readme.html)
 - [Stargazer](https://github.com/mwburke/stargazer)
 - [spreg](https://github.com/pysal/spreg)
+- [binscatter](https://github.com/esantorella/binscatter)
 
 ### Fast Computation
 
@@ -101,8 +102,12 @@
 
 [Contributing to Pandas](https://pandas.pydata.org/docs/development/contributing.html) / [Contributing to NumPy](https://numpy.org/devdocs/dev/index.html)
 
+
+
 ---
 
 ## Non-Econ Stuffs
 
 - [Introduction to Computational Literary Analysis](https://icla2020b.jonreeve.com/)
+- [Programming for GIS: Teaching resources](https://github.com/andrea-ballatore/teaching-programming-for-gis)
+
