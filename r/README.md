@@ -39,6 +39,10 @@
 
 [An R Markdown template for writing lecture notes and academic papers](https://github.com/grantmcdermott/lecturenotes)
 
+[Analyze Survey Data for Free](https://github.com/ajdamico/asdfree)
+
+[ggplot Wizardry: My Favorite Tricks and Secrets for Beautiful Plots in R](https://github.com/Z3tt/OutlierConf2021/)
+
 ---
 
 ## Non-Econ Stuffs
