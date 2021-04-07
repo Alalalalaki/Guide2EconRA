@@ -307,7 +307,7 @@
 - David Ubilava - [(UG) Agricultural Markets](https://davidubilava.com/agmarkets/) 
 - [mostly-harmless-replication in Stata, R, Python and Julia](https://github.com/vikjam/mostly-harmless-replication)
 - Ivan Rudik - [Environmental and Resource Economics](https://github.com/irudik/aem6510)
-- Scott Cunningham - [causal-inference-class](https://github.com/scunning1975)
+- Scott Cunningham - [causal-inference-class](https://github.com/scunning1975) / [Teaching Resources for Causal Inference: The Mixtape](https://github.com/scunning1975/mixtape_learnr)
 - Paul Goldsmith-Pinkham - [Applied Empirical Methods](https://github.com/paulgp/applied-methods-phd)
 - José Luis Montiel Olea - [IntroEconometrics-Ph.D](https://github.com/jm4474/Courses-IntroEconometrics-Ph.D) / [TimeSeries-UG](https://github.com/jm4474/Courses-TimeSeries-Undergraduate)
 

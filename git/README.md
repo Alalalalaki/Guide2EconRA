@@ -18,17 +18,21 @@ Every time I commit but then I want to change the commit comment before pushing
 
 `git commit --amend -m "new message"`
 
-Every time I get messed up, give up, and want to go back into last commit
+Every time I get messed up and want to go back into last commit
 
-`git reset --hard`
+`git reset` / `git reset --hard`
 
 Every time I want to clean something for now and move back lately
 
-`git stash` / `git stash list` / `git stash apply`
+`git stash` / `git stash list` / `git stash pop` / `git stash apply` / `git stash drop`
 
 Every time I want check what has happened in a file
 
 `git log -p my.file`
+
+Every time I want to list all the commits (even ones that have been reseted or rebased)
+
+`git reflog `
 
 Every time I want to fetch a pull request so that I can checkout as a local branch  
 
@@ -51,4 +55,6 @@ Every time I want to fetch a pull request so that I can checkout as a local bran
 [GitHub for Collaboration On Open Projects ](https://mozillascience.github.io/working-open-workshop/github_for_collaboration/) / [Development workflow](https://docs.scipy.org/doc/numpy-1.15.1/dev/gitwash/development_workflow.html) / [GitHub Standard Fork & Pull Request Workflow](https://gist.github.com/Chaser324/ce0505fbed06b947d962)
 
 [Set up your digital classroom with GitHub Classroom](https://github.blog/2020-03-18-set-up-your-digital-classroom-with-github-classroom/) / [Manage coursework with GitHub Classroom](https://docs.github.com/en/education/manage-coursework-with-github-classroom)
+
+[(Collaboration) Infrastructure](https://www.notion.so/Infrastructure-452e6e478ff846cca9dd73445a431a3c)
 

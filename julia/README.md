@@ -8,6 +8,7 @@
 
 - [ModelingToolkit.jl](https://github.com/SciML/ModelingToolkit.jl) / [Symbolics.jl](https://github.com/JuliaSymbolics/Symbolics.jl) / [SymbolicUtils.jl](https://github.com/JuliaSymbolics/SymbolicUtils.jl)
 - [DifferentialEquations.jl](https://github.com/SciML/DifferentialEquations.jl)
+- [Polynomials.jl](https://github.com/JuliaMath/Polynomials.jl)
 
 ### Model
 
@@ -26,11 +27,13 @@
 
 ### Econometrics
 
-- 
+- [FixedEffectModels.jl](https://github.com/FixedEffects/fixedeffectmodels.jl)
+- [LeastSquaresOptim.jl](https://github.com/matthieugomez/LeastSquaresOptim.jl)
 
 ### Plot
 
 - [Binscatters.jl](https://github.com/matthieugomez/Binscatters.jl) 
+- [PlotThemes.jl](https://github.com/JuliaPlots/PlotThemes.jl)
 
 ### Table
 
@@ -40,9 +43,16 @@
 
 - [Documenter.jl](https://github.com/JuliaDocs/Documenter.jl) / [Literate.jl](https://github.com/fredrikekre/Literate.jl)
 
+### Presentation
+
+- [julia-tufte-beamer](https://github.com/mossr/julia-tufte-beamer)
+- [julia-mono-listings](https://github.com/mossr/julia-mono-listings)
+
 ---
 
 ## Random Notes I Find Useful
 
 [Lutz Hendricks - Notes on the Julia Language](https://lhendricks.org/julia_notes/intro.html#notes-on-the-julia-language)
+
+[BeautifulAlgorithms.jl](https://github.com/mossr/BeautifulAlgorithms.jl)
 
