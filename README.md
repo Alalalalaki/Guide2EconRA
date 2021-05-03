@@ -73,7 +73,7 @@
 - [Real Python Tutorials](https://realpython.com/tutorials/all/)
 - [Scipy Lecture Notes](https://scipy-lectures.org/)
 - [Econometrics in Python](http://aeturrell.com/blog/)
-- Claudio Jolowicz - [Hypermodern Python](https://cjolowicz.github.io/posts/)
+- Claudio Jolowicz - [Hypermodern Python](https://cjolowicz.github.io/posts/) / [Hypermodern Python Cookiecutter](http://cookiecutter-hypermodern-python.readthedocs.io/)
 - Nicolas P. Rougier - [From Python to Numpy](https://www.labri.fr/perso/nrougier/from-python-to-numpy/)
 - Nicolas P. Rougier - [Scientific Visualization – Python & Matplotlib](https://github.com/rougier/scientific-visualization-book) / [Matplotlib cheat sheet](https://github.com/rougier/matplotlib-cheatsheet)
 - [Introduction to Mathematical Computing with Python and Jupyter](https://github.com/patrickwalls/mathematical-python)
@@ -90,12 +90,13 @@
 - [QuantEcon - Julia](https://julia.quantecon.org/)
 - Paul Schrimpf - Computational Economics with Data Science Applications [2019](https://github.com/ubcecon/ECON622_2019), [2020](https://github.com/ubcecon/ECON622_2020)
 - Paul Schrimpf - [UBC ECON567 IO](https://github.com/UBCECON567)
-- Ivan Rudik - [Environmental and Resource Economics (computational methods for economics)](https://github.com/AEM7130/spring-2020)
+- Ivan Rudik - [Environmental and Resource Economics (computational methods for economics / Dynamic Optimization)](https://github.com/AEM7130/class-repo)
 - Tyler Ransom - [Econometrics III](https://github.com/OU-PhD-Econometrics/fall-2020)
 - Michael Creel - [Econometrics lecture notes with examples using the Julia language](https://github.com/mcreel/Econometrics)
 - Bradley J. Setzler - [An Introduction to Structural Econometrics in Julia](https://juliaeconomics.com/tutorials/)
 - Florian Oswald - [Computational Economics for PhDs](https://scpo-compecon.github.io/CoursePack/) ([2021](https://github.com/floswald/NumericalMethods))
 - [Tutorials on Topics in Julia Programming](https://github.com/johnmyleswhite/julia_tutorials)
+- Lutz Hendricks - [Julia for Economists](https://lhendricks.org/econ890/julia/outline.html) / [Notes on the Julia Programming Language](https://lhendricks.org/julia/julia_notes.pdf)
 
 
 
@@ -310,6 +311,7 @@
 - Scott Cunningham - [causal-inference-class](https://github.com/scunning1975) / [Teaching Resources for Causal Inference: The Mixtape](https://github.com/scunning1975/mixtape_learnr)
 - Paul Goldsmith-Pinkham - [Applied Empirical Methods](https://github.com/paulgp/applied-methods-phd)
 - José Luis Montiel Olea - [IntroEconometrics-Ph.D](https://github.com/jm4474/Courses-IntroEconometrics-Ph.D) / [TimeSeries-UG](https://github.com/jm4474/Courses-TimeSeries-Undergraduate)
+- Jonathan Conning - [Development Microeconomics](https://github.com/jhconning/Dev-II)
 
 
 

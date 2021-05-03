@@ -36,6 +36,7 @@
 - [Stargazer](https://github.com/mwburke/stargazer)
 - [spreg](https://github.com/pysal/spreg)
 - [binscatter](https://github.com/esantorella/binscatter)
+- [lifelines](https://github.com/CamDavidsonPilon/lifelines)
 
 ### Fast Computation
 
