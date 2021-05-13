@@ -124,6 +124,7 @@
 - Hans H. Sievertsen - [Applied Economics with R](https://hhsievertsen.github.io/applied_econ_with_r/)
 - Matt Woerman - [Topics in Advanced Econometrics](https://github.com/woerman/ResEcon703) 
 - Sebastian Kranz - [Empirical Economics with R](https://github.com/skranz/empecon) / [Market Analysis with Econometrics and Machine Learning](https://github.com/skranz/MarketAnalysis)
+- Florian Oswald, et al. - [Introduction to Econometrics with R](https://scpoecon.github.io/ScPoEconometrics/) / [Advanced Econometrics](https://github.com/ScPoEcon/Advanced-Metrics-slides)
 
 
 
@@ -156,6 +157,7 @@
 - Dawie van Lill - [Data Science for Economics](https://github.com/DawievLill/DataScience-871) (Python)
 - [Economics and Data Science](https://github.com/vkoul/Econ-Data-Science) (Resources)
 - Jonathan Hersh - [Introduction to Machine Learning](https://github.com/jonhersh/MGSC310) (R)
+- Melissa Dell - [Unleashing Novel Data at Scale](https://dell-research-harvard.github.io/overview/2021/01/23/about.html)
 
 
 
@@ -324,7 +326,7 @@
 - Ryan B Edwards - [Resource](http://www.ryanbedwards.com/resources)
 - Masayuki Kudamatsu - [Tips 4 Economists](https://sites.google.com/site/mkudamatsu/tips4economists)
 - Jonathan Dingel  - [Research resources that I recommend](https://faculty.chicagobooth.edu/jonathan.dingel/teaching/advice.html) / [Advice resource](https://faculty.chicagobooth.edu/jonathan.dingel/teaching/advice.html)
-- AEA-CSWEP - [Mentoring Reading Materials](https://www.aeaweb.org/about-aea/committees/cswep/mentoring/reading)
+- AEA-CSWEP - [Mentoring Reading Materials](https://www.aeaweb.org/about-aea/committees/cswep/mentoring/reading) / [Professional Development Resources](https://www.aeaweb.org/about-aea/committees/cswep/programs/resources)
 - Mizuhito Suzuki - [Resources](https://github.com/mizuhirosuzuki/resources)
 - Christoph Kronenberg - [Resources](https://sites.google.com/view/christoph-kronenberg/home/resources)
 
