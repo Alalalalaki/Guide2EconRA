@@ -57,6 +57,7 @@
 - Matheus Facure - [Python Causality Handbook](https://github.com/matheusfacure/python-causality-handbook)
 - OpenSourceEconomics - [Scientific Computing](https://github.com/OpenSourceEconomics/ose-course-scientific-computing)
 - OpenSourceEconomics -  [Microeconometrics](https://github.com/OpenSourceEconomics/ose-course-data-science) 
+- Arthur Turrell - [Coding for Economists](https://aeturrell.github.io/coding-for-economists/index.html)
 
 
 

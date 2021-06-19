@@ -27,7 +27,8 @@
 
 ### Formating
 
-- ...
+- [styler](https://github.com/r-lib/styler)
+- [rticles](https://github.com/rstudio/rticles)
 
 ### Teaching
 
