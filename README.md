@@ -92,7 +92,7 @@
 - Paul Schrimpf - Computational Economics with Data Science Applications [2019](https://github.com/ubcecon/ECON622_2019), [2020](https://github.com/ubcecon/ECON622_2020)
 - Paul Schrimpf - [UBC ECON567 IO](https://github.com/UBCECON567)
 - Ivan Rudik - [Environmental and Resource Economics (computational methods for economics / Dynamic Optimization)](https://github.com/AEM7130/class-repo)
-- Tyler Ransom - [Econometrics III](https://github.com/OU-PhD-Econometrics/fall-2020)
+- Tyler Ransom - Econometrics III [2020](https://github.com/OU-PhD-Econometrics/fall-2020), [2021](https://github.com/OU-PhD-Econometrics/fall-2021)
 - Michael Creel - [Econometrics lecture notes with examples using the Julia language](https://github.com/mcreel/Econometrics)
 - Bradley J. Setzler - [An Introduction to Structural Econometrics in Julia](https://juliaeconomics.com/tutorials/)
 - Florian Oswald - [Computational Economics for PhDs](https://scpo-compecon.github.io/CoursePack/) ([2021](https://github.com/floswald/NumericalMethods))
@@ -166,6 +166,7 @@
 
 - Andreas C. Müller - [Applied Machine Learning Spring 2020](https://github.com/amueller/COMS4995-s20#applied-machine-learning-spring-2020) (python)
 - Tyler Folkman - [Applied Machine Learning](https://github.com/tfolkman/byu_econ_applied_machine_learning) (python)
+- Jeff Heaton - [Applications of Deep Neural Networks](https://github.com/jeffheaton/t81_558_deep_learning) (Python)
 
 
 
@@ -196,6 +197,13 @@
 - [Stata Coding Guide](https://reifjulian.github.io/guide/) - Julian Reif
 
 
+
+### Reduced Form Approaches
+
+- [Literature on Recent Advances in Applied Micro Methods](https://christinecai.github.io/PublicGoods/applied_micro_methods.pdf)
+- [Diff-in-Diff-Notes](https://github.com/asjadnaqvi/Diff-in-Diff-Notes)
+
+ 
 
 ---
 
@@ -292,6 +300,7 @@
 - [Computing in Optimization and Statistics 2017](https://philchodrow.github.io/cos_2017/)
 - Hernán MA, Robins JM (2020). [Causal Inference: What If. (with computer code of stat, R, python)](https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/)
 - [The Programming Historian](https://programminghistorian.org/en/lessons/) (lessons on digital tools, methods, and research processes)
+- [GDSGE: A Toolbox for Solving DSGE Models with Global Methods](https://www.gdsge.com/index.html) (matlab)
 
 
 

@@ -31,6 +31,10 @@
 - [LeastSquaresOptim.jl](https://github.com/matthieugomez/LeastSquaresOptim.jl)
 - [FRAC.jl](https://github.com/jamesbrandecon/FRAC.jl)
 
+### Machine Learning
+
+- [BeautifulAlgorithms.jl](https://github.com/mossr/BeautifulAlgorithms.jl)
+
 ### Plot
 
 - [Binscatters.jl](https://github.com/matthieugomez/Binscatters.jl) 

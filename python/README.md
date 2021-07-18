@@ -103,7 +103,7 @@
 
 [Contributing to Pandas](https://pandas.pydata.org/docs/development/contributing.html) / [Contributing to NumPy](https://numpy.org/devdocs/dev/index.html)
 
-
+[CompEcon](https://github.com/randall-romero/CompEcon) (A Python version of Miranda and Fackler's CompEcon toolbox)
 
 ---
 
