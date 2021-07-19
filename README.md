@@ -158,7 +158,7 @@
 - Dawie van Lill - [Data Science for Economics](https://github.com/DawievLill/DataScience-871) (Python)
 - [Economics and Data Science](https://github.com/vkoul/Econ-Data-Science) (Resources)
 - Jonathan Hersh - [Introduction to Machine Learning](https://github.com/jonhersh/MGSC310) (R)
-- Melissa Dell - [Unleashing Novel Data at Scale](https://dell-research-harvard.github.io/overview/2021/01/23/about.html)
+- Melissa Dell - [Unleashing Novel Data at Scale](https://dell-research-harvard.github.io/overview/2021/01/23/about.html) (Python)
 
 
 
@@ -195,6 +195,7 @@
 - [Stata to Python Equivalents](http://www.danielmsullivan.com/pages/tutorial_stata_to_python.html) - Daniel M. Sullivan
 - [Pandas comparison with Stata](https://pandas.pydata.org/docs/getting_started/comparison/comparison_with_stata.html)
 - [Stata Coding Guide](https://reifjulian.github.io/guide/) - Julian Reif
+- [The Stata Guide on Medium](https://medium.com/the-stata-guide) / [Stata-schemes](https://github.com/asjadnaqvi/Stata-schemes) - Asjad Naqvi
 
 
 
