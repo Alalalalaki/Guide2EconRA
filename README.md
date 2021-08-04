@@ -48,7 +48,7 @@
   - Perspectives on Computational Research in Economics [2020](https://github.com/UC-MACSS/persp-research-econ_Spr20)
   - Structural Estimation [2020](https://github.com/rickecon/StructEst_W20) 
   - [Git and GitHub tutorial](https://github.com/nyupredocs/githubtutorial)
-- Jason DeBacker - Computational Methods for Economists [2017](https://github.com/jdebacker/CompEcon_Fall17), [2019](https://github.com/jdebacker/CompEcon_Fall19)
+- Jason DeBacker - Computational Methods for Economists [2017](https://github.com/jdebacker/CompEcon_Fall17), [2019](https://github.com/jdebacker/CompEcon_Fall19), [2021](https://github.com/jdebacker/CompEcon_Fall21)
 - Fedor Iskhakov - [Dynamic programming and structural estimation](https://github.com/CompEconCourse/CourseMaterials)
 - Fedor Iskhakov - [Foundations of Computational Economics](https://github.com/fediskhakov/CompEcon)
 - Jeppe Druedahl - [Introduction to Programming and Numerical Analysis](https://numeconcopenhagen.netlify.com/)
@@ -108,6 +108,7 @@
 - [Introduction to Computational Thinking](https://mitmath.github.io/18S191/Fall20/) - MIT
 - [Tutorials for Scientific Machine Learning and Differential Equations](https://github.com/SciML/SciMLTutorials.jl)
 - [Algorithms for Decision Making](https://algorithmsbook.com/)
+- [From zero to Julia!](https://techytok.com/from-zero-to-julia/)
 
 
 
@@ -154,7 +155,7 @@
 - Stephen Hansen - [machine_learning_economics](https://github.com/sekhansen/machine_learning_economics) / [text-mining-tutorial](https://github.com/sekhansen/text-mining-tutorial) (Python)
 - Jérémy L'Hour - [Machine Learning for Econometrics](https://github.com/jlhourENSAE/hdmetrics) (R)
 - Le Wang - [Machine Learning and Causal Inference](https://github.com/lewangecon/man2-2020) (R)
-- Kathy Baylis et al. - [Machine learning in applied economics](https://github.com/heckelei/PromotionskollegModule6800_2020) (Python)
+- Kathy Baylis et al. - Machine learning in applied economics [2020](https://github.com/heckelei/PromotionskollegModule6800_2020), [2021](https://github.com/agpo-ilr-uni-bonn/PromotionskollegModule6800_2021) (Python)
 - Dawie van Lill - [Data Science for Economics](https://github.com/DawievLill/DataScience-871) (Python)
 - [Economics and Data Science](https://github.com/vkoul/Econ-Data-Science) (Resources)
 - Jonathan Hersh - [Introduction to Machine Learning](https://github.com/jonhersh/MGSC310) (R)
@@ -172,7 +173,7 @@
 
 ## Machine Learning - Other Resources
 
-- Chris Albon - [Data Science & Artificial Intelligence](https://chrisalbon.com/) (Resources)
+- Chris Albon - [Data Science & Machine Learning](https://chrisalbon.com/)
 - [Practical tips for machine learning practitioners](https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf)
 - [Hands-On Machine Learning with R](https://bradleyboehmke.github.io/HOML/)
 - [Deep Learning Drizzle](https://github.com/kmario23/deep-learning-drizzle#hibiscus-natural-language-processing-cherry_blossom-sparkling_heart) (Links)
@@ -324,7 +325,7 @@
 - Scott Cunningham - [causal-inference-class](https://github.com/scunning1975) / [Teaching Resources for Causal Inference: The Mixtape](https://github.com/scunning1975/mixtape_learnr)
 - Paul Goldsmith-Pinkham - [Applied Empirical Methods](https://github.com/paulgp/applied-methods-phd)
 - José Luis Montiel Olea - [IntroEconometrics-Ph.D](https://github.com/jm4474/Courses-IntroEconometrics-Ph.D) / [TimeSeries-UG](https://github.com/jm4474/Courses-TimeSeries-Undergraduate)
-- Jonathan Conning - [Development Microeconomics](https://github.com/jhconning/Dev-II)
+- Jonathan Conning - [Development Microeconomics](https://github.com/jhconning/Dev-II) / [(UG) International Trade](https://github.com/jhconning/Trade340)
 
 
 
