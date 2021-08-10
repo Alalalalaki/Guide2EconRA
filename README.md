@@ -114,7 +114,7 @@
 
 ## R - Econ Lectures
 
-- Maximilian Kasy - Advanced Econometrics and Machine Learning: [2019](https://maxkasy.github.io/home/TopicsInEconometrics2019/), [2000](https://maxkasy.github.io/home/ML_Oxford_2020/) / collection of [useful computation links on R and ML](https://maxkasy.github.io/home/computationlinks/)
+- Maximilian Kasy - Advanced Econometrics and Machine Learning: [2019](https://maxkasy.github.io/home/TopicsInEconometrics2019/), [2020](https://maxkasy.github.io/home/ML_Oxford_2020/), [2021](https://maxkasy.github.io/home/ML_Oxford_2021/) / collection of [useful computation links on R and ML](https://maxkasy.github.io/home/computationlinks/)
 - Nick Huntington-Klein - [Economics, Causality, and Analytics](https://github.com/NickCH-K/introcausality) / [R resources](http://nickchk.com/econometrics.html) / [Causal Inference](https://github.com/NickCH-K/CausalitySlides)
 - Nick Huntington-Klein et al. - [Library of Statistical Techniques](https://lost-stats.github.io/)
 - Francis J. DiTraglia - [Statistical Learning and Causal Inference for Economics](https://github.com/fditraglia/econ224)
@@ -326,6 +326,7 @@
 - Paul Goldsmith-Pinkham - [Applied Empirical Methods](https://github.com/paulgp/applied-methods-phd)
 - José Luis Montiel Olea - [IntroEconometrics-Ph.D](https://github.com/jm4474/Courses-IntroEconometrics-Ph.D) / [TimeSeries-UG](https://github.com/jm4474/Courses-TimeSeries-Undergraduate)
 - Jonathan Conning - [Development Microeconomics](https://github.com/jhconning/Dev-II) / [(UG) International Trade](https://github.com/jhconning/Trade340)
+- Maximilian Kasy - [Labor Economics (UG)](https://maxkasy.github.io/home/teaching/)
 
 
 

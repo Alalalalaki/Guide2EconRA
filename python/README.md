@@ -35,7 +35,7 @@
 - [specification_curve](https://specification-curve.readthedocs.io/en/latest/readme.html)
 - [Stargazer](https://github.com/mwburke/stargazer)
 - [spreg](https://github.com/pysal/spreg)
-- [binscatter](https://github.com/esantorella/binscatter)
+- [binscatter](https://github.com/esantorella/binscatter) / [binsreg](https://nppackages.github.io/binsreg/)
 - [lifelines](https://github.com/CamDavidsonPilon/lifelines)
 
 ### Fast Computation
@@ -104,6 +104,8 @@
 [Contributing to Pandas](https://pandas.pydata.org/docs/development/contributing.html) / [Contributing to NumPy](https://numpy.org/devdocs/dev/index.html)
 
 [CompEcon](https://github.com/randall-romero/CompEcon) (A Python version of Miranda and Fackler's CompEcon toolbox)
+
+[Three examples of nonlinear least-squares fitting in Python with SciPy](https://hernandis.me/2020/04/05/three-examples-of-nonlinear-least-squares-fitting-in-python-with-scipy.html)
 
 ---
 
