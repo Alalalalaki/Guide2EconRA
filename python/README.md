@@ -107,6 +107,8 @@
 
 [Three examples of nonlinear least-squares fitting in Python with SciPy](https://hernandis.me/2020/04/05/three-examples-of-nonlinear-least-squares-fitting-in-python-with-scipy.html)
 
+[Doing economics with python](https://janboone.github.io/python_economics/economics.html)
+
 ---
 
 ## Non-Econ Stuffs
