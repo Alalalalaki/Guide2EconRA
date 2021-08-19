@@ -109,6 +109,7 @@
 - [Tutorials for Scientific Machine Learning and Differential Equations](https://github.com/SciML/SciMLTutorials.jl)
 - [Algorithms for Decision Making](https://algorithmsbook.com/)
 - [From zero to Julia!](https://techytok.com/from-zero-to-julia/)
+- [Introduction to Scientific Computing](https://github.com/tpoisot/ScientificComputingForTheRestOfUs)
 
 
 

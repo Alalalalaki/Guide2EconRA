@@ -9,6 +9,9 @@ import pandas as pd
 
 
 def read_data(file_path):
+    """
+    return (conn, c)
+    """
     conn = sqlite3.connect(file_path)  # 'example.db'
     c = conn.cursor()
     return conn, c
