@@ -152,7 +152,7 @@
 - Dario Sansone - [Machine Learning for Economists](https://sites.google.com/view/dariosansone/resources/machine-learning) (Resources)
 - Tyler Ransom - Data Science for Economists [2020](https://github.com/tyleransom/DScourseS20), [2021](https://github.com/tyleransom/DScourseS21) (R) / [Introduction to machine learning for social scientists](https://tyleransom.github.io/research/IntroMachineLearning.pdf)
 - Ed Rubin and Connor Lennon - [Prediction and machine-learning in econometrics](https://github.com/edrubin/EC524W20) (R)
-- Itamar Caspi - [A course in machine learning for economists](https://github.com/ml4econ) (R)
+- Itamar Caspi - [Machine Learning for Economists](https://github.com/ml4econ) (R)
 - Stephen Hansen - [machine_learning_economics](https://github.com/sekhansen/machine_learning_economics) / [text-mining-tutorial](https://github.com/sekhansen/text-mining-tutorial) (Python)
 - Jérémy L'Hour - [Machine Learning for Econometrics](https://github.com/jlhourENSAE/hdmetrics) (R)
 - Le Wang - [Machine Learning and Causal Inference](https://github.com/lewangecon/man2-2020) (R)
@@ -161,14 +161,18 @@
 - [Economics and Data Science](https://github.com/vkoul/Econ-Data-Science) (Resources)
 - Jonathan Hersh - [Introduction to Machine Learning](https://github.com/jonhersh/MGSC310) (R)
 - Melissa Dell - [Unleashing Novel Data at Scale](https://dell-research-harvard.github.io/overview/2021/01/23/about.html) (Python)
+- Susan Athey's [video on youtube](https://www.youtube.com/results?search_query=Susan+Athey+machine+learning)
 
 
 
 ## Machine Learning Lectures
 
-- Andreas C. Müller - [Applied Machine Learning Spring 2020](https://github.com/amueller/COMS4995-s20#applied-machine-learning-spring-2020) (python)
-- Tyler Folkman - [Applied Machine Learning](https://github.com/tfolkman/byu_econ_applied_machine_learning) (python)
+- Andreas C. Müller - [Applied Machine Learning Spring 2020](https://github.com/amueller/COMS4995-s20#applied-machine-learning-spring-2020) (Python)
+- Tyler Folkman - [Applied Machine Learning](https://github.com/tfolkman/byu_econ_applied_machine_learning) (Python)
 - Jeff Heaton - [Applications of Deep Neural Networks](https://github.com/jeffheaton/t81_558_deep_learning) (Python)
+- UCB - [Computational Social Science](https://github.com/dlab-berkeley/Computational-Social-Science-Training-Program) (Python)
+- Bloomberg - [Foundations of Machine Learning](https://bloomberg.github.io/foml/#lectures) 
+- Lefteris Jason Anastasopoulos - [Modern Text Analysis and Machine Learning for Social Research](https://github.com/ljanastas/UGA_POLS-8500-Machine-Learning-Text-Analysis) (R)
 
 
 
@@ -177,7 +181,8 @@
 - Chris Albon - [Data Science & Machine Learning](https://chrisalbon.com/)
 - [Practical tips for machine learning practitioners](https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf)
 - [Hands-On Machine Learning with R](https://bradleyboehmke.github.io/HOML/)
-- [Deep Learning Drizzle](https://github.com/kmario23/deep-learning-drizzle#hibiscus-natural-language-processing-cherry_blossom-sparkling_heart) (Links)
+- [Deep Learning Drizzle](https://github.com/kmario23/deep-learning-drizzle#hibiscus-natural-language-processing-cherry_blossom-sparkling_heart) / [Awesome Machine Learning and AI Courses](https://github.com/luspr/awesome-ml-courses) (Links)
+- [fast.ai](https://www.fast.ai/)
 
 
 
