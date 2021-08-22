@@ -30,6 +30,10 @@ Every time I want check what has happened in a file
 
 `git log -p my.file`
 
+Every time I want see the difference statistics either before and after commit
+
+`git diff --stat` / `git show --compact-summary`
+
 Every time I want to list all the commits (even ones that have been reseted or rebased)
 
 `git reflog `
