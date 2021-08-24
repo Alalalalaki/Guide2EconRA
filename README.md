@@ -124,7 +124,7 @@
 - Christoph Hanck, et al. - [Introduction to Econometrics with R](https://www.econometrics-with-r.org/index.html)
 - Ed Rubin - [PhD Econometrics (III) with R](https://github.com/edrubin/EC607S20) / [Masters-level applied econometrics with R](https://github.com/edrubin/EC524W20) / [Introduction to Econometrics with R](https://github.com/edrubin/EC421W20)
 - Tyler Ransom - [Econometric Analysis (U)](https://tyleransom.github.io/econometricslabs.html)
-- Hans H. Sievertsen - [Applied Economics with R](https://hhsievertsen.github.io/applied_econ_with_r/)
+- Hans H. Sievertsen - [Applied Economics with R](https://hhsievertsen.github.io/applied_econ_with_r/) / [Introduction to R](https://hhsievertsen.shinyapps.io/r_introduction/)
 - Matt Woerman - [Topics in Advanced Econometrics](https://github.com/woerman/ResEcon703) 
 - Sebastian Kranz - [Empirical Economics with R](https://github.com/skranz/empecon) / [Market Analysis with Econometrics and Machine Learning](https://github.com/skranz/MarketAnalysis)
 - Florian Oswald, et al. - [Introduction to Econometrics with R](https://scpoecon.github.io/ScPoEconometrics/) / [Advanced Econometrics](https://github.com/ScPoEcon/Advanced-Metrics-slides)
@@ -144,6 +144,7 @@
 - Andrew Heiss - [Program Evaluation for Public Service](https://evalf20.classes.andrewheiss.com/) / [Data Visualization](https://datavizm20.classes.andrewheiss.com/)
 - [R Data Science Tutorials](https://github.com/ujjwalkarn/DataScienceR) (resources)
 - [Telling Stories With Data](https://www.tellingstorieswithdata.com/)
+- Pere A. Taberner - [List of open source books about R](https://www.peretaberner.eu/list-of-open-source-books-about-r/)
 
 
 
@@ -206,10 +207,13 @@
 
 
 
-### Reduced Form Approaches
+### Applied Microeconometrics
 
-- [Literature on Recent Advances in Applied Micro Methods](https://christinecai.github.io/PublicGoods/applied_micro_methods.pdf)
-- [Diff-in-Diff-Notes](https://github.com/asjadnaqvi/Diff-in-Diff-Notes)
+- Paul Goldsmith-Pinkham - [Applied Empirical Methods](https://github.com/paulgp/applied-methods-phd)
+- Christine Cai - [Literature on Recent Advances in Applied Micro Methods](https://christinecai.github.io/PublicGoods/applied_micro_methods.pdf)
+- Asjad Naqvi - [Diff-in-Diff-Notes](https://github.com/asjadnaqvi/Diff-in-Diff-Notes)
+- [mostly-harmless-replication in Stata, R, Python and Julia](https://github.com/vikjam/mostly-harmless-replication)
+- Scott Cunningham - [causal-inference-class](https://github.com/scunning1975) / [Teaching Resources for Causal Inference: The Mixtape](https://github.com/scunning1975/mixtape_learnr)
 
  
 
@@ -269,6 +273,7 @@
 - [Tips + Tricks with Beamer for Economists](https://paulgp.github.io/beamer_tips.pdf) - Paul Goldsmith-Pinkham
 - [Template-based introductory guide to LaTeX for Economics](https://www.researchgate.net/publication/280050294_Template-based_introductory_guide_to_LaTeX_for_Economics_Instructional_Guide_Version_2)
 - [A LaTeX Template for Economics Papers](https://github.com/talgross-bu/Template-for-Overleaf)
+- [LaTeX Table Hints and Tips](https://statatexblog.com/wp-content/uploads/2013/09/tabletricks_latex.pdf)
 
 
 
@@ -321,18 +326,15 @@
 - Bryan S. Graham - [Econometrics](https://github.com/bryangraham) 
 - Alfred Galichon - [Advanced Topics in Microeconometrics](https://github.com/alfredgalichon/microeconometrics2018s)
 - Alfred Galichon - ['math+econ+code' series](http://alfredgalichon.com/coursesandtalks/)
-- SciencePo - [(UG) Econometrics](https://github.com/ScPoEcon/ScPoEconometrics)
 - Dietz Vollrath - [(UG) Growth](https://growthecon.com/StudyGuide/)
 - Ömer Özak - [Economic Growth and Comparative Development](https://econgrowth.github.io/) / [Macroeconomics II](https://macroeconomics.github.io/)
 - Jonathan Dingel - [International Macroeconomics and Trade](https://github.com/jdingel/econ35101) 
 - David Ubilava - [(UG) Agricultural Markets](https://davidubilava.com/agmarkets/) 
-- [mostly-harmless-replication in Stata, R, Python and Julia](https://github.com/vikjam/mostly-harmless-replication)
 - Ivan Rudik - [Environmental and Resource Economics](https://github.com/irudik/aem6510)
-- Scott Cunningham - [causal-inference-class](https://github.com/scunning1975) / [Teaching Resources for Causal Inference: The Mixtape](https://github.com/scunning1975/mixtape_learnr)
-- Paul Goldsmith-Pinkham - [Applied Empirical Methods](https://github.com/paulgp/applied-methods-phd)
 - José Luis Montiel Olea - [IntroEconometrics-Ph.D](https://github.com/jm4474/Courses-IntroEconometrics-Ph.D) / [TimeSeries-UG](https://github.com/jm4474/Courses-TimeSeries-Undergraduate)
 - Jonathan Conning - [Development Microeconomics](https://github.com/jhconning/Dev-II) / [(UG) International Trade](https://github.com/jhconning/Trade340)
 - Maximilian Kasy - [Labor Economics (UG)](https://maxkasy.github.io/home/teaching/)
+- Florian Oswald - graduate labor ([2018](https://floswald.github.io/ScPo-Labor/index.html))
 
 
 
@@ -348,4 +350,5 @@
 - AEA-CSWEP - [Mentoring Reading Materials](https://www.aeaweb.org/about-aea/committees/cswep/mentoring/reading) / [Professional Development Resources](https://www.aeaweb.org/about-aea/committees/cswep/programs/resources)
 - Mizuhito Suzuki - [Resources](https://github.com/mizuhirosuzuki/resources)
 - Christoph Kronenberg - [Resources](https://sites.google.com/view/christoph-kronenberg/home/resources)
+- Christine Cai - [Public Goods](https://christinecai.github.io/items/PublicGoods.html)
 
