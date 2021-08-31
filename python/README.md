@@ -58,6 +58,7 @@
 - [graphviz](https://graphviz.readthedocs.io/en/stable/manual.html)
 - [daft](https://github.com/daft-dev/daft)
 - [networkx](https://networkx.org/documentation/latest/)
+- [multiplex](https://nicholasmamo.github.io/multiplex-plot/index.html)
 
 ### Econ Data
 
@@ -104,11 +105,11 @@
 
 [Contributing to Pandas](https://pandas.pydata.org/docs/development/contributing.html) / [Contributing to NumPy](https://numpy.org/devdocs/dev/index.html)
 
-[CompEcon](https://github.com/randall-romero/CompEcon) (A Python version of Miranda and Fackler's CompEcon toolbox)
+[Hypermodern Python](https://cjolowicz.github.io/posts/) / [Hypermodern Python Cookiecutter](http://cookiecutter-hypermodern-python.readthedocs.io/) / [Create and Publish a Python Package with Poetry](https://johnfraney.ca/posts/2019/05/28/create-publish-python-package-poetry/) / [Python Packaging Notes](https://szj.io/tech/2020/07/12/python-packing-notes.html) / [Packaging Guide](https://github.com/OpenSourceEconomics/ose-packaging-guide#code-quality) / [Publish a package on PyPi using Poetry](https://www.brainsorting.dev/posts/publish-a-package-on-pypi-using-poetry/)
 
 [Three examples of nonlinear least-squares fitting in Python with SciPy](https://hernandis.me/2020/04/05/three-examples-of-nonlinear-least-squares-fitting-in-python-with-scipy.html)
 
-[Doing economics with python](https://janboone.github.io/python_economics/economics.html)
+
 
 ---
 

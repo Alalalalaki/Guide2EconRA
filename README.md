@@ -43,11 +43,9 @@
 
 - [QuantEcon - Python](https://python.quantecon.org/) (also [here](https://github.com/QuantEcon/summer_course_2019))
 - [QuantEcon DataScience](https://datascience.quantecon.org/)
-- Richard W. Evans -
-  - Perspectives on Computational Modeling for Economics [2020](https://github.com/UC-MACSS/persp-model-econ_w20) 
-  - Perspectives on Computational Research in Economics [2020](https://github.com/UC-MACSS/persp-research-econ_Spr20)
-  - Structural Estimation [2020](https://github.com/rickecon/StructEst_W20) 
-  - [Git and GitHub tutorial](https://github.com/nyupredocs/githubtutorial)
+- Richard W. Evans - Perspectives on Computational Modeling for Economics [2020](https://github.com/UC-MACSS/persp-model-econ_w20) 
+- Richard W. Evans - Perspectives on Computational Research in Economics [2020](https://github.com/UC-MACSS/persp-research-econ_Spr20)
+- Richard W. Evans - Structural Estimation [2020](https://github.com/rickecon/StructEst_W20) 
 - Jason DeBacker - Computational Methods for Economists [2017](https://github.com/jdebacker/CompEcon_Fall17), [2019](https://github.com/jdebacker/CompEcon_Fall19), [2021](https://github.com/jdebacker/CompEcon_Fall21)
 - Fedor Iskhakov - [Dynamic programming and structural estimation](https://github.com/CompEconCourse/CourseMaterials)
 - Fedor Iskhakov - [Foundations of Computational Economics](https://github.com/fediskhakov/CompEcon)
@@ -56,8 +54,10 @@
 - [NYU-Data-Bootcamp](https://nyu.data-bootcamp.com/)
 - Matheus Facure - [Python Causality Handbook](https://github.com/matheusfacure/python-causality-handbook)
 - OpenSourceEconomics - [Scientific Computing](https://github.com/OpenSourceEconomics/ose-course-scientific-computing)
-- OpenSourceEconomics -  [Microeconometrics](https://github.com/OpenSourceEconomics/ose-course-data-science) 
-- Arthur Turrell - [Coding for Economists](https://aeturrell.github.io/coding-for-economists/index.html)
+- OpenSourceEconomics - [Data Science (Microeconometrics)](https://github.com/OpenSourceEconomics/ose-course-data-science) 
+- [CompEcon: A Python version of Miranda and Fackler's CompEcon toolbox](https://github.com/randall-romero/CompEcon)
+- Jan Boone - [Doing economics with python](https://janboone.github.io/python_economics/economics.html)
+- Arthur Turrell - [Coding for Economists](https://aeturrell.github.io/coding-for-economists/index.html) / [Econometrics (with Machine Learning) in Python](http://aeturrell.com/blog/)
 
 
 
@@ -73,16 +73,12 @@
 - [Python computational labs](https://acme.byu.edu/2019-2020-materials/)
 - [Real Python Tutorials](https://realpython.com/tutorials/all/)
 - [Scipy Lecture Notes](https://scipy-lectures.org/)
-- [Econometrics in Python](http://aeturrell.com/blog/)
-- Claudio Jolowicz - [Hypermodern Python](https://cjolowicz.github.io/posts/) / [Hypermodern Python Cookiecutter](http://cookiecutter-hypermodern-python.readthedocs.io/)
-- Nicolas P. Rougier - [From Python to Numpy](https://www.labri.fr/perso/nrougier/from-python-to-numpy/)
+- Nicolas P. Rougier - [From Python to Numpy](https://www.labri.fr/perso/nrougier/from-python-to-numpy/) 
 - Nicolas P. Rougier - [Scientific Visualization – Python & Matplotlib](https://github.com/rougier/scientific-visualization-book) / [Matplotlib cheat sheet](https://github.com/rougier/matplotlib-cheatsheet)
 - [Introduction to Mathematical Computing with Python and Jupyter](https://github.com/patrickwalls/mathematical-python)
 - [Introduction to Data Science and Programming](https://github.com/mszell/introdatasci)
 - [Bayesian Computing Course](https://github.com/fonnesbeck/Bayes_Computing_Course)
-- Arthur Turrell - [Coding for Economists](https://aeturrell.github.io/coding-for-economists/intro.html)
 - Cliburn - [Computational Statistics and Statistical Computing](https://github.com/cliburn/sta-663-2021)
-- [A Python version of Miranda and Fackler's CompEcon toolbox](https://github.com/randall-romero/CompEcon)
 
 
 
@@ -174,6 +170,7 @@
 - UCB - [Computational Social Science](https://github.com/dlab-berkeley/Computational-Social-Science-Training-Program) (Python)
 - Bloomberg - [Foundations of Machine Learning](https://bloomberg.github.io/foml/#lectures) 
 - Lefteris Jason Anastasopoulos - [Modern Text Analysis and Machine Learning for Social Research](https://github.com/ljanastas/UGA_POLS-8500-Machine-Learning-Text-Analysis) (R)
+- fast.ai: [Deep Learning / Practical Data Ethics / Computational Linear Algebra / NLP](https://www.fast.ai/) 
 
 
 
@@ -183,7 +180,6 @@
 - [Practical tips for machine learning practitioners](https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf)
 - [Hands-On Machine Learning with R](https://bradleyboehmke.github.io/HOML/)
 - [Deep Learning Drizzle](https://github.com/kmario23/deep-learning-drizzle#hibiscus-natural-language-processing-cherry_blossom-sparkling_heart) / [Awesome Machine Learning and AI Courses](https://github.com/luspr/awesome-ml-courses) (Links)
-- [fast.ai](https://www.fast.ai/)
 
 
 
@@ -335,6 +331,7 @@
 - Jonathan Conning - [Development Microeconomics](https://github.com/jhconning/Dev-II) / [(UG) International Trade](https://github.com/jhconning/Trade340)
 - Maximilian Kasy - [Labor Economics (UG)](https://maxkasy.github.io/home/teaching/)
 - Florian Oswald - graduate labor ([2018](https://floswald.github.io/ScPo-Labor/index.html))
+- Thibaut Lamadon - [Micro-econometric methods (UG)](http://econ21130.lamadon.com/) / [Big data tools for economics (UG)](http://econ21340.lamadon.com/) / [Topics in Labor (PhD)](http://econ34430.lamadon.com/)
 
 
 
@@ -351,4 +348,5 @@
 - Mizuhito Suzuki - [Resources](https://github.com/mizuhirosuzuki/resources)
 - Christoph Kronenberg - [Resources](https://sites.google.com/view/christoph-kronenberg/home/resources)
 - Christine Cai - [Public Goods](https://christinecai.github.io/items/PublicGoods.html)
+- Brendan Price - [Resources](https://www.brendanmichaelprice.com/resources/)
 

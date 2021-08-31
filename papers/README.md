@@ -9,3 +9,5 @@
 - Chernozhukov, V., Chetverikov, D., Demirer, M., Duflo, E., Hansen, C., Newey, W., & Robins, J. (2018). [Double/debiased machine learning for treatment and structural parameters](https://github.com/DoubleML). The Econometrics Journal, 21(1). (also [here](https://github.com/MCKnaus/dmlmt))
 - Fernández-Villaverde, Hurtado, and Nuño (2019): ["Financial Frictions and the Wealth Distribution".](https://github.com/jesusfv/financial-frictions)
 - Iskhakov, F., Jørgensen, T. H., Rust, J., & Schjerning, B. (2017). [The endogenous grid method for discrete‐continuous dynamic choice models with (or without) taste shocks](https://github.com/fediskhakov/dcegm). Quantitative Economics, 8(2), 317-365. ([julia](https://github.com/floswald/DCEGM.jl))
+- Stéphane Bonhomme, Kerstin Holzheu, Thibaut Lamadon, Elena Manresa, Magne Mogstad, and Bradley Setzler. "[How Much Should we Trust Estimates of Firm Effects and Worker Sorting?](https://github.com/tlamadon/pytwoway)" National Bureau of Economic Research, 2020.
+
