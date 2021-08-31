@@ -150,7 +150,8 @@
 - Andrew Heiss - [Program Evaluation for Public Service](https://evalf20.classes.andrewheiss.com/) / [Data Visualization](https://datavizm20.classes.andrewheiss.com/)
 - [R Data Science Tutorials](https://github.com/ujjwalkarn/DataScienceR) (resources)
 - [Telling Stories With Data](https://www.tellingstorieswithdata.com/)
-- Pere A. Taberner - [List of open source books about R](https://www.peretaberner.eu/list-of-open-source-books-about-r/)
+- Pere A. Taberner - [List of open source books about R](https://www.peretaberner.eu/list-of-open-source-books-about-r/) (resources)
+- Kyle Walker - Analyzing US Census Data: Methods, Maps, and Models in R
 
 
 
