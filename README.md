@@ -31,11 +31,21 @@
 
 
 
-## Tips for Comp Econ Work
+## Tips for Structural Comp Econ Work
 
 - Michael Keane - [Practical Issues in Structural Estimation](https://www.youtube.com/watch?v=0hazaPBAYWE)
 - Chris Taber -  [Estimation of Policy Counterfactuals](https://hceconomics.uchicago.edu/sites/default/files/file_uploads/policy16.pdf) / [Structural Estimation](https://www.ssc.wisc.edu/~ctaber/718/struct.pdf) 
 - Tony Smith - [Tips for Doing Computational Work in Economics](http://www.econ.yale.edu/smith/econ561a/compute6.pdf)
+
+
+
+## Applied Microeconometrics
+
+- Paul Goldsmith-Pinkham - [Applied Empirical Methods](https://github.com/paulgp/applied-methods-phd)
+- Scott Cunningham - [causal-inference-class](https://github.com/scunning1975) / [Teaching Resources for Causal Inference: The Mixtape](https://github.com/scunning1975/mixtape_learnr)
+- Christine Cai - [Literature on Recent Advances in Applied Micro Methods](https://christinecai.github.io/PublicGoods/applied_micro_methods.pdf)
+- Asjad Naqvi - [Diff-in-Diff-Notes](https://github.com/asjadnaqvi/Diff-in-Diff-Notes)
+- [mostly-harmless-replication in Stata, R, Python and Julia](https://github.com/vikjam/mostly-harmless-replication)
 
 
 
@@ -170,6 +180,8 @@
 - UCB - [Computational Social Science](https://github.com/dlab-berkeley/Computational-Social-Science-Training-Program) (Python)
 - Bloomberg - [Foundations of Machine Learning](https://bloomberg.github.io/foml/#lectures) 
 - Lefteris Jason Anastasopoulos - [Modern Text Analysis and Machine Learning for Social Research](https://github.com/ljanastas/UGA_POLS-8500-Machine-Learning-Text-Analysis) (R)
+- [Oxford Deep NLP 2017 course](https://github.com/oxford-cs-deepnlp-2017/lectures)
+- [NYU Text as Data Lab](https://github.com/leslie-huang/TextasDataLabSpring2020) (R)
 - fast.ai: [Deep Learning / Practical Data Ethics / Computational Linear Algebra / NLP](https://www.fast.ai/) 
 
 
@@ -180,13 +192,6 @@
 - [Practical tips for machine learning practitioners](https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf)
 - [Hands-On Machine Learning with R](https://bradleyboehmke.github.io/HOML/)
 - [Deep Learning Drizzle](https://github.com/kmario23/deep-learning-drizzle#hibiscus-natural-language-processing-cherry_blossom-sparkling_heart) / [Awesome Machine Learning and AI Courses](https://github.com/luspr/awesome-ml-courses) (Links)
-
-
-
-## NLP
-
-- [Oxford Deep NLP 2017 course](https://github.com/oxford-cs-deepnlp-2017/lectures)
-- [NYU Text as Data Lab](https://github.com/leslie-huang/TextasDataLabSpring2020) (R)
 
 
 
@@ -202,16 +207,6 @@
 - [The Stata Guide on Medium](https://medium.com/the-stata-guide) / [Stata-schemes](https://github.com/asjadnaqvi/Stata-schemes) - Asjad Naqvi
 
 
-
-### Applied Microeconometrics
-
-- Paul Goldsmith-Pinkham - [Applied Empirical Methods](https://github.com/paulgp/applied-methods-phd)
-- Christine Cai - [Literature on Recent Advances in Applied Micro Methods](https://christinecai.github.io/PublicGoods/applied_micro_methods.pdf)
-- Asjad Naqvi - [Diff-in-Diff-Notes](https://github.com/asjadnaqvi/Diff-in-Diff-Notes)
-- [mostly-harmless-replication in Stata, R, Python and Julia](https://github.com/vikjam/mostly-harmless-replication)
-- Scott Cunningham - [causal-inference-class](https://github.com/scunning1975) / [Teaching Resources for Causal Inference: The Mixtape](https://github.com/scunning1975/mixtape_learnr)
-
- 
 
 ---
 
