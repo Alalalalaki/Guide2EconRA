@@ -89,6 +89,7 @@
 - [Introduction to Data Science and Programming](https://github.com/mszell/introdatasci)
 - [Bayesian Computing Course](https://github.com/fonnesbeck/Bayes_Computing_Course)
 - Cliburn - [Computational Statistics and Statistical Computing](https://github.com/cliburn/sta-663-2021)
+- Melanie Walsh - [Introduction to Cultural Analytics & Python](https://github.com/melaniewalsh/Intro-Cultural-Analytics)
 
 
 
@@ -122,7 +123,7 @@
 ## R - Econ Lectures
 
 - Maximilian Kasy - Advanced Econometrics and Machine Learning: [2019](https://maxkasy.github.io/home/TopicsInEconometrics2019/), [2020](https://maxkasy.github.io/home/ML_Oxford_2020/), [2021](https://maxkasy.github.io/home/ML_Oxford_2021/) / collection of [useful computation links on R and ML](https://maxkasy.github.io/home/computationlinks/)
-- Nick Huntington-Klein - [Economics, Causality, and Analytics](https://github.com/NickCH-K/introcausality) / [R resources](http://nickchk.com/econometrics.html) / [Causal Inference](https://github.com/NickCH-K/CausalitySlides)
+- Nick Huntington-Klein - [Economics, Causality, and Analytics](https://github.com/NickCH-K/introcausality) / [R resources](http://nickchk.com/econometrics.html) / [Causal Inference](https://github.com/NickCH-K/CausalitySlides) / [DataCommSlides](https://nickch-k.github.io/DataCommSlides/)
 - Nick Huntington-Klein et al. - [Library of Statistical Techniques](https://lost-stats.github.io/)
 - Francis J. DiTraglia - [Statistical Learning and Causal Inference for Economics](https://github.com/fditraglia/econ224)
 - Tom O'Grady - [Causal-Inference-for-Beginning-Undergraduates](https://github.com/tomogradyucl/Causal-Inference-for-Beginning-Undergraduates)
@@ -266,6 +267,7 @@
 - [Template-based introductory guide to LaTeX for Economics](https://www.researchgate.net/publication/280050294_Template-based_introductory_guide_to_LaTeX_for_Economics_Instructional_Guide_Version_2)
 - [A LaTeX Template for Economics Papers](https://github.com/talgross-bu/Template-for-Overleaf)
 - [LaTeX Table Hints and Tips](https://statatexblog.com/wp-content/uploads/2013/09/tabletricks_latex.pdf)
+- [Modern LaTeX](https://github.com/mrkline/modern-latex)
 
 
 
