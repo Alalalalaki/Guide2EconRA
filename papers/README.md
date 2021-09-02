@@ -10,4 +10,5 @@
 - Fernández-Villaverde, Hurtado, and Nuño (2019): ["Financial Frictions and the Wealth Distribution".](https://github.com/jesusfv/financial-frictions)
 - Iskhakov, F., Jørgensen, T. H., Rust, J., & Schjerning, B. (2017). [The endogenous grid method for discrete‐continuous dynamic choice models with (or without) taste shocks](https://github.com/fediskhakov/dcegm). Quantitative Economics, 8(2), 317-365. ([julia](https://github.com/floswald/DCEGM.jl))
 - Stéphane Bonhomme, Kerstin Holzheu, Thibaut Lamadon, Elena Manresa, Magne Mogstad, and Bradley Setzler. "[How Much Should we Trust Estimates of Firm Effects and Worker Sorting?](https://github.com/tlamadon/pytwoway)" National Bureau of Economic Research, 2020.
+- Kline, P., Saggio, R., & Sølvsten, M. (2020). [Leave‐out estimation of variance components](https://github.com/HighDimensionalEconLab/VarianceComponentsHDFE.jl). Econometrica, 88(5), 1859-1898.
 

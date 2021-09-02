@@ -105,6 +105,7 @@
 - Florian Oswald - [Computational Economics for PhDs](https://scpo-compecon.github.io/CoursePack/) ([2021](https://github.com/floswald/NumericalMethods))
 - [Tutorials on Topics in Julia Programming](https://github.com/johnmyleswhite/julia_tutorials)
 - Lutz Hendricks - [Julia for Economists](https://lhendricks.org/econ890/julia/outline.html) / [Notes on the Julia Programming Language](https://lhendricks.org/julia/julia_notes.pdf)
+- Jamie Cross - [Introduction to Bayesian Econometrics](https://github.com/Jamie-L-Cross/Bayes)
 
 
 
