@@ -10,6 +10,13 @@
 - [DifferentialEquations.jl](https://github.com/SciML/DifferentialEquations.jl)
 - [Polynomials.jl](https://github.com/JuliaMath/Polynomials.jl)
 
+### Computation
+
+- [Interpolations.jl](https://github.com/JuliaMath/Interpolations.jl)
+- [Optim.jl](https://github.com/JuliaNLSolvers/Optim.jl)
+- [BlackBoxOptim.jl](https://github.com/robertfeldt/BlackBoxOptim.jl)
+- [Alpine.jl](https://github.com/lanl-ansi/Alpine.jl)
+
 ### Model
 
 - [Parameters.jl](https://github.com/mauro3/Parameters.jl) / [Hyperopt.jl](https://github.com/baggepinnen/Hyperopt.jl)
