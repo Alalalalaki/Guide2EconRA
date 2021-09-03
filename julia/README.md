@@ -13,6 +13,7 @@
 ### Computation
 
 - [Interpolations.jl](https://github.com/JuliaMath/Interpolations.jl)
+- [JuMP.jl](https://github.com/jump-dev/JuMP.jl)
 - [Optim.jl](https://github.com/JuliaNLSolvers/Optim.jl)
 - [BlackBoxOptim.jl](https://github.com/robertfeldt/BlackBoxOptim.jl)
 - [Alpine.jl](https://github.com/lanl-ansi/Alpine.jl)
