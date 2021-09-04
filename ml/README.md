@@ -1,5 +1,7 @@
 
 
+---
+
 ### Textbook - Theory
 
 - Christoph Molnar - [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
@@ -24,12 +26,19 @@
 - [Oxford Deep NLP 2017 course](https://github.com/oxford-cs-deepnlp-2017/lectures)
 - [NYU Text as Data Lab](https://github.com/leslie-huang/TextasDataLabSpring2020) (R)
 
+### Interpretability Tutorials
+
+- [Responsible Machine Learning with Python](https://github.com/jphall663/interpretable_machine_learning_with_python)
+- [H2O.ai Machine Learning Interpretability Resources](https://github.com/h2oai/mli-resources)
+- [Case studies for eXplainable Artificial Intelligence](https://github.com/pbiecek/xai_stories)
+
 ### Links
 
 - [applied-ml](https://github.com/eugeneyan/applied-ml)
 - [Deep Learning Drizzle](https://github.com/kmario23/deep-learning-drizzle#hibiscus-natural-language-processing-cherry_blossom-sparkling_heart) 
 - [Awesome Machine Learning and AI Courses](https://github.com/luspr/awesome-ml-courses)
 - [ML YouTube Courses](https://github.com/dair-ai/ML-YouTube-Courses)
+- [awesome-machine-learning-interpretability](https://github.com/jphall663/awesome-machine-learning-interpretability)
 
 ### Math
 
