@@ -4,14 +4,17 @@
 
 ### Textbook - Theory
 
+- Hal Daumé III - [A Course in Machine Learning](http://ciml.info/)
+- Trevor Hastie, Robert Tibshirani, Jerome Friedman - [The Elements of Statistical Learning: Data Mining, Inference, and Prediction](https://web.stanford.edu/~hastie/ElemStatLearn/)
+
 - Christoph Molnar - [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
 - Ian Goodfellow, Yoshua Bengio, Aaron Courville - [Deep Learning](https://www.deeplearningbook.org/front_matter.pdf)
 - Moritz Hardt, Benjamin Recht - [Patterns, Predictions, and Actions](https://mlstory.org/)
 - Bradley Efron, Trevor Hastie - [Computer Age Statistical Inference: Algorithms, Evidence and Data Science](https://web.stanford.edu/~hastie/CASI/index.html)
 
-
 ### Textbook - Python
 
+- Andreas Mueller & Sarah Guido - [Introduction to Machine Learning with Python](https://github.com/amueller/introduction_to_ml_with_python)
 - François Chollet - [Deep Learning with Python](https://github.com/fchollet/deep-learning-with-python-notebooks)
 - D2L.ai - [Interactive Deep Learning Book with Multi-Framework Code, Math, and Discussions](https://github.com/d2l-ai/d2l-en)
 - Aurélien Geron - [Hands-on Machine Learning with Scikit-Learn, Keras and TensorFlow](https://github.com/ageron/handson-ml2)
