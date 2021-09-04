@@ -11,6 +11,10 @@
 
 ## Packages
 
+### Ploting
+
+- [ggdag](https://github.com/malcolmbarrett/ggdag)
+
 ### Economics
 
 - [econocharts](https://github.com/R-CoderDotCom/econocharts/)
