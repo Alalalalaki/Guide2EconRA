@@ -22,12 +22,14 @@
 ### Textbook - R
 
 - Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani - [An Introduction to Statistical Learning with Applications in R](https://www.statlearning.com/) 
+- 
 
 ### NLP / Text Tutorials
 
 - Lefteris Jason Anastasopoulos - [Modern Text Analysis and Machine Learning for Social Research](https://github.com/ljanastas/UGA_POLS-8500-Machine-Learning-Text-Analysis) (R)
 - [Oxford Deep NLP 2017 course](https://github.com/oxford-cs-deepnlp-2017/lectures)
 - [NYU Text as Data Lab](https://github.com/leslie-huang/TextasDataLabSpring2020) (R)
+- Gensim Topic modelling for humans - [Tutorials](https://radimrehurek.com/gensim/auto_examples/index.html) (Python)
 
 ### Interpretability Tutorials
 

@@ -43,6 +43,7 @@
 
 - Paul Goldsmith-Pinkham - [Applied Empirical Methods](https://github.com/paulgp/applied-methods-phd)
 - Scott Cunningham - [causal-inference-class](https://github.com/scunning1975) / [Teaching Resources for Causal Inference: The Mixtape](https://github.com/scunning1975/mixtape_learnr)
+- Nick Huntington-Klein - [The Effect: An Introduction to Research Design and Causality](https://theeffectbook.net/index.html) 
 - Christine Cai - [Literature on Recent Advances in Applied Micro Methods](https://christinecai.github.io/PublicGoods/applied_micro_methods.pdf)
 - Asjad Naqvi - [Diff-in-Diff-Notes](https://github.com/asjadnaqvi/Diff-in-Diff-Notes)
 - [mostly-harmless-replication in Stata, R, Python and Julia](https://github.com/vikjam/mostly-harmless-replication)
@@ -259,6 +260,7 @@
 - [A LaTeX Template for Economics Papers](https://github.com/talgross-bu/Template-for-Overleaf)
 - [LaTeX Table Hints and Tips](https://statatexblog.com/wp-content/uploads/2013/09/tabletricks_latex.pdf)
 - [Modern LaTeX](https://github.com/mrkline/modern-latex)
+- [Latex templates](https://github.com/kylebutts/templates)
 
 
 
@@ -284,6 +286,7 @@
 - [from Data to Viz](https://www.data-to-viz.com/) - [The Python Graph Gallery](https://python-graph-gallery.com/) / [The R Graph Gallery](https://www.r-graph-gallery.com/)
 - Kieran Healy - [Data Visualization - A practical introduction](https://socviz.co/index.html)
 - [ggplot2: Elegant Graphics for Data Analysis](https://ggplot2-book.org/)
+- Claus O. Wilke - [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/) 
 
 
 
@@ -299,6 +302,7 @@
 - Hernán MA, Robins JM (2020). [Causal Inference: What If. (with computer code of stat, R, python)](https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/)
 - [The Programming Historian](https://programminghistorian.org/en/lessons/) (lessons on digital tools, methods, and research processes)
 - [GDSGE: A Toolbox for Solving DSGE Models with Global Methods](https://www.gdsge.com/index.html) (matlab)
+- [Statistical Rethinking: A Bayesian Course with Examples in R and Stan (& PyMC3 & brms & Julia)](https://xcelab.net/rm/statistical-rethinking/)
 
 
 
