@@ -45,6 +45,7 @@
 
 ### Plot
 
+- [StatsPlots.jl](https://github.com/JuliaPlots/StatsPlots.jl)
 - [Binscatters.jl](https://github.com/matthieugomez/Binscatters.jl) 
 - [PlotThemes.jl](https://github.com/JuliaPlots/PlotThemes.jl)
 

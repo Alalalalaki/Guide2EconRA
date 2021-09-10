@@ -119,6 +119,7 @@
 - [Algorithms for Decision Making](https://algorithmsbook.com/)
 - [From zero to Julia!](https://techytok.com/from-zero-to-julia/)
 - [Introduction to Scientific Computing](https://github.com/tpoisot/ScientificComputingForTheRestOfUs)
+- [Julia language: a concise tutorial](https://syl1.gitbook.io/julia-language-a-concise-tutorial/)
 
 
 
