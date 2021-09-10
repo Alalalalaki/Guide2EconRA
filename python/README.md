@@ -39,6 +39,12 @@
 - [lifelines](https://github.com/CamDavidsonPilon/lifelines)
 - [netrics](https://github.com/bryangraham/netrics)
 
+### Probabilistic Programming (Bayesian)
+
+- [numpyro](https://github.com/pyro-ppl/numpyro)
+- [pymc3](https://github.com/pymc-devs/pymc3)
+- [ArviZ](https://github.com/arviz-devs/arviz)
+
 ### Fast Computation
 
 - [numba](https://numba.pydata.org/)
