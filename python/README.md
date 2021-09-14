@@ -115,7 +115,9 @@
 
 [Three examples of nonlinear least-squares fitting in Python with SciPy](https://hernandis.me/2020/04/05/three-examples-of-nonlinear-least-squares-fitting-in-python-with-scipy.html)
 
+[Network Analysis Made Simple](https://github.com/ericmjl/Network-Analysis-Made-Simple)
 
+[How to wean yourself off Stata and into Python](https://github.com/corybaird/Econometrics) / [Notes and python code for numerical optimization](https://github.com/corybaird/Numerical_Optimization) / [Intro to DSGE models using Python and Dynare](https://github.com/corybaird/DSGE_models)
 
 ---
 

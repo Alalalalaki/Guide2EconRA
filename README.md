@@ -69,6 +69,7 @@
 - [CompEcon: A Python version of Miranda and Fackler's CompEcon toolbox](https://github.com/randall-romero/CompEcon)
 - Jan Boone - [Doing economics with python](https://janboone.github.io/python_economics/economics.html)
 - Arthur Turrell - [Coding for Economists](https://aeturrell.github.io/coding-for-economists/index.html) / [Econometrics (with Machine Learning) in Python](http://aeturrell.com/blog/)
+- Alfred Galichon - ['math+econ+code' masterclasses](http://alfredgalichon.com/coursesandtalks/)
 
 
 
@@ -315,7 +316,6 @@
 - Joao B. Duarte - [Advanced Macro](https://github.com/jbduarte/Advanced_Macro)
 - Bryan S. Graham - [Econometrics](https://github.com/bryangraham) 
 - Alfred Galichon - [Advanced Topics in Microeconometrics](https://github.com/alfredgalichon/microeconometrics2018s)
-- Alfred Galichon - ['math+econ+code' series](http://alfredgalichon.com/coursesandtalks/)
 - Dietz Vollrath - [(UG) Growth](https://growthecon.com/StudyGuide/)
 - Ömer Özak - [Economic Growth and Comparative Development](https://econgrowth.github.io/) / [Macroeconomics II](https://macroeconomics.github.io/)
 - Jonathan Dingel - [International Macroeconomics and Trade](https://github.com/jdingel/econ35101) 
