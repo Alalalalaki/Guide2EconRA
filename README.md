@@ -92,6 +92,7 @@
 - [Bayesian Computing Course](https://github.com/fonnesbeck/Bayes_Computing_Course)
 - Cliburn - [Computational Statistics and Statistical Computing](https://github.com/cliburn/sta-663-2021)
 - Melanie Walsh - [Introduction to Cultural Analytics & Python](https://github.com/melaniewalsh/Intro-Cultural-Analytics)
+- [The Hitchhiker's Guide to Data Science for Social Good](https://github.com/dssg/hitchhikers-guide)
 
 
 
@@ -156,7 +157,8 @@
 - [R Data Science Tutorials](https://github.com/ujjwalkarn/DataScienceR) (resources)
 - [Telling Stories With Data](https://www.tellingstorieswithdata.com/)
 - Pere A. Taberner - [List of open source books about R](https://www.peretaberner.eu/list-of-open-source-books-about-r/) (resources)
-- Kyle Walker - Analyzing US Census Data: Methods, Maps, and Models in R
+- Kyle Walker - [Analyzing US Census Data: Methods, Maps, and Models in R](https://walker-data.com/census-r/)
+- [Summer Institutes in Computational Social Science](https://github.com/compsocialscience/summer-institute)
 
 
 
@@ -201,6 +203,7 @@
 - [Pandas comparison with Stata](https://pandas.pydata.org/docs/getting_started/comparison/comparison_with_stata.html)
 - [Stata Coding Guide](https://reifjulian.github.io/guide/) - Julian Reif
 - [The Stata Guide on Medium](https://medium.com/the-stata-guide) / [Stata-schemes](https://github.com/asjadnaqvi/Stata-schemes) - Asjad Naqvi
+- Germán Rodríguez - [Stata + R + GLMs + Multilevel + Survival + Demography](https://data.princeton.edu/)
 
 
 
