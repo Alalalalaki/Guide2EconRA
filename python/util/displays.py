@@ -3,7 +3,12 @@ This code is used to display two or more pandas dataframes simulatenously.
 ref:
 https://stackoverflow.com/questions/38783027/jupyter-notebook-display-two-pandas-tables-side-by-side
 https://jakevdp.github.io/PythonDataScienceHandbook/03.06-concat-and-append.html
+
+Update: a more easier way is to use `df.compare()`
+Update: need to modify the function names and documents
 """
+
+import pandas as pd
 
 
 class display_dfs_all:
