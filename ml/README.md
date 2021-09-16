@@ -22,7 +22,6 @@
 ### Textbook - R
 
 - Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani - [An Introduction to Statistical Learning with Applications in R](https://www.statlearning.com/) 
-- 
 
 ### NLP / Text Tutorials
 
@@ -53,4 +52,8 @@
 ### Random Tips
 
 - [Practical tips for machine learning practitioners](https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf)
+
+### Other Fields
+
+- [Physics-based Deep Learning](https://github.com/tum-pbs/pbdl-book)
 
