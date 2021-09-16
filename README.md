@@ -39,7 +39,7 @@
 
 
 
-## Applied Microeconometrics
+## Applied Microeconometrics & Casual Inference
 
 - Paul Goldsmith-Pinkham - [Applied Empirical Methods](https://github.com/paulgp/applied-methods-phd)
 - Scott Cunningham - [causal-inference-class](https://github.com/scunning1975) / [Teaching Resources for Causal Inference: The Mixtape](https://github.com/scunning1975/mixtape_learnr)
@@ -47,6 +47,7 @@
 - Christine Cai - [Literature on Recent Advances in Applied Micro Methods](https://christinecai.github.io/PublicGoods/applied_micro_methods.pdf)
 - Asjad Naqvi - [Diff-in-Diff-Notes](https://github.com/asjadnaqvi/Diff-in-Diff-Notes)
 - [mostly-harmless-replication in Stata, R, Python and Julia](https://github.com/vikjam/mostly-harmless-replication)
+- Hernán MA, Robins JM (2020). [Causal Inference: What If.](https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/)
 
 
 
@@ -207,6 +208,13 @@
 
 
 
+### Bayesian Statistics
+
+- Richard McElreath - [Statistical Rethinking: A Bayesian Course with Examples in R and Stan (& PyMC3 & brms & Julia)](https://xcelab.net/rm/statistical-rethinking/)
+- Aki Vehtari - [Bayesian Data Analysis course](https://avehtari.github.io/BDA_course_Aalto/index.html) (R)
+
+
+
 ---
 
 ## Basic CS Lectures
@@ -304,10 +312,8 @@
 - [MATLAB–Python–Julia cheatsheet](https://cheatsheets.quantecon.org/index.html)
 - [Merely Useful](https://github.com/merely-useful/merely-useful.github.io) (python and r lecture)
 - [Computing in Optimization and Statistics 2017](https://philchodrow.github.io/cos_2017/)
-- Hernán MA, Robins JM (2020). [Causal Inference: What If. (with computer code of stat, R, python)](https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/)
 - [The Programming Historian](https://programminghistorian.org/en/lessons/) (lessons on digital tools, methods, and research processes)
 - [GDSGE: A Toolbox for Solving DSGE Models with Global Methods](https://www.gdsge.com/index.html) (matlab)
-- [Statistical Rethinking: A Bayesian Course with Examples in R and Stan (& PyMC3 & brms & Julia)](https://xcelab.net/rm/statistical-rethinking/)
 
 
 
