@@ -29,6 +29,7 @@
 - [Oxford Deep NLP 2017 course](https://github.com/oxford-cs-deepnlp-2017/lectures)
 - [NYU Text as Data Lab](https://github.com/leslie-huang/TextasDataLabSpring2020) (R)
 - Gensim Topic modelling for humans - [Tutorials](https://radimrehurek.com/gensim/auto_examples/index.html) (Python)
+- [Supervised Machine Learning for Text Analysis in R](https://smltar.com/)
 
 ### Interpretability Tutorials
 

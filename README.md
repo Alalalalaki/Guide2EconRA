@@ -274,6 +274,7 @@
 - [LaTeX Table Hints and Tips](https://statatexblog.com/wp-content/uploads/2013/09/tabletricks_latex.pdf)
 - [Modern LaTeX](https://github.com/mrkline/modern-latex)
 - [Latex templates](https://github.com/kylebutts/templates)
+- [LaTeX Usage Notes](https://www.read.seas.harvard.edu/~kohler/latex.html)
 
 
 
@@ -314,6 +315,8 @@
 - [Computing in Optimization and Statistics 2017](https://philchodrow.github.io/cos_2017/)
 - [The Programming Historian](https://programminghistorian.org/en/lessons/) (lessons on digital tools, methods, and research processes)
 - [GDSGE: A Toolbox for Solving DSGE Models with Global Methods](https://www.gdsge.com/index.html) (matlab)
+- [Course and program information for Agent-Based Computational Economics (ACE), Agent-Based Modeling (ABM), and related topics](http://www2.econ.iastate.edu/tesfatsi/teachsyl.htm)
+- [Economics Simulations](https://professoramanda.github.io/econsimulations/) (an interactive educational application developed to simulate and visualize various statistical concepts)
 
 
 

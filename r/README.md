@@ -48,6 +48,8 @@
 
 [ggplot Wizardry: My Favorite Tricks and Secrets for Beautiful Plots in R](https://github.com/Z3tt/OutlierConf2021/)
 
+[Ways to close backdoors in DAGs](https://www.andrewheiss.com/blog/2020/02/25/closing-backdoors-dags/)
+
 ---
 
 ## Non-Econ Stuffs
