@@ -48,6 +48,7 @@
 - Asjad Naqvi - [Diff-in-Diff-Notes](https://github.com/asjadnaqvi/Diff-in-Diff-Notes)
 - [mostly-harmless-replication in Stata, R, Python and Julia](https://github.com/vikjam/mostly-harmless-replication)
 - Hernán MA, Robins JM (2020). [Causal Inference: What If.](https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/)
+- Brady Neal - [Introduction to Causal Inference from a Machine Learning Perspective](https://www.bradyneal.com/causal-inference-course)
 
 
 

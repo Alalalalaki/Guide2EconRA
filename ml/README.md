@@ -6,7 +6,6 @@
 
 - Hal Daumé III - [A Course in Machine Learning](http://ciml.info/)
 - Trevor Hastie, Robert Tibshirani, Jerome Friedman - [The Elements of Statistical Learning: Data Mining, Inference, and Prediction](https://web.stanford.edu/~hastie/ElemStatLearn/)
-
 - Christoph Molnar - [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
 - Ian Goodfellow, Yoshua Bengio, Aaron Courville - [Deep Learning](https://www.deeplearningbook.org/front_matter.pdf)
 - Moritz Hardt, Benjamin Recht - [Patterns, Predictions, and Actions](https://mlstory.org/)
