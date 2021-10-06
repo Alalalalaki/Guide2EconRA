@@ -1,5 +1,5 @@
 from .prints import prints
-from .printt import printt
+from .printv import printt, printf
 from .sendmail import sendmail
 from .owari import owari
 from .wsummary import wsummary
@@ -11,7 +11,7 @@ from .wsummary import wsummary
 
 
 __all__ = [
-    "prints", "printt", "sendmail", "owari", "wsummary",
+    "prints", "printt", "printf", "sendmail", "owari", "wsummary",
     # "str_z2h", "plot3D",
     # "clean_column_name",
     # "download_file",
