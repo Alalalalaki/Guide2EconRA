@@ -48,6 +48,7 @@
 
 - Carlos Fernandez-Granda - [Mathematical Tools for Data Science](https://cds.nyu.edu/math-tools/)
 - Marc Peter Deisenroth, A. Aldo Faisal, Cheng Soon Ong - [Mathematics for Machine Learning](https://mml-book.github.io/)
+- Jon Krohn - [Machine Learning Foundations](https://github.com/jonkrohn/ML-foundations)
 
 ### Random Tips
 
