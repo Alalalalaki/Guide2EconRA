@@ -161,6 +161,7 @@
 - Pere A. Taberner - [List of open source books about R](https://www.peretaberner.eu/list-of-open-source-books-about-r/) (resources)
 - Kyle Walker - [Analyzing US Census Data: Methods, Maps, and Models in R](https://walker-data.com/census-r/)
 - [Summer Institutes in Computational Social Science](https://github.com/compsocialscience/summer-institute)
+- Jenny Bryan - [Data wrangling, exploration, and analysis with R](https://stat545.com/)
 
 
 

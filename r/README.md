@@ -50,6 +50,8 @@
 
 [Ways to close backdoors in DAGs](https://www.andrewheiss.com/blog/2020/02/25/closing-backdoors-dags/)
 
+[stargazer cheatsheet](https://www.jakeruss.com/cheatsheets/stargazer/)
+
 ---
 
 ## Non-Econ Stuffs
