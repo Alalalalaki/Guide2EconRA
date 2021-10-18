@@ -124,6 +124,7 @@
 - [From zero to Julia!](https://techytok.com/from-zero-to-julia/)
 - [Introduction to Scientific Computing](https://github.com/tpoisot/ScientificComputingForTheRestOfUs)
 - [Julia language: a concise tutorial](https://syl1.gitbook.io/julia-language-a-concise-tutorial/)
+- [Programming of Simulation, Analysis, and Learning Systems](https://courses.smp.uq.edu.au/MATH2504/)
 
 
 
