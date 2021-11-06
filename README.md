@@ -45,10 +45,11 @@
 - Scott Cunningham - [causal-inference-class](https://github.com/scunning1975) / [Teaching Resources for Causal Inference: The Mixtape](https://github.com/scunning1975/mixtape_learnr)
 - Nick Huntington-Klein - [The Effect: An Introduction to Research Design and Causality](https://theeffectbook.net/index.html) 
 - Christine Cai - [Literature on Recent Advances in Applied Micro Methods](https://christinecai.github.io/PublicGoods/applied_micro_methods.pdf)
-- Asjad Naqvi - [Diff-in-Diff-Notes](https://github.com/asjadnaqvi/Diff-in-Diff-Notes)
+- Asjad Naqvi - [Diff-in-Diff-Literature](https://asjadnaqvi.github.io/DiD/)
 - [mostly-harmless-replication in Stata, R, Python and Julia](https://github.com/vikjam/mostly-harmless-replication)
 - Hernán MA, Robins JM (2020). [Causal Inference: What If.](https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/)
 - Brady Neal - [Introduction to Causal Inference from a Machine Learning Perspective](https://www.bradyneal.com/causal-inference-course)
+- Nick Huntington-Klein et al. - [Library of Statistical Techniques](https://lost-stats.github.io/)
 
 
 
@@ -125,6 +126,7 @@
 - [Introduction to Scientific Computing](https://github.com/tpoisot/ScientificComputingForTheRestOfUs)
 - [Julia language: a concise tutorial](https://syl1.gitbook.io/julia-language-a-concise-tutorial/)
 - [Programming of Simulation, Analysis, and Learning Systems](https://courses.smp.uq.edu.au/MATH2504/)
+- [Julia Data Science](https://juliadatascience.io/)
 
 
 
@@ -132,7 +134,6 @@
 
 - Maximilian Kasy - Advanced Econometrics and Machine Learning: [2019](https://maxkasy.github.io/home/TopicsInEconometrics2019/), [2020](https://maxkasy.github.io/home/ML_Oxford_2020/), [2021](https://maxkasy.github.io/home/ML_Oxford_2021/) / collection of [useful computation links on R and ML](https://maxkasy.github.io/home/computationlinks/)
 - Nick Huntington-Klein - [Economics, Causality, and Analytics](https://github.com/NickCH-K/introcausality) / [R resources](http://nickchk.com/econometrics.html) / [Causal Inference](https://github.com/NickCH-K/CausalitySlides) / [DataCommSlides](https://nickch-k.github.io/DataCommSlides/)
-- Nick Huntington-Klein et al. - [Library of Statistical Techniques](https://lost-stats.github.io/)
 - Francis J. DiTraglia - [Statistical Learning and Causal Inference for Economics](https://github.com/fditraglia/econ224)
 - Tom O'Grady - [Causal-Inference-for-Beginning-Undergraduates](https://github.com/tomogradyucl/Causal-Inference-for-Beginning-Undergraduates)
 - Grant McDermott - [Data science for economists](https://github.com/uo-ec607/lectures) / [Big Data in Economics](https://github.com/uo-ec510-2020-spring/lectures)
@@ -143,6 +144,7 @@
 - Matt Woerman - [Topics in Advanced Econometrics](https://github.com/woerman/ResEcon703) 
 - Sebastian Kranz - [Empirical Economics with R](https://github.com/skranz/empecon) / [Market Analysis with Econometrics and Machine Learning](https://github.com/skranz/MarketAnalysis)
 - Florian Oswald, et al. - [Introduction to Econometrics with R](https://scpoecon.github.io/ScPoEconometrics/) / [Advanced Econometrics](https://github.com/ScPoEcon/Advanced-Metrics-slides)
+- David Childers - [Econometrics II (U)](https://donskerclass.github.io/EconometricsII.html)
 
 
 
@@ -320,6 +322,7 @@
 - [GDSGE: A Toolbox for Solving DSGE Models with Global Methods](https://www.gdsge.com/index.html) (matlab)
 - [Course and program information for Agent-Based Computational Economics (ACE), Agent-Based Modeling (ABM), and related topics](http://www2.econ.iastate.edu/tesfatsi/teachsyl.htm)
 - [Economics Simulations](https://professoramanda.github.io/econsimulations/) (an interactive educational application developed to simulate and visualize various statistical concepts)
+- [10 Fundamental Theorems for Econometrics](https://bookdown.org/ts_robinson1994/10_fundamental_theorems_for_econometrics/)
 
 
 

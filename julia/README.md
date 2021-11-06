@@ -70,3 +70,9 @@
 
 [BeautifulAlgorithms.jl](https://github.com/mossr/BeautifulAlgorithms.jl)
 
+---
+
+## Other-Fields
+
+- [Data Science in Julia for Hackers](https://datasciencejuliahackers.com/)
+
