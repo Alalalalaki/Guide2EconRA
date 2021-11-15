@@ -38,6 +38,7 @@
 - [binscatter](https://github.com/esantorella/binscatter) / [binsreg](https://nppackages.github.io/binsreg/)
 - [lifelines](https://github.com/CamDavidsonPilon/lifelines)
 - [netrics](https://github.com/bryangraham/netrics)
+- [SyntheticControlMethods](https://github.com/OscarEngelbrektson/SyntheticControlMethods)
 
 ### Probabilistic Programming (Bayesian)
 

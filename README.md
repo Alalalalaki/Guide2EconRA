@@ -50,6 +50,7 @@
 - Hernán MA, Robins JM (2020). [Causal Inference: What If.](https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/)
 - Brady Neal - [Introduction to Causal Inference from a Machine Learning Perspective](https://www.bradyneal.com/causal-inference-course)
 - Nick Huntington-Klein et al. - [Library of Statistical Techniques](https://lost-stats.github.io/)
+- David Childers - [Causal Econometrics](https://donskerclass.github.io/CausalEconometrics.html)
 
 
 
@@ -89,7 +90,6 @@
 - [Real Python Tutorials](https://realpython.com/tutorials/all/)
 - [Scipy Lecture Notes](https://scipy-lectures.org/)
 - Nicolas P. Rougier - [From Python to Numpy](https://www.labri.fr/perso/nrougier/from-python-to-numpy/) 
-- Nicolas P. Rougier - [Scientific Visualization – Python & Matplotlib](https://github.com/rougier/scientific-visualization-book) / [Matplotlib cheat sheet](https://github.com/rougier/matplotlib-cheatsheet)
 - [Introduction to Mathematical Computing with Python and Jupyter](https://github.com/patrickwalls/mathematical-python)
 - [Introduction to Data Science and Programming](https://github.com/mszell/introdatasci)
 - [Bayesian Computing Course](https://github.com/fonnesbeck/Bayes_Computing_Course)
@@ -127,6 +127,7 @@
 - [Julia language: a concise tutorial](https://syl1.gitbook.io/julia-language-a-concise-tutorial/)
 - [Programming of Simulation, Analysis, and Learning Systems](https://courses.smp.uq.edu.au/MATH2504/)
 - [Julia Data Science](https://juliadatascience.io/)
+- [Introduction to Datascience: Learn Julia Programming, Math & Datascience from Scratch.](https://datascience-book.gitlab.io/book.html)
 
 
 
@@ -300,6 +301,7 @@
 ## Visualization
 
 - Schwabish, J. A. (2014). [An economist's guide to visualizing data](https://pubs.aeaweb.org/doi/pdfplus/10.1257/jep.28.1.209). Journal of Economic Perspectives, 28(1), 209-34.
+- Nicolas P. Rougier - [Scientific Visualization – Python & Matplotlib](https://github.com/rougier/scientific-visualization-book) / [Scientific visualization Course](https://github.com/rougier/2021-Dataviz) / [Matplotlib cheat sheet](https://github.com/rougier/matplotlib-cheatsheet) 
 - [Some Data visualizations in Python](https://github.com/aaronpenne/data_visualization) 
 - [Python Plotting for Exploratory Data Analysis](https://pythonplot.com/#scatter-plot-with-facets)
 - [from Data to Viz](https://www.data-to-viz.com/) - [The Python Graph Gallery](https://python-graph-gallery.com/) / [The R Graph Gallery](https://www.r-graph-gallery.com/)
