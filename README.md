@@ -21,13 +21,13 @@
 - Ljubica Ristovska - [Coding for Economists: A Language-Agnostic Guide to Programming for Economists](https://scholar.harvard.edu/files/ristovska/files/coding_for_econs_20190221.pdf)
 - [Templates for Reproducible Research Projects in Economics](https://github.com/OpenSourceEconomics/econ-project-templates)
 - Wilson, G., Bryan, J., Cranston, K., Kitzes, J., Nederbragt, L., & Teal, T. K. (2017). [Good enough practices in scientific computing](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510). PLoS computational biology, 13(6), e1005510.
-- [The Plain Person’s Guide to Plain Text Social Science](http://plain-text.co/index.html#introduction) - Kieran Healy
-- [Data and Code Guidance by Data Editors](https://social-science-data-editors.github.io/guidance/) / [A template README for social science replication packages](https://social-science-data-editors.github.io/template_README/) (see also [the](https://twitter.com/AeaData/status/1199691179291484161) [AEA guidance](https://www.aeaweb.org/journals/policies/sample-references) on [Data and Code](https://aeadataeditor.github.io/aea-de-guidance/addtl-data-citation-guidance.html)) ([github](https://github.com/AEADataEditor)) ([repo](https://twitter.com/AeaData/status/1405585967281496073))
+- Kieran Healy - [The Plain Person’s Guide to Plain Text Social Science](http://plain-text.co/index.html#introduction)
 - [Best Practices when Writing Code](http://www.danielmsullivan.com/pages/tutorial_workflow_3bestpractice.html)
 - Patrick Ball - [The Task Is A Quantum Of Workflow](https://hrdag.org/2016/06/14/the-task-is-a-quantum-of-workflow/) and [Principled Data Processing](https://www.youtube.com/watch?v=ZSunU9GQdcI)
 - [The Turing Way](https://the-turing-way.netlify.app/welcome.html) (a lightly opinionated guide to reproducible data science)
 - Fernando Hoces - [Accelerating Computational Reproducibility in Economics](https://fhoces.github.io/ACRE-slides-bids/#1) 
-- [A template README for social science replication packages](https://github.com/social-science-data-editors/template_README) 
+
+(see [replication](replication/) for more)
 
 
 
