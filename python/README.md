@@ -126,4 +126,8 @@
 
 - [Introduction to Computational Literary Analysis](https://icla2020b.jonreeve.com/)
 - [Programming for GIS: Teaching resources](https://github.com/andrea-ballatore/teaching-programming-for-gis)
+- [Spatial Data Programming with Python](https://geobgu.xyz/py/#)
+- [Bayesian Modeling and Computation in Python](https://bayesiancomputationbook.com/welcome.html)
+- [Bayesian Computing Course](https://github.com/fonnesbeck/Bayes_Computing_Course)
+- Melanie Walsh - [Introduction to Cultural Analytics & Python](https://github.com/melaniewalsh/Intro-Cultural-Analytics)
 

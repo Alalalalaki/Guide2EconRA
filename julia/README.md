@@ -38,6 +38,7 @@
 - [FixedEffectModels.jl](https://github.com/FixedEffects/fixedeffectmodels.jl)
 - [LeastSquaresOptim.jl](https://github.com/matthieugomez/LeastSquaresOptim.jl)
 - [FRAC.jl](https://github.com/jamesbrandecon/FRAC.jl)
+- [WildBootTests.jl](https://github.com/droodman/WildBootTests.jl)
 
 ### Machine Learning
 

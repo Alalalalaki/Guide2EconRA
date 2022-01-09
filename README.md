@@ -26,6 +26,7 @@
 - Patrick Ball - [The Task Is A Quantum Of Workflow](https://hrdag.org/2016/06/14/the-task-is-a-quantum-of-workflow/) and [Principled Data Processing](https://www.youtube.com/watch?v=ZSunU9GQdcI)
 - [The Turing Way](https://the-turing-way.netlify.app/welcome.html) (a lightly opinionated guide to reproducible data science)
 - Fernando Hoces - [Accelerating Computational Reproducibility in Economics](https://fhoces.github.io/ACRE-slides-bids/#1) 
+- [The Good Research Code Handbook](https://goodresearch.dev/)
 
 (see [replication](replication/) for more)
 
@@ -92,9 +93,7 @@
 - Nicolas P. Rougier - [From Python to Numpy](https://www.labri.fr/perso/nrougier/from-python-to-numpy/) 
 - [Introduction to Mathematical Computing with Python and Jupyter](https://github.com/patrickwalls/mathematical-python)
 - [Introduction to Data Science and Programming](https://github.com/mszell/introdatasci)
-- [Bayesian Computing Course](https://github.com/fonnesbeck/Bayes_Computing_Course)
 - Cliburn - [Computational Statistics and Statistical Computing](https://github.com/cliburn/sta-663-2021)
-- Melanie Walsh - [Introduction to Cultural Analytics & Python](https://github.com/melaniewalsh/Intro-Cultural-Analytics)
 - [The Hitchhiker's Guide to Data Science for Social Good](https://github.com/dssg/hitchhikers-guide)
 
 

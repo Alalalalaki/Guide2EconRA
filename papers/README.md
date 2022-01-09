@@ -11,4 +11,6 @@
 - Iskhakov, F., Jørgensen, T. H., Rust, J., & Schjerning, B. (2017). [The endogenous grid method for discrete‐continuous dynamic choice models with (or without) taste shocks](https://github.com/fediskhakov/dcegm). Quantitative Economics, 8(2), 317-365. ([julia](https://github.com/floswald/DCEGM.jl))
 - Stéphane Bonhomme, Kerstin Holzheu, Thibaut Lamadon, Elena Manresa, Magne Mogstad, and Bradley Setzler. "[How Much Should we Trust Estimates of Firm Effects and Worker Sorting?](https://github.com/tlamadon/pytwoway)" National Bureau of Economic Research, 2020.
 - Kline, P., Saggio, R., & Sølvsten, M. (2020). [Leave‐out estimation of variance components](https://github.com/HighDimensionalEconLab/VarianceComponentsHDFE.jl). Econometrica, 88(5), 1859-1898.
+- Shelegia, S., & Motta, M. (2021). [The" kill zone": Copying, acquisition and start-ups' direction of innovation.](https://github.com/manuelbieri/shelegia_motta_2021)
+- Arman Khachiyan, Anthony Thomas, Huye Zhou, Gordon H. Hanson, Alex Cloninger, Tajana Rosing & Amit Khandelwal. 2021. [Using Neural Networks to Predict Micro-Spatial Economic Growth](https://github.com/thomas9t/spatial-econ-cnn). WP.
 
