@@ -80,7 +80,7 @@
 
 ## Python - Other Tutorials
 
-- [Research Software Engineering with Python](https://merely-useful.github.io/py-rse/index.html)
+- [Research Software Engineering with Python: Building software that makes research possible](https://merely-useful.github.io/py-rse/index.html)
 - [Reproducible and Collaborative Data Science](https://berkeley-stat159-f17.github.io/stat159-f17/)
 - Jake VanderPlas - [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) / [A Whirlwind Tour of Python](https://jakevdp.github.io/WhirlwindTourOfPython/)
 - Nick Eubank - [Data Analysis in Python](http://www.data-analysis-in-python.org/index.html)
@@ -111,6 +111,7 @@
 - [Tutorials on Topics in Julia Programming](https://github.com/johnmyleswhite/julia_tutorials)
 - Lutz Hendricks - [Julia for Economists](https://lhendricks.org/econ890/julia/outline.html) / [Notes on the Julia Programming Language](https://lhendricks.org/julia/julia_notes.pdf)
 - Jamie Cross - [Introduction to Bayesian Econometrics](https://github.com/Jamie-L-Cross/Bayes)
+- Cameron Pfiffer - [Julia for Economists Bootcamp](https://github.com/cpfiffer/julia-bootcamp-2022)
 
 
 
@@ -210,6 +211,7 @@
 - [Stata Coding Guide](https://reifjulian.github.io/guide/) - Julian Reif
 - [The Stata Guide on Medium](https://medium.com/the-stata-guide) / [Stata-schemes](https://github.com/asjadnaqvi/Stata-schemes) - Asjad Naqvi
 - Germán Rodríguez - [Stata + R + GLMs + Multilevel + Survival + Demography](https://data.princeton.edu/)
+- [Stata instructions for research projects](https://github.com/skhiggins/Stata_guide)
 
 
 
@@ -280,6 +282,7 @@
 - [Modern LaTeX](https://github.com/mrkline/modern-latex)
 - [Latex templates](https://github.com/kylebutts/templates)
 - [LaTeX Usage Notes](https://www.read.seas.harvard.edu/~kohler/latex.html)
+- [annotated_latex_equations](https://github.com/synercys/annotated_latex_equations)
 
 
 

@@ -76,4 +76,5 @@
 ## Other-Fields
 
 - [Data Science in Julia for Hackers](https://datasciencejuliahackers.com/)
+- [Bayesian Statistics using Julia and Turing](https://storopoli.io/Bayesian-Julia/)
 
