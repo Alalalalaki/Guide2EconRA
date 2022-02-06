@@ -128,6 +128,7 @@
 - [Programming of Simulation, Analysis, and Learning Systems](https://courses.smp.uq.edu.au/MATH2504/)
 - [Julia Data Science](https://juliadatascience.io/)
 - [Introduction to Datascience: Learn Julia Programming, Math & Datascience from Scratch.](https://datascience-book.gitlab.io/book.html)
+- [Scientific Programming in Julia](https://github.com/JuliaTeachingCTU/Scientific-Programming-in-Julia) / [Julia for Optimization and Learning](https://github.com/JuliaTeachingCTU/Julia-for-Optimization-and-Learning)
 
 
 
@@ -185,6 +186,7 @@
 - Jonathan Hersh - [Introduction to Machine Learning](https://github.com/jonhersh/MGSC310) (R)
 - Melissa Dell - [Unleashing Novel Data at Scale](https://dell-research-harvard.github.io/overview/2021/01/23/about.html) (Python)
 - Susan Athey's [video on youtube](https://www.youtube.com/results?search_query=Susan+Athey+machine+learning)
+- [Macroeconomic Analysis with Machine Learning and Big Data](https://github.com/yangycpku/macro_ML)
 
 
 
@@ -280,7 +282,7 @@
 - [A LaTeX Template for Economics Papers](https://github.com/talgross-bu/Template-for-Overleaf)
 - [LaTeX Table Hints and Tips](https://statatexblog.com/wp-content/uploads/2013/09/tabletricks_latex.pdf)
 - [Modern LaTeX](https://github.com/mrkline/modern-latex)
-- [Latex templates](https://github.com/kylebutts/templates)
+- [Latex templates (Slide & Article)](https://github.com/kylebutts/templates) - Kyle Butts
 - [LaTeX Usage Notes](https://www.read.seas.harvard.edu/~kohler/latex.html)
 - [annotated_latex_equations](https://github.com/synercys/annotated_latex_equations)
 
