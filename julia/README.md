@@ -71,6 +71,8 @@
 
 [BeautifulAlgorithms.jl](https://github.com/mossr/BeautifulAlgorithms.jl)
 
+[What scientists must know about hardware to write fast code](https://github.com/jakobnissen/hardware_introduction)
+
 ---
 
 ## Other-Fields

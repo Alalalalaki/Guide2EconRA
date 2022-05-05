@@ -214,6 +214,7 @@
 - [The Stata Guide on Medium](https://medium.com/the-stata-guide) / [Stata-schemes](https://github.com/asjadnaqvi/Stata-schemes) - Asjad Naqvi
 - Germán Rodríguez - [Stata + R + GLMs + Multilevel + Survival + Demography](https://data.princeton.edu/)
 - [Stata instructions for research projects](https://github.com/skhiggins/Stata_guide)
+- [The Stata Guide](https://medium.com/the-stata-guide)
 
 
 
@@ -285,6 +286,7 @@
 - [Latex templates (Slide & Article)](https://github.com/kylebutts/templates) - Kyle Butts
 - [LaTeX Usage Notes](https://www.read.seas.harvard.edu/~kohler/latex.html)
 - [annotated_latex_equations](https://github.com/synercys/annotated_latex_equations)
+- [Draw DAGs with TikZ](https://www.nsgrantham.com/draw-dags-tikz)
 
 
 
@@ -367,4 +369,5 @@
 - Christoph Kronenberg - [Resources](https://sites.google.com/view/christoph-kronenberg/home/resources)
 - Christine Cai - [Public Goods](https://christinecai.github.io/items/PublicGoods.html)
 - Brendan Price - [Resources](https://www.brendanmichaelprice.com/resources/)
+- Alex Albright - [(mainly R) Resources](https://www.albrightalex.com/public-goods) 
 

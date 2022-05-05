@@ -10,6 +10,7 @@
 - Ian Goodfellow, Yoshua Bengio, Aaron Courville - [Deep Learning](https://www.deeplearningbook.org/front_matter.pdf)
 - Moritz Hardt, Benjamin Recht - [Patterns, Predictions, and Actions](https://mlstory.org/)
 - Bradley Efron, Trevor Hastie - [Computer Age Statistical Inference: Algorithms, Evidence and Data Science](https://web.stanford.edu/~hastie/CASI/index.html)
+- Christophe Gaillac, J ́er ́emy L’Hour - [Machine Learning for Econometrics](https://sites.google.com/site/jeremylhour/courses)
 
 ### Textbook - Python
 
@@ -29,6 +30,10 @@
 - [NYU Text as Data Lab](https://github.com/leslie-huang/TextasDataLabSpring2020) (R)
 - Gensim Topic modelling for humans - [Tutorials](https://radimrehurek.com/gensim/auto_examples/index.html) (Python)
 - [Supervised Machine Learning for Text Analysis in R](https://smltar.com/)
+
+### Deep Learning Tutorials
+
+- [MIT 6.S191 Introduction to Deep Learning](http://introtodeeplearning.com/)
 
 ### Interpretability Tutorials
 
