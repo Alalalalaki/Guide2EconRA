@@ -140,7 +140,7 @@
 - Tom O'Grady - [Causal-Inference-for-Beginning-Undergraduates](https://github.com/tomogradyucl/Causal-Inference-for-Beginning-Undergraduates)
 - Grant McDermott - [Data science for economists](https://github.com/uo-ec607/lectures) / [Big Data in Economics](https://github.com/uo-ec510-2020-spring/lectures)
 - Christoph Hanck, et al. - [Introduction to Econometrics with R](https://www.econometrics-with-r.org/index.html)
-- Ed Rubin - [PhD Econometrics (III) with R](https://github.com/edrubin/EC607S20) / [Masters-level applied econometrics with R](https://github.com/edrubin/EC524W20) / [Introduction to Econometrics with R](https://github.com/edrubin/EC421W20)
+- Ed Rubin - PhD Econometrics (III) with R [2020](https://github.com/edrubin/EC607S20), [2022](https://github.com/edrubin/EC607S22) / [Masters-level applied econometrics with R](https://github.com/edrubin/EC524W20) / [Introduction to Econometrics with R](https://github.com/edrubin/EC421W20)
 - Tyler Ransom - [Econometric Analysis (U)](https://tyleransom.github.io/econometricslabs.html)
 - Hans H. Sievertsen - [Applied Economics with R](https://hhsievertsen.github.io/applied_econ_with_r/) / [Introduction to R](https://hhsievertsen.shinyapps.io/r_introduction/)
 - Matt Woerman - [Topics in Advanced Econometrics](https://github.com/woerman/ResEcon703) 
@@ -301,6 +301,7 @@
 
 - [Learn regex the easy way](https://github.com/ziishaned/learn-regex)
 - [Online regex tester and debugger](https://regex101.com/) (also [this](https://regexr.com/))
+- [AutoRegex](https://www.autoregex.xyz/)
 
 
 

@@ -62,3 +62,4 @@ Every time I want to fetch a pull request so that I can checkout as a local bran
 
 [(Collaboration) Infrastructure](https://www.notion.so/Infrastructure-452e6e478ff846cca9dd73445a431a3c)
 
+[Using git and Dropbox](https://www.math.cmu.edu/~gautam/sj/blog/20160406-dropbox-git.html)

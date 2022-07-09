@@ -73,6 +73,10 @@
 
 [What scientists must know about hardware to write fast code](https://github.com/jakobnissen/hardware_introduction)
 
+[Julia Resources for Experienced Programmers](https://theodiamandis.com/blog/2022/learnjulia/#julia_resources_for_experienced_programmers)
+
+[SciML Style Guide for Julia](https://github.com/SciML/SciMLStyle)
+
 ---
 
 ## Other-Fields
