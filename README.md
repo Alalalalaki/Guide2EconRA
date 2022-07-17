@@ -43,7 +43,7 @@
 ## Applied Microeconometrics & Casual Inference
 
 - Paul Goldsmith-Pinkham - [Applied Empirical Methods](https://github.com/paulgp/applied-methods-phd)
-- Scott Cunningham - [causal-inference-class](https://github.com/scunning1975) / [Teaching Resources for Causal Inference: The Mixtape](https://github.com/scunning1975/mixtape_learnr)
+- Scott Cunningham - [Causal Inference The Mixtape](https://mixtape.scunning.com/index.html) / [Mixtape-Sessions](https://github.com/Mixtape-Sessions)
 - Nick Huntington-Klein - [The Effect: An Introduction to Research Design and Causality](https://theeffectbook.net/index.html) 
 - Christine Cai - [Literature on Recent Advances in Applied Micro Methods](https://christinecai.github.io/PublicGoods/applied_micro_methods.pdf)
 - Asjad Naqvi - [Diff-in-Diff-Literature](https://asjadnaqvi.github.io/DiD/)

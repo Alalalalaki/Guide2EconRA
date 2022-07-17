@@ -2,6 +2,12 @@
 
 ## Tutorials
 
+
+
+### Spatial
+
+- [R as GIS for Economists](https://tmieno2.github.io/R-as-GIS-for-Economists/index.html)
+
 ### Unsorted
 
 - [Writing Reproducible Research Papers with R Markdown](https://github.com/resulumit/rmd_workshop)
