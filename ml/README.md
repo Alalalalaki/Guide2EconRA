@@ -34,6 +34,7 @@
 ### Deep Learning Tutorials
 
 - [MIT 6.S191 Introduction to Deep Learning](http://introtodeeplearning.com/)
+- [CS25: Transformers United](https://web.stanford.edu/class/cs25/)
 
 ### Interpretability Tutorials
 

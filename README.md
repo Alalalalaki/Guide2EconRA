@@ -196,6 +196,7 @@
 - Andreas C. Müller - [Applied Machine Learning Spring 2020](https://github.com/amueller/COMS4995-s20#applied-machine-learning-spring-2020) (Python)
 - Jeff Heaton - [Applications of Deep Neural Networks](https://github.com/jeffheaton/t81_558_deep_learning) (Python)
 - UCB - [Computational Social Science](https://github.com/dlab-berkeley/Computational-Social-Science-Training-Program) (Python & R)
+- Harvard - [Introduction to Data Science](https://harvard-iacs.github.io/2021-CS109A/) (Python)
 - Bradley Boehmke, Brandon Greenwell - [Hands-On Machine Learning with R](https://bradleyboehmke.github.io/HOML/) (R)
 - Bloomberg - [Foundations of Machine Learning](https://bloomberg.github.io/foml/#lectures) 
 - fast.ai: [Deep Learning / Practical Data Ethics / Computational Linear Algebra / NLP](https://www.fast.ai/) (Python)
