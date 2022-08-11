@@ -19,6 +19,7 @@
 - Knittel, C. R., & Metaxoglou, K. (2016). [Working with Data: Two Empiricists’ Experience](https://dspace.mit.edu/handle/1721.1/120479). Journal of Econometric Methods, 7(1).
 - Christensen, Garret S. and Edward Miguel, "[Transparency, Reproducibility, and the Credibility of Economics Research](https://www.aeaweb.org/articles?id=10.1257/jel.20171350)," Journal of Economic Literature, 56:3 pp. 920-980 (Sep. 2018).
 - Ljubica Ristovska - [Coding for Economists: A Language-Agnostic Guide to Programming for Economists](https://scholar.harvard.edu/files/ristovska/files/coding_for_econs_20190221.pdf)
+- Benjamin Vatter & Gaston Illanes - [Coding Primer: A Reference Guide](https://benjaminvatter.com/uploads/coding_prep.pdf)
 - [Templates for Reproducible Research Projects in Economics](https://github.com/OpenSourceEconomics/econ-project-templates)
 - Wilson, G., Bryan, J., Cranston, K., Kitzes, J., Nederbragt, L., & Teal, T. K. (2017). [Good enough practices in scientific computing](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510). PLoS computational biology, 13(6), e1005510.
 - Kieran Healy - [The Plain Person’s Guide to Plain Text Social Science](http://plain-text.co/index.html#introduction)
@@ -288,6 +289,7 @@
 - [LaTeX Usage Notes](https://www.read.seas.harvard.edu/~kohler/latex.html)
 - [annotated_latex_equations](https://github.com/synercys/annotated_latex_equations)
 - [Draw DAGs with TikZ](https://www.nsgrantham.com/draw-dags-tikz)
+- [For Beautiful Presentations - Use ~~PowerPoint~~ BEAMER](https://latex-beamer.com/tutorials/) 
 
 
 

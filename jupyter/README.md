@@ -1,3 +1,8 @@
+## Jupyter Resource
+
+- [Awesome Jupyter](https://github.com/markusschanta/awesome-jupyter)
+- [Awesome Quarto](https://github.com/mcanouil/awesome-quarto#official-documentation--quickstarts)
+
 ## Jupyter Lab Tools and Tips
 
 ---

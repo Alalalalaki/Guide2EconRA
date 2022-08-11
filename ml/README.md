@@ -23,6 +23,10 @@
 
 - Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani - [An Introduction to Statistical Learning with Applications in R](https://www.statlearning.com/) 
 
+### Lecture - Theory
+
+- UvA - [Machine Learning 1](https://uvaml1.github.io/)
+
 ### NLP / Text Tutorials
 
 - Lefteris Jason Anastasopoulos - [Modern Text Analysis and Machine Learning for Social Research](https://github.com/ljanastas/UGA_POLS-8500-Machine-Learning-Text-Analysis) (R)
@@ -30,6 +34,7 @@
 - [NYU Text as Data Lab](https://github.com/leslie-huang/TextasDataLabSpring2020) (R)
 - Gensim Topic modelling for humans - [Tutorials](https://radimrehurek.com/gensim/auto_examples/index.html) (Python)
 - [Supervised Machine Learning for Text Analysis in R](https://smltar.com/)
+- [Stanford CS224N: Natural Language Processing with Deep Learning | Winter 2021](https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ)
 
 ### Deep Learning Tutorials
 
