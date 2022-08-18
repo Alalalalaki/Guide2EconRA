@@ -76,6 +76,7 @@
 - Jan Boone - [Doing economics with python](https://janboone.github.io/python_economics/economics.html)
 - Arthur Turrell - [Coding for Economists](https://aeturrell.github.io/coding-for-economists/index.html) / [Econometrics (with Machine Learning) in Python](http://aeturrell.com/blog/)
 - Alfred Galichon - ['math+econ+code' masterclasses](http://alfredgalichon.com/coursesandtalks/)
+- NBER - [Spring 2022 heterogeneous-agent macro workshop](https://github.com/shade-econ/nber-workshop-2022)
 
 
 

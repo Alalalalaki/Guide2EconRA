@@ -39,6 +39,7 @@
 - [lifelines](https://github.com/CamDavidsonPilon/lifelines)
 - [netrics](https://github.com/bryangraham/netrics)
 - [SyntheticControlMethods](https://github.com/OscarEngelbrektson/SyntheticControlMethods)
+- [pysynthdid](https://github.com/MasaAsami/pysynthdid)
 
 ### Probabilistic Programming (Bayesian)
 
