@@ -53,6 +53,7 @@
 - Brady Neal - [Introduction to Causal Inference from a Machine Learning Perspective](https://www.bradyneal.com/causal-inference-course)
 - Nick Huntington-Klein et al. - [Library of Statistical Techniques](https://lost-stats.github.io/)
 - David Childers - [Causal Econometrics](https://donskerclass.github.io/CausalEconometrics.html)
+- Kosuke Imai - [Causal Inference with Applications](https://imai.fas.harvard.edu/teaching/cause.html)
 
 
 
@@ -218,6 +219,7 @@
 - Germán Rodríguez - [Stata + R + GLMs + Multilevel + Survival + Demography](https://data.princeton.edu/)
 - [Stata instructions for research projects](https://github.com/skhiggins/Stata_guide)
 - [The Stata Guide](https://medium.com/the-stata-guide)
+- [Stata tips](https://twitter.com/toddrjones/status/1560330744089546752)
 
 
 
@@ -291,6 +293,7 @@
 - [annotated_latex_equations](https://github.com/synercys/annotated_latex_equations)
 - [Draw DAGs with TikZ](https://www.nsgrantham.com/draw-dags-tikz)
 - [For Beautiful Presentations - Use ~~PowerPoint~~ BEAMER](https://latex-beamer.com/tutorials/) 
+- [A LaTeX Power Up](https://scholar.harvard.edu/files/nataliaemanuel/files/latex_powerup_slides.pdf) / [A Basic Beamer Power Up](https://scholar.harvard.edu/files/nataliaemanuel/files/beamer_powerup.pdf) - Natalia Emanuel
 
 
 

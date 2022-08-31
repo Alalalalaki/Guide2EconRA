@@ -13,4 +13,5 @@
 - Kline, P., Saggio, R., & Sølvsten, M. (2020). [Leave‐out estimation of variance components](https://github.com/HighDimensionalEconLab/VarianceComponentsHDFE.jl). Econometrica, 88(5), 1859-1898.
 - Shelegia, S., & Motta, M. (2021). [The" kill zone": Copying, acquisition and start-ups' direction of innovation.](https://github.com/manuelbieri/shelegia_motta_2021)
 - Arman Khachiyan, Anthony Thomas, Huye Zhou, Gordon H. Hanson, Alex Cloninger, Tajana Rosing & Amit Khandelwal. 2021. [Using Neural Networks to Predict Micro-Spatial Economic Growth](https://github.com/thomas9t/spatial-econ-cnn). WP.
+- Arkhangelsky, D., Athey, S., Hirshberg, D. A., Imbens, G. W., & Wager, S. (2021). Synthetic difference-in-differences. American Economic Review, 111(12), 4088-4118. ([R](https://github.com/synth-inference/synthdid); [Python](https://github.com/skranz/xsynthdid))
 
