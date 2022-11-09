@@ -35,6 +35,7 @@
 - Gensim Topic modelling for humans - [Tutorials](https://radimrehurek.com/gensim/auto_examples/index.html) (Python)
 - [Supervised Machine Learning for Text Analysis in R](https://smltar.com/)
 - [Stanford CS224N: Natural Language Processing with Deep Learning | Winter 2021](https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ)
+- Elliott Ash - [PhD course on text data in economics](https://github.com/elliottash/text_econ_2022)
 
 ### Deep Learning Tutorials
 

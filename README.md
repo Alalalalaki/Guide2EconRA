@@ -115,6 +115,7 @@
 - Lutz Hendricks - [Julia for Economists](https://lhendricks.org/econ890/julia/outline.html) / [Notes on the Julia Programming Language](https://lhendricks.org/julia/julia_notes.pdf)
 - Jamie Cross - [Introduction to Bayesian Econometrics](https://github.com/Jamie-L-Cross/Bayes)
 - Cameron Pfiffer - [Julia for Economists Bootcamp](https://github.com/cpfiffer/julia-bootcamp-2022)
+- Sergio Ocampo - [Advanced Macroeconomics II](https://github.com/ocamp020/PhD_Macro_Course_Western)
 
 
 
@@ -190,6 +191,8 @@
 - Melissa Dell - [Unleashing Novel Data at Scale](https://dell-research-harvard.github.io/overview/2021/01/23/about.html) (Python)
 - Susan Athey's [video on youtube](https://www.youtube.com/results?search_query=Susan+Athey+machine+learning)
 - [Macroeconomic Analysis with Machine Learning and Big Data](https://github.com/yangycpku/macro_ML)
+- Jesús Fernández-Villaverde - Machine Learning for Macroeconomics ([slide](https://www.sas.upenn.edu/~jesusfv/teaching.html); [video](https://www.youtube.com/watch?v=ky5lTihMlU0))
+- Simon Scheidegger - [Advanced Methods in Computational Economics](https://github.com/sischei/crest_comp_econ)
 
 
 
@@ -294,6 +297,7 @@
 - [Draw DAGs with TikZ](https://www.nsgrantham.com/draw-dags-tikz)
 - [For Beautiful Presentations - Use ~~PowerPoint~~ BEAMER](https://latex-beamer.com/tutorials/) 
 - [A LaTeX Power Up](https://scholar.harvard.edu/files/nataliaemanuel/files/latex_powerup_slides.pdf) / [A Basic Beamer Power Up](https://scholar.harvard.edu/files/nataliaemanuel/files/beamer_powerup.pdf) - Natalia Emanuel
+- [latex-math tips](https://github.com/pmichaillat/latex-math) / [latex-paper template](https://github.com/pmichaillat/latex-paper) - Pascal Michaillat
 
 
 
@@ -339,6 +343,7 @@
 - [Course and program information for Agent-Based Computational Economics (ACE), Agent-Based Modeling (ABM), and related topics](http://www2.econ.iastate.edu/tesfatsi/teachsyl.htm)
 - [Economics Simulations](https://professoramanda.github.io/econsimulations/) (an interactive educational application developed to simulate and visualize various statistical concepts)
 - [10 Fundamental Theorems for Econometrics](https://bookdown.org/ts_robinson1994/10_fundamental_theorems_for_econometrics/)
+- [Numerical Tours of Data Sciences in Matlab, Python and Julia](http://www.numerical-tours.com/about/)
 
 
 
@@ -378,4 +383,5 @@
 - Christine Cai - [Public Goods](https://christinecai.github.io/items/PublicGoods.html)
 - Brendan Price - [Resources](https://www.brendanmichaelprice.com/resources/)
 - Alex Albright - [(mainly R) Resources](https://www.albrightalex.com/public-goods) 
+- Claes Bäckman - [Resources](https://sites.google.com/view/claesbackman/tips-for-phd-students)
 

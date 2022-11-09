@@ -14,4 +14,6 @@
 - Shelegia, S., & Motta, M. (2021). [The" kill zone": Copying, acquisition and start-ups' direction of innovation.](https://github.com/manuelbieri/shelegia_motta_2021)
 - Arman Khachiyan, Anthony Thomas, Huye Zhou, Gordon H. Hanson, Alex Cloninger, Tajana Rosing & Amit Khandelwal. 2021. [Using Neural Networks to Predict Micro-Spatial Economic Growth](https://github.com/thomas9t/spatial-econ-cnn). WP.
 - Arkhangelsky, D., Athey, S., Hirshberg, D. A., Imbens, G. W., & Wager, S. (2021). Synthetic difference-in-differences. American Economic Review, 111(12), 4088-4118. ([R](https://github.com/synth-inference/synthdid); [Python](https://github.com/skranz/xsynthdid))
+- Azinovic, M., Gaegauf, L., & Scheidegger, S. (2022). [Deep equilibrium nets](https://github.com/sischei/DeepEquilibriumNets). International Economic Review.
+- Wooldridge, J. M. (2021). Two-way fixed effects, the two-way mundlak regression, and difference-in-differences estimators. WP. ([Julia](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3906345))
 
