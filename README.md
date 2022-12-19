@@ -221,8 +221,8 @@
 - [The Stata Guide on Medium](https://medium.com/the-stata-guide) / [Stata-schemes](https://github.com/asjadnaqvi/Stata-schemes) - Asjad Naqvi
 - Germán Rodríguez - [Stata + R + GLMs + Multilevel + Survival + Demography](https://data.princeton.edu/)
 - [Stata instructions for research projects](https://github.com/skhiggins/Stata_guide)
-- [The Stata Guide](https://medium.com/the-stata-guide)
 - [Stata tips](https://twitter.com/toddrjones/status/1560330744089546752)
+- [Top 25 Stata Visualizations With Full Code](https://medium.com/the-stata-gallery/top-25-stata-visualizations-with-full-code-668b5df114b6)
 
 
 
@@ -240,6 +240,7 @@
 - [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
 - [Software Carpentry](https://software-carpentry.org/lessons/index.html)
 - [Harvard CS50](https://cs50.harvard.edu/)
+- [NormConf: The NormCore Tech Conference](https://www.youtube.com/@normconf/videos)
 
 
 
@@ -298,6 +299,7 @@
 - [For Beautiful Presentations - Use ~~PowerPoint~~ BEAMER](https://latex-beamer.com/tutorials/) 
 - [A LaTeX Power Up](https://scholar.harvard.edu/files/nataliaemanuel/files/latex_powerup_slides.pdf) / [A Basic Beamer Power Up](https://scholar.harvard.edu/files/nataliaemanuel/files/beamer_powerup.pdf) - Natalia Emanuel
 - [latex-math tips](https://github.com/pmichaillat/latex-math) / [latex-paper template](https://github.com/pmichaillat/latex-paper) - Pascal Michaillat
+- Beamer theme: [Jambro Beamer theme](https://github.com/ambropo/JambroBeamerTheme)
 
 
 
@@ -344,6 +346,7 @@
 - [Economics Simulations](https://professoramanda.github.io/econsimulations/) (an interactive educational application developed to simulate and visualize various statistical concepts)
 - [10 Fundamental Theorems for Econometrics](https://bookdown.org/ts_robinson1994/10_fundamental_theorems_for_econometrics/)
 - [Numerical Tours of Data Sciences in Matlab, Python and Julia](http://www.numerical-tours.com/about/)
+- [Introduction to Modern Causal Inference](https://alejandroschuler.github.io/mci/introduction-to-modern-causal-inference.html)
 
 
 

@@ -11,6 +11,7 @@
 - Moritz Hardt, Benjamin Recht - [Patterns, Predictions, and Actions](https://mlstory.org/)
 - Bradley Efron, Trevor Hastie - [Computer Age Statistical Inference: Algorithms, Evidence and Data Science](https://web.stanford.edu/~hastie/CASI/index.html)
 - Christophe Gaillac, J ́er ́emy L’Hour - [Machine Learning for Econometrics](https://sites.google.com/site/jeremylhour/courses)
+- Kevin P. Murphy - [Probabilistic Machine Learning](https://probml.github.io/pml-book/book1.html)
 
 ### Textbook - Python
 
@@ -41,6 +42,7 @@
 
 - [MIT 6.S191 Introduction to Deep Learning](http://introtodeeplearning.com/)
 - [CS25: Transformers United](https://web.stanford.edu/class/cs25/)
+- [Deep Reinforcement Learning Course](https://huggingface.co/deep-rl-course/unit0/introduction)
 
 ### Interpretability Tutorials
 

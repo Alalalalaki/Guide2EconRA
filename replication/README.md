@@ -8,6 +8,8 @@
 - [how to prepare replication packages for papers that used confidential data](https://twitter.com/AeaData/status/1457815800438562828)
 - [Step by step guidance (after conditional acceptance of your manuscript)](https://aeadataeditor.github.io/aea-de-guidance/)
 - [an AEA-compliant replication package that might serve as a useful template](https://github.com/reifjulian/driving)
+- [A short example of how to update a replication package](https://twitter.com/AeaData/status/1590397630944661504)
+- [data provenance Q&A](https://twitter.com/AeaData/status/1592921505129807874)
 
 
 

@@ -16,4 +16,5 @@
 - Arkhangelsky, D., Athey, S., Hirshberg, D. A., Imbens, G. W., & Wager, S. (2021). Synthetic difference-in-differences. American Economic Review, 111(12), 4088-4118. ([R](https://github.com/synth-inference/synthdid); [Python](https://github.com/skranz/xsynthdid))
 - Azinovic, M., Gaegauf, L., & Scheidegger, S. (2022). [Deep equilibrium nets](https://github.com/sischei/DeepEquilibriumNets). International Economic Review.
 - Wooldridge, J. M. (2021). Two-way fixed effects, the two-way mundlak regression, and difference-in-differences estimators. WP. ([Julia](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3906345))
+- Lewis, D. J., Melcangi, D., Pilossoph, L., & Toner-Rodgers, A. (2022). Approximating Grouped Fixed Effects Estimation via Fuzzy Clustering Regression. WP ([Python](https://github.com/yasin-simsek/fcr))
 
