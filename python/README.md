@@ -40,6 +40,8 @@
 - [netrics](https://github.com/bryangraham/netrics)
 - [SyntheticControlMethods](https://github.com/OscarEngelbrektson/SyntheticControlMethods)
 - [pysynthdid](https://github.com/MasaAsami/pysynthdid)
+- [difference-in-differences](https://github.com/bernardodionisi/differences)
+- [CausalPy](https://github.com/pymc-labs/CausalPy)
 
 ### Probabilistic Programming (Bayesian)
 
@@ -67,6 +69,7 @@
 - [daft](https://github.com/daft-dev/daft)
 - [networkx](https://networkx.org/documentation/latest/)
 - [multiplex](https://nicholasmamo.github.io/multiplex-plot/index.html)
+- [sane_tikz](https://github.com/negrinho/sane_tikz)
 
 ### Econ Data
 
