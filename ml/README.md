@@ -67,6 +67,7 @@
 ### Random Tips
 
 - [Practical tips for machine learning practitioners](https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf)
+- [Feature Engineering & Feature Selection](https://github.com/Yimeng-Zhang/feature-engineering-and-feature-selection)
 
 ### Other Fields
 

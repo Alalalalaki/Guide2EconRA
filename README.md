@@ -33,11 +33,13 @@
 
 
 
-## Tips for Structural Comp Econ Work
+## Tips or Lectures for Structural Econ
 
 - Michael Keane - [Practical Issues in Structural Estimation](https://www.youtube.com/watch?v=0hazaPBAYWE)
 - Chris Taber -  [Estimation of Policy Counterfactuals](https://hceconomics.uchicago.edu/sites/default/files/file_uploads/policy16.pdf) / [Structural Estimation](https://www.ssc.wisc.edu/~ctaber/718/struct.pdf) 
 - Tony Smith - [Tips for Doing Computational Work in Economics](http://www.econ.yale.edu/smith/econ561a/compute6.pdf)
+- [Australian Summer School in Dynamic Structural Econometrics](https://github.com/dseconf/DSE2022AUS)
+- Robert A. Miller - [STRUCTURAL ECONOMETRICS](http://comlabgames.com/structuraleconometrics/)
 
 
 
