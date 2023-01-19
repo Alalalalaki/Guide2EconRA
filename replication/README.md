@@ -18,3 +18,8 @@
 - [A template README for social science replication packages](https://github.com/social-science-data-editors/template_README) 
 - [Template repository for research papers.](https://github.com/rdahis/paper_template)
 
+
+
+### More
+
+- [Data and Code Availability Standard](https://datacodestandard.org/about/)

@@ -47,15 +47,15 @@
 
 - Paul Goldsmith-Pinkham - [Applied Empirical Methods](https://github.com/paulgp/applied-methods-phd)
 - Scott Cunningham - [Causal Inference The Mixtape](https://mixtape.scunning.com/index.html) / [Mixtape-Sessions](https://github.com/Mixtape-Sessions)
-- Nick Huntington-Klein - [The Effect: An Introduction to Research Design and Causality](https://theeffectbook.net/index.html) 
+- Nick Huntington-Klein - [The Effect: An Introduction to Research Design and Causality](https://theeffectbook.net/index.html) /  [Library of Statistical Techniques](https://lost-stats.github.io/)
 - Christine Cai - [Literature on Recent Advances in Applied Micro Methods](https://christinecai.github.io/PublicGoods/applied_micro_methods.pdf)
 - Asjad Naqvi - [Diff-in-Diff-Literature](https://asjadnaqvi.github.io/DiD/)
 - [mostly-harmless-replication in Stata, R, Python and Julia](https://github.com/vikjam/mostly-harmless-replication)
 - Hernán MA, Robins JM (2020). [Causal Inference: What If.](https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/)
 - Brady Neal - [Introduction to Causal Inference from a Machine Learning Perspective](https://www.bradyneal.com/causal-inference-course)
-- Nick Huntington-Klein et al. - [Library of Statistical Techniques](https://lost-stats.github.io/)
 - David Childers - [Causal Econometrics](https://donskerclass.github.io/CausalEconometrics.html)
 - Kosuke Imai - [Causal Inference with Applications](https://imai.fas.harvard.edu/teaching/cause.html)
+- Matheus Facure Alves - [Causal Inference for The Brave and True](https://matheusfacure.github.io/python-causality-handbook/landing-page.html)
 
 
 
@@ -158,7 +158,7 @@
 
 ## R - Other Tutorials
 
-- Garrett Grolemund & Hadley Wickham - [R for Data Science](https://r4ds.had.co.nz/)
+- Garrett Grolemund & Hadley Wickham - [R for Data Science](https://r4ds.had.co.nz/) ([2ed](https://r4ds.hadley.nz/))
 - Hadley Wickham - [Advanced R](https://adv-r.hadley.nz/)
 - [The tidyverse style guide](https://style.tidyverse.org/)
 - dlab-berkeley - [R-Fundamentals](https://github.com/dlab-berkeley/R-Fundamentals) / ...
@@ -180,7 +180,7 @@
 
 - Dario Sansone - [Machine Learning for Economists](https://sites.google.com/view/dariosansone/resources/machine-learning) (Resources)
 - Tyler Ransom - Data Science for Economists [2020](https://github.com/tyleransom/DScourseS20), [2021](https://github.com/tyleransom/DScourseS21) (R) / [Introduction to machine learning for social scientists](https://tyleransom.github.io/research/IntroMachineLearning.pdf)
-- Ed Rubin and Connor Lennon - [Prediction and machine-learning in econometrics](https://github.com/edrubin/EC524W20) (R)
+- Ed Rubin - Prediction and machine-learning in econometrics [2020](https://github.com/edrubin/EC524W20) [2023](https://github.com/edrubin/EC524W23) (R)
 - Itamar Caspi - [Machine Learning for Economists](https://github.com/ml4econ) (R)
 - Stephen Hansen - [machine_learning_economics](https://github.com/sekhansen/machine_learning_economics) / [text-mining-tutorial](https://github.com/sekhansen/text-mining-tutorial) (Python)
 - Jérémy L'Hour - [Machine Learning for Econometrics](https://github.com/jlhourENSAE/hdmetrics) (R)
@@ -191,7 +191,7 @@
 - [Economics and Data Science](https://github.com/vkoul/Econ-Data-Science) (Resources)
 - Jonathan Hersh - [Introduction to Machine Learning](https://github.com/jonhersh/MGSC310) (R)
 - Melissa Dell - [Unleashing Novel Data at Scale](https://dell-research-harvard.github.io/overview/2021/01/23/about.html) (Python)
-- Susan Athey's [video on youtube](https://www.youtube.com/results?search_query=Susan+Athey+machine+learning)
+- Susan Athey's [video on youtube](https://www.youtube.com/results?search_query=Susan+Athey+machine+learning) / [Machine Learning & Causal Inference: A Short Course](https://www.youtube.com/playlist?list=PLxq_lXOUlvQAoWZEqhRqHNezS30lI49G-)
 - [Macroeconomic Analysis with Machine Learning and Big Data](https://github.com/yangycpku/macro_ML)
 - Jesús Fernández-Villaverde - Machine Learning for Macroeconomics ([slide](https://www.sas.upenn.edu/~jesusfv/teaching.html); [video](https://www.youtube.com/watch?v=ky5lTihMlU0))
 - Simon Scheidegger - [Advanced Methods in Computational Economics](https://github.com/sischei/crest_comp_econ)
@@ -232,6 +232,7 @@
 
 - Richard McElreath - [Statistical Rethinking: A Bayesian Course with Examples in R and Stan (& PyMC3 & brms & Julia)](https://xcelab.net/rm/statistical-rethinking/)
 - Aki Vehtari - [Bayesian Data Analysis course](https://avehtari.github.io/BDA_course_Aalto/index.html) (R)
+- Robert Tucci - [Bayesuvius: a visual dictionary of Bayesian Networks and Causal Inference](https://qbnets.wordpress.com/2020/11/30/my-free-book-bayesuvius-on-bayesian-networks/)
 
 
 
