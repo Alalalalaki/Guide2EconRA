@@ -27,6 +27,7 @@
 ### Lecture - Theory
 
 - UvA - [Machine Learning 1](https://uvaml1.github.io/)
+- [CompSci program UiO](https://www.youtube.com/watch?v=C8dL1pLUJ3A&list=PLIEKvjLjWd_fwRsIbdl1Aez5gbwsG8Wmc)
 
 ### NLP / Text Tutorials
 
@@ -37,12 +38,14 @@
 - [Supervised Machine Learning for Text Analysis in R](https://smltar.com/)
 - [Stanford CS224N: Natural Language Processing with Deep Learning | Winter 2021](https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ)
 - Elliott Ash - [PhD course on text data in economics](https://github.com/elliottash/text_econ_2022)
+- [CS25: Transformers United](https://web.stanford.edu/class/cs25/)
+- [Transformer Recipe](https://github.com/dair-ai/Transformers-Recipe)
 
 ### Deep Learning Tutorials
 
 - [MIT 6.S191 Introduction to Deep Learning](http://introtodeeplearning.com/)
-- [CS25: Transformers United](https://web.stanford.edu/class/cs25/)
 - [Deep Reinforcement Learning Course](https://huggingface.co/deep-rl-course/unit0/introduction)
+- Gilíes Lorppe - [INFO8006 Introduction to Artificial Intelligence](https://github.com/glouppe/info8006-introduction-to-ai) / [INFO8010 Deep Learning](https://github.com/glouppe/dats0001-foundations-of-data-science) / [INFO8004 Advanced Machine Learning](https://github.com/glouppe/info8004-advanced-machine-learning) / [INFO8002 Large-scale data systems](https://github.com/glouppe/info8002-large-scale-data-systems)
 
 ### Interpretability Tutorials
 

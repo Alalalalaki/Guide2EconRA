@@ -82,5 +82,6 @@
 ## Other-Fields
 
 - [Data Science in Julia for Hackers](https://datasciencejuliahackers.com/)
+- [MIT_18.S097 Special Subject in Mathematics: Introduction to Julia for Data Science](https://github.com/pszufe/MIT_18.S097_Introduction-to-Julia-for-Data-Science)
 - [Bayesian Statistics using Julia and Turing](https://storopoli.io/Bayesian-Julia/)
 

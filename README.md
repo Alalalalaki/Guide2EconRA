@@ -109,7 +109,7 @@
 - Paul Schrimpf - Computational Economics with Data Science Applications [2019](https://github.com/ubcecon/ECON622_2019), [2020](https://github.com/ubcecon/ECON622_2020)
 - Paul Schrimpf - [UBC ECON567 IO](https://github.com/UBCECON567)
 - Ivan Rudik - [Environmental and Resource Economics (computational methods for economics / Dynamic Optimization)](https://github.com/AEM7130/class-repo)
-- Tyler Ransom - Econometrics III [2020](https://github.com/OU-PhD-Econometrics/fall-2020), [2021](https://github.com/OU-PhD-Econometrics/fall-2021)
+- Tyler Ransom - Econometrics III (structural estimation, machine learning) [2020](https://github.com/OU-PhD-Econometrics/fall-2020), [2021](https://github.com/OU-PhD-Econometrics/fall-2021)
 - Michael Creel - [Econometrics lecture notes with examples using the Julia language](https://github.com/mcreel/Econometrics)
 - Bradley J. Setzler - [An Introduction to Structural Econometrics in Julia](https://juliaeconomics.com/tutorials/)
 - Florian Oswald - [Computational Economics for PhDs](https://scpo-compecon.github.io/CoursePack/) ([2021](https://github.com/floswald/NumericalMethods))
@@ -140,7 +140,7 @@
 
 ## R - Econ Lectures
 
-- Maximilian Kasy - Advanced Econometrics and Machine Learning: [2019](https://maxkasy.github.io/home/TopicsInEconometrics2019/), [2020](https://maxkasy.github.io/home/ML_Oxford_2020/), [2021](https://maxkasy.github.io/home/ML_Oxford_2021/) / collection of [useful computation links on R and ML](https://maxkasy.github.io/home/computationlinks/)
+- Maximilian Kasy - Advanced Econometrics and Machine Learning: [2019](https://maxkasy.github.io/home/TopicsInEconometrics2019/), [2020](https://maxkasy.github.io/home/ML_Oxford_2020/), [2021](https://maxkasy.github.io/home/ML_Oxford_2021/), [2023](https://maxkasy.github.io/home/ML_Oxford_2023/) / collection of [useful computation links on R and ML](https://maxkasy.github.io/home/computationlinks/)
 - Nick Huntington-Klein - [Economics, Causality, and Analytics](https://github.com/NickCH-K/introcausality) / [R resources](http://nickchk.com/econometrics.html) / [Causal Inference](https://github.com/NickCH-K/CausalitySlides) / [DataCommSlides](https://nickch-k.github.io/DataCommSlides/)
 - Francis J. DiTraglia - [Statistical Learning and Causal Inference for Economics](https://github.com/fditraglia/econ224)
 - Tom O'Grady - [Causal-Inference-for-Beginning-Undergraduates](https://github.com/tomogradyucl/Causal-Inference-for-Beginning-Undergraduates)
@@ -153,6 +153,7 @@
 - Sebastian Kranz - [Empirical Economics with R](https://github.com/skranz/empecon) / [Market Analysis with Econometrics and Machine Learning](https://github.com/skranz/MarketAnalysis)
 - Florian Oswald, et al. - [Introduction to Econometrics with R](https://scpoecon.github.io/ScPoEconometrics/) / [Advanced Econometrics](https://github.com/ScPoEcon/Advanced-Metrics-slides)
 - David Childers - [Econometrics II (U)](https://donskerclass.github.io/EconometricsII.html)
+- Nick Hagerty - [Advanced Data Analytics in Economics](https://github.com/msu-econ-data-analytics/course-materials)
 
 
 
@@ -244,6 +245,7 @@
 - [Software Carpentry](https://software-carpentry.org/lessons/index.html)
 - [Harvard CS50](https://cs50.harvard.edu/)
 - [NormConf: The NormCore Tech Conference](https://www.youtube.com/@normconf/videos)
+- MIT: [Introduction To Computer Science And Programming](https://ocw.mit.edu/courses/6-00-introduction-to-computer-science-and-programming-fall-2008/) / [Introduction To Computer Science And Programming In Python](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/) / [Software Construction](https://ocw.mit.edu/courses/6-005-software-construction-spring-2016/) / [Introduction To Computational Thinking And Data Science](https://ocw.mit.edu/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/)
 
 
 
@@ -301,7 +303,7 @@
 - [Draw DAGs with TikZ](https://www.nsgrantham.com/draw-dags-tikz)
 - [For Beautiful Presentations - Use ~~PowerPoint~~ BEAMER](https://latex-beamer.com/tutorials/) 
 - [A LaTeX Power Up](https://scholar.harvard.edu/files/nataliaemanuel/files/latex_powerup_slides.pdf) / [A Basic Beamer Power Up](https://scholar.harvard.edu/files/nataliaemanuel/files/beamer_powerup.pdf) - Natalia Emanuel
-- [latex-math tips](https://github.com/pmichaillat/latex-math) / [latex-paper template](https://github.com/pmichaillat/latex-paper) - Pascal Michaillat
+- [latex-math tips](https://github.com/pmichaillat/latex-math) / [latex-paper template](https://github.com/pmichaillat/latex-paper) ([explanation](https://pmichaillat.substack.com/p/a-minimalist-template-for-academic-d82?utm_source=twitter&utm_campaign=auto_share&r=1tyqho)) / [latex-slide template](LaTeX template for academic presentations) ([explanation](https://pmichaillat.substack.com/p/a-minimalist-template-for-academic)) - Pascal Michaillat
 - Beamer theme: [Jambro Beamer theme](https://github.com/ambropo/JambroBeamerTheme)
 
 
@@ -368,7 +370,7 @@
 - Ivan Rudik - [Environmental and Resource Economics](https://github.com/irudik/aem6510)
 - José Luis Montiel Olea - [IntroEconometrics-Ph.D](https://github.com/jm4474/Courses-IntroEconometrics-Ph.D) / [TimeSeries-UG](https://github.com/jm4474/Courses-TimeSeries-Undergraduate)
 - Jonathan Conning - [Development Microeconomics](https://github.com/jhconning/Dev-II) / [(UG) International Trade](https://github.com/jhconning/Trade340)
-- Maximilian Kasy - [Labor Economics (UG)](https://maxkasy.github.io/home/teaching/)
+- Maximilian Kasy - [Labor Economics (UG)](https://maxkasy.github.io/home/teaching/) / [Empirical research on economic inequality](http://inequalityresearch.net/)
 - Florian Oswald - graduate labor ([2018](https://floswald.github.io/ScPo-Labor/index.html))
 - Thibaut Lamadon - [Micro-econometric methods (UG)](http://econ21130.lamadon.com/) / [Big data tools for economics (UG)](http://econ21340.lamadon.com/) / [Topics in Labor (PhD)](http://econ34430.lamadon.com/)
 
