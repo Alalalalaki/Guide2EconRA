@@ -10,7 +10,7 @@
 - [an AEA-compliant replication package that might serve as a useful template](https://github.com/reifjulian/driving)
 - [A short example of how to update a replication package](https://twitter.com/AeaData/status/1590397630944661504)
 - [data provenance Q&A](https://twitter.com/AeaData/status/1592921505129807874)
-- ([A Japanese note on AEA replication check](https://note.com/keisemi/n/nd4cc0ffc5946))
+- ([A Japanese note on AEA replication check](https://note.com/keisemi/n/nd4cc0ffc5946) and [related Japanese article](https://buildersbox.corp-sansan.com/entry/2023/02/27/110000))
 
 ### Template
 

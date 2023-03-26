@@ -46,6 +46,8 @@
 - [MIT 6.S191 Introduction to Deep Learning](http://introtodeeplearning.com/)
 - [Deep Reinforcement Learning Course](https://huggingface.co/deep-rl-course/unit0/introduction)
 - Gilíes Lorppe - [INFO8006 Introduction to Artificial Intelligence](https://github.com/glouppe/info8006-introduction-to-ai) / [INFO8010 Deep Learning](https://github.com/glouppe/dats0001-foundations-of-data-science) / [INFO8004 Advanced Machine Learning](https://github.com/glouppe/info8004-advanced-machine-learning) / [INFO8002 Large-scale data systems](https://github.com/glouppe/info8002-large-scale-data-systems)
+- [pytorch-deep-learning](https://github.com/mrdbourke/pytorch-deep-learning)
+- [D2L.ai: Interactive Deep Learning Book with Multi-Framework Code, Math, and Discussions](https://github.com/d2l-ai/d2l-en) ([Chinese version](https://github.com/d2l-ai/d2l-zh))
 
 ### Interpretability Tutorials
 
