@@ -152,7 +152,7 @@
 - Matt Woerman - [Topics in Advanced Econometrics](https://github.com/woerman/ResEcon703) 
 - Sebastian Kranz - [Empirical Economics with R](https://github.com/skranz/empecon) / [Market Analysis with Econometrics and Machine Learning](https://github.com/skranz/MarketAnalysis)
 - Florian Oswald, et al. - [Introduction to Econometrics with R](https://scpoecon.github.io/ScPoEconometrics/) / [Advanced Econometrics](https://github.com/ScPoEcon/Advanced-Metrics-slides)
-- David Childers - [Econometrics II (U)](https://donskerclass.github.io/EconometricsII.html)
+- David Childers - [Econometrics II (U)](https://donskerclass.github.io/EconometricsII.html) / [Causal Econometrics](https://donskerclass.github.io/CausalEconometrics.html)
 - Nick Hagerty - [Advanced Data Analytics in Economics](https://github.com/msu-econ-data-analytics/course-materials)
 
 

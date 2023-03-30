@@ -21,20 +21,6 @@
 
 - [ggdag](https://github.com/malcolmbarrett/ggdag)
 
-### Economics
-
-- [econocharts](https://github.com/R-CoderDotCom/econocharts/)
-
-### Econometrics
-
-- [tidysynth](https://github.com/edunford/tidysynth)
-- [fixest](https://lrberge.github.io/fixest/)
-- ...
-
-**Learning**
-
-- [hayashir](https://github.com/lachlandeer/hayashir)
-
 ### Formating
 
 - [styler](https://github.com/r-lib/styler)
@@ -43,6 +29,28 @@
 ### Teaching
 
 - [RTutor](https://github.com/skranz/RTutor) / [CoursesWithR](https://github.com/skranz/CoursesWithR)
+
+---
+
+## Packages - Econ(ometrics)
+
+### Economics
+
+- [econocharts](https://github.com/R-CoderDotCom/econocharts/)
+
+### Econometrics (unsorted)
+
+- [tidysynth](https://github.com/edunford/tidysynth)
+- [fixest](https://lrberge.github.io/fixest/)
+- ...
+
+### DID
+
+- [DiD R packages](https://asjadnaqvi.github.io/DiD/docs/02_R/)
+
+#### Learning
+
+- [hayashir](https://github.com/lachlandeer/hayashir)
 
 ---
 
