@@ -49,11 +49,12 @@
 - [pytorch-deep-learning](https://github.com/mrdbourke/pytorch-deep-learning)
 - [D2L.ai: Interactive Deep Learning Book with Multi-Framework Code, Math, and Discussions](https://github.com/d2l-ai/d2l-en) ([Chinese version](https://github.com/d2l-ai/d2l-zh))
 
-### Interpretability Tutorials
+### Interpretability Tutorials/Tools
 
 - [Responsible Machine Learning with Python](https://github.com/jphall663/interpretable_machine_learning_with_python)
 - [H2O.ai Machine Learning Interpretability Resources](https://github.com/h2oai/mli-resources)
 - [Case studies for eXplainable Artificial Intelligence](https://github.com/pbiecek/xai_stories)
+- [High-Performance Symbolic Regression in Python and Julia](https://github.com/MilesCranmer/PySR)
 
 ### Links
 

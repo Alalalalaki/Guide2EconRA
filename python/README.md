@@ -31,7 +31,7 @@
 - [statsmodels](https://www.statsmodels.org/stable/index.html)
 - [linearmodels](https://bashtage.github.io/linearmodels/)
 - [pingouin](https://pingouin-stats.org/)
-- [fastreg](https://github.com/iamlemec/fastreg) / [pyfixest](https://github.com/s3alfisc/pyfixest)
+- [fastreg](https://github.com/iamlemec/fastreg) / [pyfixest](https://github.com/s3alfisc/pyfixest) 
 - [specification_curve](https://specification-curve.readthedocs.io/en/latest/readme.html)
 - [Stargazer](https://github.com/mwburke/stargazer)
 - [spreg](https://github.com/pysal/spreg)

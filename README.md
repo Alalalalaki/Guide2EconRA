@@ -38,7 +38,7 @@
 - Michael Keane - [Practical Issues in Structural Estimation](https://www.youtube.com/watch?v=0hazaPBAYWE)
 - Chris Taber -  [Estimation of Policy Counterfactuals](https://hceconomics.uchicago.edu/sites/default/files/file_uploads/policy16.pdf) / [Structural Estimation](https://www.ssc.wisc.edu/~ctaber/718/struct.pdf) 
 - Tony Smith - [Tips for Doing Computational Work in Economics](http://www.econ.yale.edu/smith/econ561a/compute6.pdf)
-- [Australian Summer School in Dynamic Structural Econometrics](https://github.com/dseconf/DSE2022AUS)
+- [Dynamic Structural Econometrics](https://dseconf.org/#) Summer School & Conference Series 
 - Robert A. Miller - [STRUCTURAL ECONOMETRICS](http://comlabgames.com/structuraleconometrics/)
 
 
@@ -100,6 +100,7 @@
 - [Introduction to Data Science and Programming](https://github.com/mszell/introdatasci)
 - Cliburn - [Computational Statistics and Statistical Computing](https://github.com/cliburn/sta-663-2021)
 - [The Hitchhiker's Guide to Data Science for Social Good](https://github.com/dssg/hitchhikers-guide)
+- [Geographic Data Science with Python](https://geographicdata.science/book/intro.html)
 
 
 
@@ -191,11 +192,13 @@
 - Dawie van Lill - [Data Science for Economics](https://github.com/DawievLill/DataScience-871) (Python)
 - [Economics and Data Science](https://github.com/vkoul/Econ-Data-Science) (Resources)
 - Jonathan Hersh - [Introduction to Machine Learning](https://github.com/jonhersh/MGSC310) (R)
-- Melissa Dell - [Unleashing Novel Data at Scale](https://dell-research-harvard.github.io/overview/2021/01/23/about.html) (Python)
+- Melissa Dell - [Unleashing Novel Data at Scale](https://dell-research-harvard.github.io/overview/2021/01/23/about.html) (Python) / [Deep Learning for Economics](https://www.youtube.com/playlist?list=PLGTgQIsun7ueGTRzDlBWqgX6xBlMce-QC)
 - Susan Athey's [video on youtube](https://www.youtube.com/results?search_query=Susan+Athey+machine+learning) / [Machine Learning & Causal Inference: A Short Course](https://www.youtube.com/playlist?list=PLxq_lXOUlvQAoWZEqhRqHNezS30lI49G-)
 - [Macroeconomic Analysis with Machine Learning and Big Data](https://github.com/yangycpku/macro_ML)
 - Jesús Fernández-Villaverde - Machine Learning for Macroeconomics ([slide](https://www.sas.upenn.edu/~jesusfv/teaching.html); [video](https://www.youtube.com/watch?v=ky5lTihMlU0))
-- Simon Scheidegger - [Advanced Methods in Computational Economics](https://github.com/sischei/crest_comp_econ)
+- Simon Scheidegger - [Advanced Methods in Computational Economics](https://github.com/sischei/crest_comp_econ) 
+- Goutham Gopalakrishna - [mini lecture on Deep Learning and Macro-Finance Models](https://bcf.princeton.edu/events/mini-lecture-deep-learning-and-macrofinance/)
+- European Central Bank Machine Learning Training - [Machine learning for econometricians](https://egallic.fr/Enseignement/ML/ECB/) (R)
 
 
 
@@ -209,6 +212,7 @@
 - Bradley Boehmke, Brandon Greenwell - [Hands-On Machine Learning with R](https://bradleyboehmke.github.io/HOML/) (R)
 - Bloomberg - [Foundations of Machine Learning](https://bloomberg.github.io/foml/#lectures) 
 - fast.ai: [Deep Learning / Practical Data Ethics / Computational Linear Algebra / NLP](https://www.fast.ai/) (Python)
+- Klaus-Robert Müller - [Julia programming for ML](https://adrhill.github.io/julia-ml-course/#julia_programming_for_ml) (Julia)
 
 
 
@@ -320,6 +324,7 @@
 - [Learn regex the easy way](https://github.com/ziishaned/learn-regex)
 - [Online regex tester and debugger](https://regex101.com/) (also [this](https://regexr.com/))
 - [AutoRegex](https://www.autoregex.xyz/)
+- [AI-Powered Regular Expression Solver](https://regex.ai/)
 
 
 

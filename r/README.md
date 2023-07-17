@@ -7,6 +7,7 @@
 ### Spatial
 
 - [R as GIS for Economists](https://tmieno2.github.io/R-as-GIS-for-Economists/index.html)
+- [Geocomputation with R](https://r.geocompx.org/index.html)
 
 ### Unsorted
 
