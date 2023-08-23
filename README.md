@@ -49,13 +49,13 @@
 - Scott Cunningham - [Causal Inference The Mixtape](https://mixtape.scunning.com/index.html) / [Mixtape-Sessions](https://github.com/Mixtape-Sessions)
 - Nick Huntington-Klein - [The Effect: An Introduction to Research Design and Causality](https://theeffectbook.net/index.html) /  [Library of Statistical Techniques](https://lost-stats.github.io/)
 - Christine Cai - [Literature on Recent Advances in Applied Micro Methods](https://christinecai.github.io/PublicGoods/applied_micro_methods.pdf)
-- Asjad Naqvi - [Diff-in-Diff-Literature](https://asjadnaqvi.github.io/DiD/)
 - [mostly-harmless-replication in Stata, R, Python and Julia](https://github.com/vikjam/mostly-harmless-replication)
 - Hernán MA, Robins JM (2020). [Causal Inference: What If.](https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/)
 - Brady Neal - [Introduction to Causal Inference from a Machine Learning Perspective](https://www.bradyneal.com/causal-inference-course)
 - David Childers - [Causal Econometrics](https://donskerclass.github.io/CausalEconometrics.html)
 - Kosuke Imai - [Causal Inference with Applications](https://imai.fas.harvard.edu/teaching/cause.html)
 - Matheus Facure Alves - [Causal Inference for The Brave and True](https://matheusfacure.github.io/python-causality-handbook/landing-page.html)
+- [Awesome Causal Inference (resource)](https://github.com/matteocourthoud/awesome-causal-inference/)
 
 
 

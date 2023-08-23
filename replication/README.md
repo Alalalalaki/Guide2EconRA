@@ -12,6 +12,10 @@
 - [data provenance Q&A](https://twitter.com/AeaData/status/1592921505129807874)
 - ([A Japanese note](https://note.com/keisemi/n/nefd84cb06add) and [links](https://note.com/keisemi/n/nd4cc0ffc5946) on AEA replication check and [related Japanese article](https://buildersbox.corp-sansan.com/entry/2023/02/27/110000))
 
+### Other Journals
+
+- [EJ Data Editor](https://ejdataeditor.github.io/)
+
 ### Template
 
 - [A template README for social science replication packages](https://github.com/social-science-data-editors/template_README) 

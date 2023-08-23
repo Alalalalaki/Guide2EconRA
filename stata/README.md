@@ -1,6 +1,8 @@
 
 
+Resource
 
+- [series of econometric code](https://mp.weixin.qq.com/s/4oF3gaVK6cPRgkIWrlv7ug) (Chinese)
 
 Plot
 
