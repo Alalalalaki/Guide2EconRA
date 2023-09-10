@@ -15,6 +15,15 @@
 - Asjad Naqvi - [Diff-in-Diff-Literature](https://asjadnaqvi.github.io/DiD/)
 - Fernando Rios-Avila - [Playing with Stata](https://friosavila.github.io/playingwithstata/index.html)
 
+
+
+### Statistical Inference
+
+- [A User’s Guide to Statistical Inference and Regression](https://mattblackwell.github.io/gov2002-book/)
+- [Statistical Tools for Causal Inference](https://chabefer.github.io/STCI/)
+
+
+
 ### ML + Causal Inference
 
 - [Four Lectures on Causality](https://stat.mit.edu/news/four-lectures-causality/) / [Elements of Causal Inference: Foundations and Learning Algorithms](https://mitp-content-server.mit.edu/books/content/sectbyfn?collid=books_pres_0&id=11283&fn=11283.pdf)

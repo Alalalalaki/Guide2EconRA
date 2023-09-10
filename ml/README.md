@@ -28,6 +28,7 @@
 
 - UvA - [Machine Learning 1](https://uvaml1.github.io/)
 - [CompSci program UiO](https://www.youtube.com/watch?v=C8dL1pLUJ3A&list=PLIEKvjLjWd_fwRsIbdl1Aez5gbwsG8Wmc)
+- Andrew Ng - Machine Learning ([videos](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)/[notes](https://cs229.stanford.edu/main_notes.pdf)/[more](https://cs229.stanford.edu/))
 
 ### NLP / Text Tutorials
 

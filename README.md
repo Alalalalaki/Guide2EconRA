@@ -57,6 +57,8 @@
 - Matheus Facure Alves - [Causal Inference for The Brave and True](https://matheusfacure.github.io/python-causality-handbook/landing-page.html)
 - [Awesome Causal Inference (resource)](https://github.com/matteocourthoud/awesome-causal-inference/)
 
+(see [inference](inference/) for more)
+
 
 
 ## Python - Econ Lectures
