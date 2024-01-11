@@ -230,7 +230,7 @@
 - [The Stata Guide on Medium](https://medium.com/the-stata-guide) / [Stata-schemes](https://github.com/asjadnaqvi/Stata-schemes) - Asjad Naqvi
 - Germán Rodríguez - [Stata + R + GLMs + Multilevel + Survival + Demography](https://data.princeton.edu/)
 - [Stata instructions for research projects](https://github.com/skhiggins/Stata_guide)
-- [Stata tips](https://twitter.com/toddrjones/status/1560330744089546752)
+- [Quick Stata Tips](https://www.toddrjones.com/quickstatatips/)
 - [Top 25 Stata Visualizations With Full Code](https://medium.com/the-stata-gallery/top-25-stata-visualizations-with-full-code-668b5df114b6)
 
 
@@ -340,6 +340,7 @@
 - Kieran Healy - [Data Visualization - A practical introduction](https://socviz.co/index.html)
 - [ggplot2: Elegant Graphics for Data Analysis](https://ggplot2-book.org/)
 - Claus O. Wilke - [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/) 
+- [Friends Don't Let Friends Make Bad Graphs](https://github.com/cxli233/FriendsDontLetFriends) (R)
 
 
 
@@ -399,4 +400,5 @@
 - Brendan Price - [Resources](https://www.brendanmichaelprice.com/resources/)
 - Alex Albright - [(mainly R) Resources](https://www.albrightalex.com/public-goods) 
 - Claes Bäckman - [Resources](https://sites.google.com/view/claesbackman/tips-for-phd-students)
+- [Advice for Phd Students in Economics](https://sites.google.com/view/econgradadvice/)
 

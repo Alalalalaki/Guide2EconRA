@@ -12,6 +12,7 @@
 - Bradley Efron, Trevor Hastie - [Computer Age Statistical Inference: Algorithms, Evidence and Data Science](https://web.stanford.edu/~hastie/CASI/index.html)
 - Christophe Gaillac, J ́er ́emy L’Hour - [Machine Learning for Econometrics](https://sites.google.com/site/jeremylhour/courses)
 - Kevin P. Murphy - [Probabilistic Machine Learning](https://probml.github.io/pml-book/book1.html)
+- Simon J.D. Prince - [Understanding Deep Learning](https://udlbook.github.io/udlbook/)
 
 ### Textbook - Python
 
@@ -41,6 +42,7 @@
 - Elliott Ash - [PhD course on text data in economics](https://github.com/elliottash/text_econ_2022)
 - [CS25: Transformers United](https://web.stanford.edu/class/cs25/)
 - [Transformer Recipe](https://github.com/dair-ai/Transformers-Recipe)
+- [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/)  
 
 ### Deep Learning Tutorials
 
