@@ -66,6 +66,7 @@
 - [Awesome Machine Learning and AI Courses](https://github.com/luspr/awesome-ml-courses)
 - [ML YouTube Courses](https://github.com/dair-ai/ML-YouTube-Courses)
 - [awesome-machine-learning-interpretability](https://github.com/jphall663/awesome-machine-learning-interpretability)
+- [AI for Economists: Prompts & Resources](https://sites.google.com/view/lastunen/ai-for-economists?authuser=0)
 
 ### Math
 

@@ -201,6 +201,8 @@
 - Simon Scheidegger - [Advanced Methods in Computational Economics](https://github.com/sischei/crest_comp_econ) 
 - Goutham Gopalakrishna - [mini lecture on Deep Learning and Macro-Finance Models](https://bcf.princeton.edu/events/mini-lecture-deep-learning-and-macrofinance/)
 - European Central Bank Machine Learning Training - [Machine learning for econometricians](https://egallic.fr/Enseignement/ML/ECB/) (R)
+- [Applied Causal Inference Powered by ML and AI](https://causalml-book.org/) (Python; R)
+- Zhigang Feng - [Machine Learning for Quant Macro](https://sites.google.com/site/zfeng202/machine-learning-for-quant-macro?authuser=0)
 
 
 
