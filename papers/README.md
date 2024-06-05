@@ -21,4 +21,5 @@
 - Tarr, A., & Imai, K. (2021). [Estimating average treatment effects with support vector machines](https://github.com/atarr3/svmcausal-data). arXiv preprint arXiv:2102.11926.
 - Grieco, P. L., Murry, C., Pinkse, J., & Sagl, S. (2022). Conformant and efficient estimation of discrete choice demand models. Unpublished Manuscript. ([Julia](https://twitter.com/PinkseJoris/status/1662104890376683526))
 - Pascal, J. (2023). [Artificial neural networks to solve dynamic programming problems: A bias-corrected Monte Carlo operator](https://github.com/JulienPascal/bc-MC_Operator/tree/main). Working paper.
+- Aguiar, V. H., & Kashaev, N. (2019). [Identification and Estimation of Discrete Choice Models with Unobserved Choice Sets](https://github.com/nkashaev/Replication_UCS). WP.
 

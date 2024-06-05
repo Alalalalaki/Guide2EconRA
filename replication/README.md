@@ -14,7 +14,7 @@
 
 ### Other Journals
 
-- [EJ Data Editor](https://ejdataeditor.github.io/)
+- [EJ Data Editor](https://ejdataeditor.github.io/) ([Stata versioning](https://ejdataeditor.github.io/posts/20240505-stataversions/))
 
 ### Template
 

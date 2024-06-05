@@ -157,6 +157,7 @@
 - Florian Oswald, et al. - [Introduction to Econometrics with R](https://scpoecon.github.io/ScPoEconometrics/) / [Advanced Econometrics](https://github.com/ScPoEcon/Advanced-Metrics-slides)
 - David Childers - [Econometrics II (U)](https://donskerclass.github.io/EconometricsII.html) / [Causal Econometrics](https://donskerclass.github.io/CausalEconometrics.html)
 - Nick Hagerty - [Advanced Data Analytics in Economics](https://github.com/msu-econ-data-analytics/course-materials)
+- Thibaut Lamadon - [Topics in microeconometrics](https://econ31130.lamadon.com/index.html)
 
 
 
@@ -177,6 +178,7 @@
 - Kyle Walker - [Analyzing US Census Data: Methods, Maps, and Models in R](https://walker-data.com/census-r/)
 - [Summer Institutes in Computational Social Science](https://github.com/compsocialscience/summer-institute)
 - Jenny Bryan - [Data wrangling, exploration, and analysis with R](https://stat545.com/)
+- Mike Nguyen - [A Guide on Data Analysis](https://bookdown.org/mike/data_analysis/)
 
 
 
