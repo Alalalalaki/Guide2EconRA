@@ -28,6 +28,7 @@
 - [The Turing Way](https://the-turing-way.netlify.app/welcome.html) (a lightly opinionated guide to reproducible data science)
 - Fernando Hoces - [Accelerating Computational Reproducibility in Economics](https://fhoces.github.io/ACRE-slides-bids/#1) 
 - [The Good Research Code Handbook](https://goodresearch.dev/)
+- [Principles of Project Setup and Workflow Management](https://tilburgsciencehub.com/topics/automation/workflows/starting/principles-of-project-setup-and-workflow-management/project-setup-overview/)
 
 (see [replication](replication/) for more)
 
@@ -55,6 +56,7 @@
 - David Childers - [Causal Econometrics](https://donskerclass.github.io/CausalEconometrics.html)
 - Kosuke Imai - [Causal Inference with Applications](https://imai.fas.harvard.edu/teaching/cause.html)
 - Matheus Facure Alves - [Causal Inference for The Brave and True](https://matheusfacure.github.io/python-causality-handbook/landing-page.html)
+- Peng Ding - [First Course in Causal Inference](https://arxiv.org/abs/2305.18793) ([python implementation](https://github.com/apoorvalal/ding_causalInference_python))
 - [Awesome Causal Inference (resource)](https://github.com/matteocourthoud/awesome-causal-inference/)
 
 (see [inference](inference/) for more)
@@ -350,7 +352,8 @@
 
 ## Unsorted
 
-- (a real) [Econ RA Guide](https://raguide.github.io/)
+- (a real) [Econ RA Guide](https://raguide.github.io/) 
+- [Guidelines for Research Assistants](https://github.com/skhiggins/ra_guide?tab=readme-ov-file#2-keeping-files-organized)
 - Aruoba, S. B., & Fernández-Villaverde, J. (2018). [A comparison of programming languages in economics](https://www.sas.upenn.edu/~jesusfv/research.html).
 - [Awesome Scientific Writing](https://github.com/ashwinvis/awesome-scientific-writing)
 - [awesome-causality-algorithms](https://github.com/rguo12/awesome-causality-algorithms)
