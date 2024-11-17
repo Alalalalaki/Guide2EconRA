@@ -317,6 +317,7 @@
 - [A LaTeX Power Up](https://scholar.harvard.edu/files/nataliaemanuel/files/latex_powerup_slides.pdf) / [A Basic Beamer Power Up](https://scholar.harvard.edu/files/nataliaemanuel/files/beamer_powerup.pdf) - Natalia Emanuel
 - [latex-math tips](https://github.com/pmichaillat/latex-math) / [latex-paper template](https://github.com/pmichaillat/latex-paper) ([explanation](https://pmichaillat.substack.com/p/a-minimalist-template-for-academic-d82?utm_source=twitter&utm_campaign=auto_share&r=1tyqho)) / [latex-slide template](LaTeX template for academic presentations) ([explanation](https://pmichaillat.substack.com/p/a-minimalist-template-for-academic)) - Pascal Michaillat
 - Beamer theme: [Jambro Beamer theme](https://github.com/ambropo/JambroBeamerTheme)
+- [Using PGFPLOTS to make economic graphs in LATEX](https://jackypacky.github.io/pgf-econ-graphs/guide.pdf)
 
 
 
