@@ -181,6 +181,7 @@
 - [Summer Institutes in Computational Social Science](https://github.com/compsocialscience/summer-institute)
 - Jenny Bryan - [Data wrangling, exploration, and analysis with R](https://stat545.com/)
 - Mike Nguyen - [A Guide on Data Analysis](https://bookdown.org/mike/data_analysis/)
+- Jae Yeon Kim - [Computational Thinking for Social Scientists](https://jaeyk.github.io/comp_thinking_social_science/)
 
 
 

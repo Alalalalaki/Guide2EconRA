@@ -28,6 +28,7 @@
 ### ML + Causal Inference
 
 - [Four Lectures on Causality](https://stat.mit.edu/news/four-lectures-causality/) / [Elements of Causal Inference: Foundations and Learning Algorithms](https://mitp-content-server.mit.edu/books/content/sectbyfn?collid=books_pres_0&id=11283&fn=11283.pdf)
+- [awesome-causality-algorithms](https://github.com/rguo12/awesome-causality-algorithms)
 
 
 

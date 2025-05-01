@@ -17,6 +17,10 @@
 
 ## Python Packages
 
+### Collection
+
+- [Python Packages for Applied Economists](https://github.com/clibassi/python-packages-for-applied-economists/blob/main/GUIDE.md)
+
 ### Econ
 
 - [quantecon](https://github.com/QuantEcon/QuantEcon.py) / [interpolation](https://github.com/EconForge/interpolation.py)

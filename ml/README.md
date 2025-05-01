@@ -38,16 +38,19 @@
 - [NYU Text as Data Lab](https://github.com/leslie-huang/TextasDataLabSpring2020) (R)
 - Gensim Topic modelling for humans - [Tutorials](https://radimrehurek.com/gensim/auto_examples/index.html) (Python)
 - [Supervised Machine Learning for Text Analysis in R](https://smltar.com/)
-- [Stanford CS224N: Natural Language Processing with Deep Learning | Winter 2021](https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ)
+- [Stanford CS224N: Natural Language Processing with Deep Learning](https://web.stanford.edu/class/cs224n/)
+- [CMU CS11-711 Advanced Natural Language Processing](https://phontron.com/class/anlp2024/)
 - Elliott Ash - [PhD course on text data in economics](https://github.com/elliottash/text_econ_2022)
 - [CS25: Transformers United](https://web.stanford.edu/class/cs25/)
 - [Transformer Recipe](https://github.com/dair-ai/Transformers-Recipe)
 - [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/)  
+- [Stanford CS324 - Large Language Models](https://stanford-cs324.github.io/winter2022/)
+- [Hugging Face - LLM Course](https://huggingface.co/learn/llm-course/chapter1/1)
 
 ### Deep Learning Tutorials
 
 - [MIT 6.S191 Introduction to Deep Learning](http://introtodeeplearning.com/)
-- [Deep Reinforcement Learning Course](https://huggingface.co/deep-rl-course/unit0/introduction)
+- [Hugging Face - Deep Reinforcement Learning Course](https://huggingface.co/deep-rl-course/unit0/introduction)
 - Gilíes Lorppe - [INFO8006 Introduction to Artificial Intelligence](https://github.com/glouppe/info8006-introduction-to-ai) / [INFO8010 Deep Learning](https://github.com/glouppe/dats0001-foundations-of-data-science) / [INFO8004 Advanced Machine Learning](https://github.com/glouppe/info8004-advanced-machine-learning) / [INFO8002 Large-scale data systems](https://github.com/glouppe/info8002-large-scale-data-systems)
 - [pytorch-deep-learning](https://github.com/mrdbourke/pytorch-deep-learning)
 - [D2L.ai: Interactive Deep Learning Book with Multi-Framework Code, Math, and Discussions](https://github.com/d2l-ai/d2l-en) ([Chinese version](https://github.com/d2l-ai/d2l-zh))
