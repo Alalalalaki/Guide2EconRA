@@ -31,22 +31,6 @@
 - [CompSci program UiO](https://www.youtube.com/watch?v=C8dL1pLUJ3A&list=PLIEKvjLjWd_fwRsIbdl1Aez5gbwsG8Wmc)
 - Andrew Ng - Machine Learning ([videos](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)/[notes](https://cs229.stanford.edu/main_notes.pdf)/[more](https://cs229.stanford.edu/))
 
-### NLP / Text Tutorials
-
-- Lefteris Jason Anastasopoulos - [Modern Text Analysis and Machine Learning for Social Research](https://github.com/ljanastas/UGA_POLS-8500-Machine-Learning-Text-Analysis) (R)
-- [Oxford Deep NLP 2017 course](https://github.com/oxford-cs-deepnlp-2017/lectures)
-- [NYU Text as Data Lab](https://github.com/leslie-huang/TextasDataLabSpring2020) (R)
-- Gensim Topic modelling for humans - [Tutorials](https://radimrehurek.com/gensim/auto_examples/index.html) (Python)
-- [Supervised Machine Learning for Text Analysis in R](https://smltar.com/)
-- [Stanford CS224N: Natural Language Processing with Deep Learning](https://web.stanford.edu/class/cs224n/)
-- [CMU CS11-711 Advanced Natural Language Processing](https://phontron.com/class/anlp2024/)
-- Elliott Ash - [PhD course on text data in economics](https://github.com/elliottash/text_econ_2022)
-- [CS25: Transformers United](https://web.stanford.edu/class/cs25/)
-- [Transformer Recipe](https://github.com/dair-ai/Transformers-Recipe)
-- [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/)  
-- [Stanford CS324 - Large Language Models](https://stanford-cs324.github.io/winter2022/)
-- [Hugging Face - LLM Course](https://huggingface.co/learn/llm-course/chapter1/1)
-
 ### Deep Learning Tutorials
 
 - [MIT 6.S191 Introduction to Deep Learning](http://introtodeeplearning.com/)
