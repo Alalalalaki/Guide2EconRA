@@ -8,6 +8,8 @@
 
 - Lefteris Jason Anastasopoulos - [Modern Text Analysis and Machine Learning for Social Research](https://github.com/ljanastas/UGA_POLS-8500-Machine-Learning-Text-Analysis) (R)
 - [NYU Text as Data Lab](https://github.com/leslie-huang/TextasDataLabSpring2020) (R)
+- [Paderborn: In­tro­duc­tion to Text Min­ing (winter 2020)](https://en.cs.uni-paderborn.de/css/teaching/courses/text-mining-w20)
+- Penn State: [Text as Data](https://burtmonroe.github.io/TextAsDataCourse/)
 - [Supervised Machine Learning for Text Analysis in R](https://smltar.com/)
 - Elliott Ash - [PhD course on text data in economics](https://github.com/elliottash/text_econ_2022)
 
