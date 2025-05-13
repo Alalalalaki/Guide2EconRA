@@ -1,4 +1,4 @@
-
+to-clean
 
 ---
 
@@ -14,14 +14,14 @@
 - Kevin P. Murphy - [Probabilistic Machine Learning](https://probml.github.io/pml-book/book1.html)
 - Simon J.D. Prince - [Understanding Deep Learning](https://udlbook.github.io/udlbook/)
 
-### Textbook - Python
+### Tutorial - Python
 
 - Andreas Mueller & Sarah Guido - [Introduction to Machine Learning with Python](https://github.com/amueller/introduction_to_ml_with_python)
 - François Chollet - [Deep Learning with Python](https://github.com/fchollet/deep-learning-with-python-notebooks)
 - D2L.ai - [Interactive Deep Learning Book with Multi-Framework Code, Math, and Discussions](https://github.com/d2l-ai/d2l-en)
 - Aurélien Geron - [Hands-on Machine Learning with Scikit-Learn, Keras and TensorFlow](https://github.com/ageron/handson-ml2)
 
-### Textbook - R
+### Tutorial - R
 
 - Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani - [An Introduction to Statistical Learning with Applications in R](https://www.statlearning.com/) 
 
