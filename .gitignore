@@ -1,3 +1,7 @@
+# reference files
+vibe_coding/ref*
+vibe_coding/example*
+
 # editor files
 *.sublime-workspace
 *.sublime-project

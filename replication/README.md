@@ -21,8 +21,14 @@
 - [A template README for social science replication packages](https://github.com/social-science-data-editors/template_README) 
 - [Template repository for research papers.](https://github.com/rdahis/paper_template)
 
+### Example of Replication Repository
 
+- Chetty, R., Stepner, M., Abraham, S., Lin, S., Scuderi, B., Turner, N., ... & Cutler, D. (2016). [The association between income and life expectancy in the United States, 2001-2014](https://github.com/michaelstepner/healthinequality-code/tree/main/code). Jama, 315(16), 1750-1766.
 
 ### More
 
 - [Data and Code Availability Standard](https://datacodestandard.org/about/)
+
+### Random
+
+- [Reproducibility and LLM](https://github.com/larsvilhuber/reproducibility-for-llm)

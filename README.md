@@ -105,6 +105,7 @@
 - Cliburn - [Computational Statistics and Statistical Computing](https://github.com/cliburn/sta-663-2021)
 - [The Hitchhiker's Guide to Data Science for Social Good](https://github.com/dssg/hitchhikers-guide)
 - [Geographic Data Science with Python](https://geographicdata.science/book/intro.html)
+- [Python Programming for Data Science](https://fall-2023-python-programming-for-data-science.readthedocs.io/en/latest/index.html#)
 
 
 
@@ -182,6 +183,7 @@
 - Jenny Bryan - [Data wrangling, exploration, and analysis with R](https://stat545.com/)
 - Mike Nguyen - [A Guide on Data Analysis](https://bookdown.org/mike/data_analysis/)
 - Jae Yeon Kim - [Computational Thinking for Social Scientists](https://jaeyk.github.io/comp_thinking_social_science/)
+- Cosma Rohilla Shalizi - [Advanced Data Analysis from an Elementary Point of View](https://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/)
 
 
 
@@ -224,6 +226,11 @@
 - Klaus-Robert Müller - [Julia programming for ML](https://adrhill.github.io/julia-ml-course/#julia_programming_for_ml) (Julia)
 
 
+
+## W/ LLM
+
+- Gábor Békés - [Doing Data Analysis with AI](https://gabors-data-analysis.com/ai-course/)
+- Harvard CS197: [AI Research Experiences](https://www.cs197.seas.harvard.edu/)
 
 ## Stata
 

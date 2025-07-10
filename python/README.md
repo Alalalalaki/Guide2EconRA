@@ -32,6 +32,7 @@
 
 ### Econometrics / Statistics
 
+- [Econometrics in Python](https://github.com/rawatpranjal/econometrics-in-python) (resource)
 - [statsmodels](https://www.statsmodels.org/stable/index.html)
 - [linearmodels](https://bashtage.github.io/linearmodels/)
 - [pingouin](https://pingouin-stats.org/)

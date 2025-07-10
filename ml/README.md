@@ -30,6 +30,7 @@ to-clean
 - UvA - [Machine Learning 1](https://uvaml1.github.io/)
 - [CompSci program UiO](https://www.youtube.com/watch?v=C8dL1pLUJ3A&list=PLIEKvjLjWd_fwRsIbdl1Aez5gbwsG8Wmc)
 - Andrew Ng - Machine Learning ([videos](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)/[notes](https://cs229.stanford.edu/main_notes.pdf)/[more](https://cs229.stanford.edu/))
+- CMU 36-708: [Statistical Methods for Machine Learning](https://www.stat.cmu.edu/~larry/=sml/)
 
 ### Deep Learning Tutorials
 

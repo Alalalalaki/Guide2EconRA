@@ -11,13 +11,15 @@
 - [Paderborn: In­tro­duc­tion to Text Min­ing (winter 2020)](https://en.cs.uni-paderborn.de/css/teaching/courses/text-mining-w20)
 - Penn State: [Text as Data](https://burtmonroe.github.io/TextAsDataCourse/)
 - [Supervised Machine Learning for Text Analysis in R](https://smltar.com/)
-- Elliott Ash - [PhD course on text data in economics](https://github.com/elliottash/text_econ_2022)
+- Elliott Ash - [PhD course on text data in economics](https://github.com/elliottash/text_econ_2022) / [Language Models for Law and Social Science](https://github.com/elliottash/lm_lss_2024) / [Text Algorithms in Economics](https://github.com/sekhansen/text_algorithms_econ)
+- JHU 601.472/672: [NLP for Computational Social Science](https://nlp-css-601-672.cs.jhu.edu/sp2024/)
 
 ### NLP/LLM Lectures (CS)
 
 - [Stanford CS224N: Natural Language Processing with Deep Learning](https://web.stanford.edu/class/cs224n/)
 - [Stanford CS324: Large Language Models](https://stanford-cs324.github.io/winter2022/)
 - [Stanford CS224U: Natural Language Understanding](https://web.stanford.edu/class/cs224u/index.h)
+- [Stanford CS336 Language Modeling from Scratch](https://www.youtube.com/watch?v=SQ3fZ1sAqXI&list=PLoROMvodv4rOY23Y0BoGoBGgQ1zmU_MT_)
 - [Stanford CS25: Transformers United](https://web.stanford.edu/class/cs25/)
 - [CMU CS11-711: Advanced Natural Language Processing](https://phontron.com/class/anlp2024/)
 - [Princeton: COS 484: Natural Language Processing](https://princeton-nlp.github.io/cos484/) 
