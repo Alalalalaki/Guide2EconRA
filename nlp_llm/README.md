@@ -21,6 +21,7 @@
 - [Stanford CS224U: Natural Language Understanding](https://web.stanford.edu/class/cs224u/index.h)
 - [Stanford CS336 Language Modeling from Scratch](https://www.youtube.com/watch?v=SQ3fZ1sAqXI&list=PLoROMvodv4rOY23Y0BoGoBGgQ1zmU_MT_)
 - [Stanford CS25: Transformers United](https://web.stanford.edu/class/cs25/)
+- [Stanford CME295: Transformers & Large Language Models](https://cme295.stanford.edu/)
 - [CMU CS11-711: Advanced Natural Language Processing](https://phontron.com/class/anlp2024/)
 - [Princeton: COS 484: Natural Language Processing](https://princeton-nlp.github.io/cos484/) 
 - [Princeton: COS 597R: Deep Dive into Large Language Models](https://princeton-cos597r.github.io/) 
@@ -60,10 +61,6 @@
 **Data**
 
 - [Argilla](https://github.com/argilla-io/argilla): a collaboration tool for AI engineers and domain experts who need to build high-quality datasets for their projects
-
-### Prompt Engineering
-
-- [Prompt Engineering Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)
 
 ### Random Resources
 

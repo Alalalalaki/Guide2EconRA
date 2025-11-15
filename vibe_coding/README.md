@@ -1,3 +1,47 @@
+
+
+(unsorted)
+
+### Prompt Engineering
+
+- [Prompt Engineering Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)
+- [Claude 4 prompt engineering best practices](https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/claude-4-best-practices#example-formatting-preferences)
+
+
+
+### Claude Code
+
+- [Claude Code: Best practices for agentic coding](https://www.anthropic.com/engineering/claude-code-best-practices) / [How Anthropic teams use Claude Code](https://www-cdn.anthropic.com/58284b19e702b49db9302d5b6f135ad8871e7658.pdf) / [Code w/ Claude](https://www.youtube.com/watch?v=gv0WHhKelSE)
+- [ClaudeLog](https://claudelog.com/)
+
+
+
+### Context Engineering
+
+- [How to Fix Your Context](https://github.com/langchain-ai/how_to_fix_your_context)
+
+
+
+### MCP
+
+- [Serena](https://github.com/oraios/serena): A powerful coding agent toolkit providing semantic retrieval and editing capabilities (MCP server & Agno integration)
+
+- [GitMCP](https://github.com/idosal/git-mcp)
+
+- [Claude-Flow v2.0.0 Alpha](https://github.com/ruvnet/claude-flow) / [Ultra MCP](https://github.com/realmikechong/ultra-mcp)
+
+- [Code Context](https://github.com/zilliztech/code-context)
+
+  
+
+### Agent
+
+- [Awesome Claude Code](https://github.com/hesreallyhim/awesome-claude-code)
+
+
+
+---
+
 (@vibe-vibe-coding)
 
 Based on my search of various online discussions and community resources, I've compiled comprehensive insights about Claude Code best practices. Here are the key useful findings:

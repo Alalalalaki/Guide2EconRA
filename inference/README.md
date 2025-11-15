@@ -15,6 +15,7 @@
 - Asjad Naqvi - [Diff-in-Diff-Literature](https://asjadnaqvi.github.io/DiD/)
 - Fernando Rios-Avila - [Playing with Stata](https://friosavila.github.io/playingwithstata/index.html)
 - [DID Handbook](https://github.com/IanHo2019/DID_Handbook)
+- [New DID Methods](https://yiqingxu.org/packages/fect/05-panel.html)
 
 
 
